@@ -1,0 +1,4001 @@
+age,gender,weather,Place_change,Socialmedia,Time(Hours),Suguest
+29,F,0,1,"IG, Line, Youtube",1,0
+28,M,0,1,"FB, IG, Twitter",1,1
+45,M,1,1,"IG, FB, Twitter",4,1
+30,F,1,1,"IG, WA, FB",8,1
+36,F,1,0,"IG, FB, Youtube",2,1
+50,F,1,1,"FB, IG, WA",8,1
+31,M,0,1,FB,5,1
+38,F,0,1,"FB, Linked In, Gmail",6,0
+30,F,1,1,"FB, Google, IG",6,1
+29,M,0,1,"WeChat, FB",3,1
+29,M,1,0,"IG, FB",2,0
+35,M,1,0,"IG, FB",3,0
+26,M,1,0,WA,2,1
+29,M,1,0,"WA, FB, IG",2,1
+45,M,1,0,"IG,Google",2,0
+39,F,1,0,"IG, Weibo, Twitter",8,0
+33,F,1,0,"IG, FB, Line",4,0
+34,F,1,0,"FB, Twitter, WA",2,0
+32,F,1,0,"FB, IG, Twitter",6,1
+30,F,1,0,"FB, IG, Youtube",8,1
+33,F,1,0,"FB, Google, IG",6,1
+33,F,1,0,"FB, IG",4,1
+33,F,0,0,"Youtube,IG",1,1
+60,F,0,0,"FB,IG",2,1
+62,F,1,0,"Twitter, IG",3,0
+65,F,1,0,"WA,IG",4,0
+28,M,0,0,"IG, FB",5,0
+28,M,0,0,"IG, FB, Twitter",6,1
+30,F,0,0,"IG, Path, Pinterest",8,1
+18,F,0,0,"IG, WA, Twitter",7,0
+24,F,0,0,"IG, WA",7,0
+32,M,0,0,"FB, WA, IG",5,1
+35,M,0,1,"IG, FB, Twitter",6,1
+32,M,0,0,"Path, Pinterest, Twitter",8,1
+34,F,0,1,"IG, FB, Twitter",8,1
+30,F,0,0,"IG, FB",7,0
+34,M,0,0,"Linked In, Twitter",4,0
+60,M,0,0,"Booking, Tripadvisor",1,1
+58,F,1,0,"IG, FB, Twitter",1,0
+48,M,1,0,"WA,FB",4,1
+54,M,1,0,"FB, IG, WA",3,1
+47,M,1,0,"email,IG",1,0
+55,M,0,0,"email, FB",1,1
+28,M,0,0,"Youtube,FB",2,0
+30,F,0,0,"FB,Snapchat",1,0
+23,F,0,0,"WA,email",5,1
+23,F,0,0,"WA, IG, Snapchat",5,1
+32,M,1,0,"IG, WA, Youtube",5,1
+17,F,0,1,"WA, IG, Snapchat",3,1
+32,M,0,0,"WA, IG, Snapchat",2,1
+32,F,1,0,"FB, IG, WA",3,1
+27,M,1,1,"IG, WA, Youtube",2,1
+28,M,0,0,"WA, IG, Snapchat",3,1
+33,M,0,0,"IG, WA, FB",6,1
+33,M,0,0,"IG, WA, FB",6,1
+33,M,0,0,"WA, IG, Snapchat",1,1
+28,M,0,1,"IG, WA",2,1
+28,F,0,1,"IG, WA",2,1
+28,M,0,1,"IG, WA",1,1
+28,F,0,1,"IG, WA",2,1
+28,M,0,1,"IG, WA",2,1
+65,M,0,0,"WA, FB",1,0
+70,M,0,0,"WA, IG, Snapchat",1,0
+39,M,0,0,FB,2,0
+16,F,0,1,"WA, IG, Google",2,1
+27,M,0,1,"WA, IG, FB",3,1
+43,F,0,1,"IG, WA, Youtube",1,1
+16,F,0,1,"WA, IG",1,1
+25,F,0,1,"WA, IG, Youtube",2,1
+25,M,1,0,"IG, FB",2,0
+29,M,1,1,"IG, Linkedln",4,1
+30,M,0,0,"IG, FB",2,1
+29,M,1,1,"IG, Linkedln",4,1
+30,M,0,0,"IG, FB",2,1
+34,F,0,0,"IG, Twitter, Youtube",6,1
+30,M,0,0,"IG, Twitter, Youtube",4,1
+24,F,0,1,"IG, FB",1,1
+32,M,0,0,"FB, WA, IG",8,1
+34,M,0,0,"IG, FB",8,1
+26,M,1,0,"Linkedln, IG",3,1
+26,M,0,1,"IG, WA, FB",8,1
+25,M,0,1,"WA, IG, Path",3,1
+55,M,1,0,"IG, WA, FB",2,1
+57,F,1,0,"IG, WA, FB",2,1
+28,M,0,1,"IG, WA, Youtube",5,1
+30,M,0,1,"FB, WA, IG",4,1
+25,M,0,0,"FB, WA, IG",6,1
+26,F,0,1,"IG, WA, Youtube",6,1
+25,M,0,0,"FB, WA, IG",6,1
+26,F,0,1,"IG, WA, Youtube",6,1
+34,F,0,1,"FB, WA, IG",8,1
+22,F,0,1,"IG, FB, Twitter",8,1
+25,M,0,1,"IG, FB",8,1
+33,M,0,1,"IG, FB, Twitter",8,1
+20,F,0,1,"IG, WA",2,1
+22,F,0,1,"IG, FB, Twitter",8,1
+22,M,0,1,"IG, FB, WA",8,1
+32,M,0,1,"IG, Twitter, FB",10,1
+22,F,0,1,"IG, FB, Twitter",8,1
+30,F,1,1,"IG, FB",1,1
+30,M,0,0,"Youtube, IG, Skype",3,1
+29,M,1,0,"Linkedin, IG",4,1
+83,F,0,0,"Youtube, FB",5,0
+28,M,0,0,"IG, FB",6,1
+31,M,0,1,"IG, FB, WA",8,1
+18,F,0,1,"IG. Twitter, FB",8,1
+19,F,0,1,"IG, Snapchat, Twitter",4,1
+19,F,0,1,"IG, Twitter, Snapchat",8,1
+24,M,1,1,"IG, WA, FB",1,1
+22,M,0,1,"IG, FB, IG",3,1
+23,M,0,1,"IG, WA",8,1
+22,M,0,1,"FB, IG",1,1
+20,F,0,0,"FB, WA, IG",2,1
+58,F,1,1,"WA, FB",1,1
+20,F,0,0,"Snapchat, IG",4,1
+52,F,0,0,"FB, WA, IG",3,0
+57,M,1,1,"FB, WA, IG",5,1
+49,F,1,0,"FB, IG",2,1
+58,F,1,0,"IG, FB",1,0
+60,M,0,0,"Booking, TA",1,1
+30,F,0,0,"IG, WA, FB",8,0
+30,F,0,0,"FB, IG, Line",5,0
+30,F,0,0,"IG, WA, FB",3,0
+30,F,0,0,"IG, Tinder",8,0
+24,M,0,0,IG,5,1
+26,M,0,1,"IG, FB",1,1
+30,F,0,0,"FB, WA, IG",2,0
+29,F,0,0,"IG, WA, FB",1,1
+23,F,0,0,"WA, FB",7,1
+26,F,0,1,"WA, FB, IMO",4,1
+26,F,0,1,"IG, FB",8,1
+32,F,0,0,"IG, WA",8,1
+26,M,0,1,"FB, WA",8,1
+30,M,0,0,"FB, IG",8,1
+28,M,0,1,"IG, WA",7,1
+29,M,0,1,"IG, FB, WA",2,1
+29,M,0,1,IG,7,0
+28,F,0,1,"IG, Gmail",1,1
+36,M,0,0,"IG, FB, WA",2,1
+22,F,0,0,"IG, FB, WA",2,1
+18,M,0,1,"IG, FB, WA",2,1
+20,M,0,1,"IG, FB",2,1
+20,M,0,0,"IG, FB, Twitter",2,1
+25,M,0,0,"IG, FB, Twiter",8,0
+39,F,0,1,"WA, Hellp Pal",3,1
+25,M,0,1,"Line, Hello Pal",5,1
+45,M,0,1,"FB, WA, IG",5,0
+28,M,0,1,"WA, IG",1,0
+36,M,0,1,"WA, FB, IG",5,0
+28,F,0,1,"FB, WA, IG",2,1
+21,F,0,1,"IG, WA",7,1
+26,M,0,1,"IG, FB",1,1
+26,M,0,1,"IG, FB",1,1
+35,M,0,1,"IG, FB",3,1
+21,M,1,1,"IG, FB, Youtube",5,1
+26,M,0,1,"IMO, WA, IG",1,1
+23,F,0,1,"IG, FB",5,0
+35,F,0,1,"IG, FB, GMail",2,1
+34,F,0,1,"Gojek, Grab, BCA",4,1
+22,M,1,1,"FB, IG, Line",3,1
+29,M,0,1,"WA, FB, Telegram",5,0
+21,M,1,1,"IG, WA, FB",5,1
+26,M,0,1,"LOL, PUBG",2,1
+24,F,0,0,IG,2,1
+16,F,0,0,"Tik tok, IG, Spotify",2,1
+33,M,0,0,"WA, IG",5,1
+35,M,0,0,"WA, IG",8,1
+30,M,0,0,"Tik tok, IG, Spotify",23,1
+12,M,0,0,IG,5,1
+22,M,1,0,FB,9,0
+52,M,1,0,TWITTER,2,0
+23,F,1,0,IG,6,1
+34,M,0,1,LINKEDIN,2,0
+44,M,0,0,FB,1,1
+23,F,0,0,IG,4,1
+40,M,0,0,YOUTUBE,5,1
+20,M,0,0,IG,6,1
+34,F,1,0,YOUTUBE,5,1
+45,M,0,0,TWITTER,5,1
+40,F,1,0,YOUTUBE,2,1
+25,M,1,0,FB,2,1
+45,F,0,1,"FB,YOUTUBE",5,1
+49,M,0,0,"IG, youtube",3,1
+24,F,0,0,IG,2,1
+25,F,1,1,FB,6,1
+19,M,1,0,TWITTER,7,1
+25,M,1,0,FB,6,1
+15,M,1,0,YOUTUBE,5,1
+45,M,1,0,IG,2,1
+67,M,0,0,YOUTUBE,7,1
+42,M,0,1,SNAPCHAT,2,1
+34,F,0,0,FB,4,1
+15,M,1,1,SNAPCHAT,4,0
+56,M,0,0,WA,5,0
+14,M,0,0,WA,6,1
+56,F,1,0,YOUTUBE,6,1
+34,F,0,0,FB,6,0
+21,F,1,1,WA,6,1
+34,M,1,1,FB,6,1
+14,F,0,0,IG,7,1
+18,F,1,1,WA,4,1
+16,F,0,0,WA,4,1
+23,M,0,0,YOUTUBE,2,1
+56,F,1,1,WA,6,1
+23,F,1,1,FB,6,1
+24,M,0,0,FB,6,0
+17,M,0,0,YOUTUBE,3,0
+14,m,0,1,FB,6,1
+56,F,1,0,SNAPCHAT,3,1
+27,M,0,0,LINKEDIN,4,1
+24,M,0,0,IG,4,1
+34,M,0,0,WA,3,0
+19,M,0,0,SNAPCHAT,3,0
+19,F,0,0,IMO,4,0
+29,M,0,0,"IG, Line, Youtube",3,0
+28,M,1,0,"FB, IG, Twitter",5,0
+45,F,1,1,"IG, FB, Twitter",9,1
+30,M,1,1,"IG, WA, FB",2,1
+36,M,1,1,"IG, FB, Youtube",6,1
+50,M,1,1,"FB, IG, WA",2,0
+31,M,1,0,FB,1,0
+38,M,0,0,"FB, Linked In, Gmail",4,0
+30,F,1,1,"FB, Google, IG",5,0
+29,F,1,0,"WeChat, FB",6,0
+29,F,0,1,"IG, FB",5,0
+35,M,0,1,"IG, FB",5,0
+26,F,1,1,WA,2,0
+29,M,1,1,"WA, FB, IG",2,0
+45,F,0,1,"IG,Google",5,0
+39,M,0,1,"IG, Weibo, Twitter",3,0
+33,M,0,1,"IG, FB, Line",2,0
+34,M,0,1,"FB, Twitter, WA",6,0
+32,M,1,1,"FB, IG, Twitter",7,0
+30,M,1,1,"FB, IG, Youtube",6,0
+33,M,1,1,"FB, Google, IG",5,0
+33,F,1,1,"FB, IG",2,0
+33,M,1,0,"Youtube,IG",7,0
+60,F,1,0,"FB,IG",2,0
+62,M,0,1,"Twitter, IG",4,0
+65,M,0,1,"WA,IG",4,0
+28,M,0,0,"IG, FB",5,0
+28,M,1,0,"IG, FB, Twitter",6,0
+30,F,1,0,"IG, Path, Pinterest",6,0
+18,M,0,0,"IG, WA, Twitter",6,0
+24,F,0,0,"IG, WA",6,1
+32,F,1,0,"FB, WA, IG",6,0
+35,F,1,0,"IG, FB, Twitter",7,0
+32,M,1,0,"Path, Pinterest, Twitter",4,0
+34,M,1,0,"IG, FB, Twitter",4,0
+30,M,0,0,"IG, FB",2,0
+34,M,0,0,"Linked In, Twitter",6,0
+60,M,1,0,"Booking, Tripadvisor",6,0
+58,F,0,1,"IG, FB, Twitter",6,0
+48,M,1,1,"WA,FB",3,0
+54,F,1,1,"FB, IG, WA",6,1
+47,M,0,1,"email,IG",3,0
+55,M,1,0,"email, FB",4,0
+28,M,0,0,"Youtube,FB",4,0
+30,M,0,0,"FB,Snapchat",3,0
+23,M,1,0,"WA,email",3,1
+23,M,1,0,"WA, IG, Snapchat",4,0
+32,F,1,1,"IG, WA, Youtube",2,1
+17,M,1,0,"WA, IG, Snapchat",1,0
+32,M,1,0,"WA, IG, Snapchat",4,0
+32,M,1,1,"FB, IG, WA",8,0
+27,F,1,1,"IG, WA, Youtube",2,0
+28,M,1,0,"WA, IG, Snapchat",8,0
+33,F,1,0,"IG, WA, FB",5,0
+33,F,1,0,"IG, WA, FB",6,0
+33,F,1,0,"WA, IG, Snapchat",6,1
+28,M,1,0,"IG, WA",3,1
+28,M,1,0,"IG, WA",2,1
+28,F,1,0,"IG, WA",3,0
+28,F,1,0,"IG, WA",2,0
+28,M,1,0,"IG, WA",2,0
+65,M,0,0,"WA, FB",2,0
+70,F,0,0,"WA, IG, Snapchat",8,0
+39,F,0,0,FB,4,1
+16,M,1,0,"WA, IG, Google",2,0
+27,M,1,0,"WA, IG, FB",6,1
+43,F,1,0,"IG, WA, Youtube",8,1
+16,M,1,0,"WA, IG",6,0
+25,M,1,0,"WA, IG, Youtube",4,0
+25,F,0,1,"IG, FB",1,0
+29,F,1,1,"IG, Linkedln",2,1
+30,F,1,0,"IG, FB",3,1
+29,M,1,1,"IG, Linkedln",4,1
+30,M,1,0,"IG, FB",5,1
+34,M,1,0,"IG, Twitter, Youtube",6,1
+30,M,1,0,"IG, Twitter, Youtube",8,0
+24,F,1,0,"IG, FB",7,0
+32,F,1,0,"FB, WA, IG",7,0
+34,F,1,0,"IG, FB",5,1
+26,F,1,1,"Linkedln, IG",6,0
+26,M,1,0,"IG, WA, FB",8,0
+25,F,1,0,"WA, IG, Path",8,1
+55,F,1,1,"IG, WA, FB",7,0
+57,M,1,1,"IG, WA, FB",4,1
+28,F,1,0,"IG, WA, Youtube",1,1
+30,F,1,0,"FB, WA, IG",1,0
+25,F,1,0,"FB, WA, IG",4,1
+26,F,1,0,"IG, WA, Youtube",3,0
+25,M,1,0,"FB, WA, IG",1,0
+26,M,1,0,"IG, WA, Youtube",1,1
+34,F,1,0,"FB, WA, IG",2,1
+22,F,1,0,"IG, FB, Twitter",1,0
+25,F,1,0,"IG, FB",5,0
+33,F,1,0,"IG, FB, Twitter",5,0
+20,F,1,0,"IG, WA",5,1
+22,F,1,0,"IG, FB, Twitter",3,0
+22,M,1,0,"IG, FB, WA",2,0
+32,M,1,0,"IG, Twitter, FB",3,0
+22,M,1,0,"IG, FB, Twitter",2,0
+30,M,1,1,"IG, FB",3,0
+30,M,1,0,"Youtube, IG, Skype",6,0
+29,F,1,1,"Linkedin, IG",6,1
+83,M,0,0,"Youtube, FB",1,1
+28,F,1,0,"IG, FB",2,1
+31,M,1,0,"IG, FB, WA",2,1
+18,M,1,0,"IG. Twitter, FB",1,1
+19,M,1,0,"IG, Snapchat, Twitter",2,1
+19,M,1,0,"IG, Twitter, Snapchat",2,0
+24,F,1,1,"IG, WA, FB",1,1
+22,M,1,0,"IG, FB, IG",1,1
+23,M,1,0,"IG, WA",2,0
+22,M,1,0,"FB, IG",2,0
+20,M,1,0,"FB, WA, IG",3,1
+58,F,1,1,"WA, FB",1,1
+20,F,1,0,"Snapchat, IG",1,0
+52,M,0,0,"FB, WA, IG",2,0
+57,M,1,1,"FB, WA, IG",2,0
+49,M,1,1,"FB, IG",4,0
+58,M,0,1,"IG, FB",2,1
+60,M,1,0,"Booking, TA",4,1
+30,F,0,0,"IG, WA, FB",2,1
+30,F,0,0,"FB, IG, Line",6,1
+30,F,0,0,"IG, WA, FB",4,1
+30,M,0,0,"IG, Tinder",1,1
+24,M,1,0,IG,8,0
+26,M,1,0,"IG, FB",8,0
+30,M,0,0,"FB, WA, IG",3,0
+29,F,1,0,"IG, WA, FB",8,1
+23,F,1,0,"WA, FB",3,1
+26,M,1,0,"WA, FB, IMO",2,0
+26,M,1,0,"IG, FB",2,0
+32,M,1,0,"IG, WA",5,1
+26,M,1,0,"FB, WA",4,1
+30,M,1,0,"FB, IG",6,1
+28,M,1,0,"IG, WA",6,1
+29,F,1,0,"IG, FB, WA",6,0
+29,M,0,0,IG,6,0
+28,M,1,0,"IG, Gmail",8,1
+36,F,1,0,"IG, FB, WA",8,0
+22,M,1,0,"IG, FB, WA",8,1
+18,M,1,0,"IG, FB, WA",8,1
+20,F,1,0,"IG, FB",2,0
+20,M,1,0,"IG, FB, Twitter",8,1
+25,F,0,0,"IG, FB, Twiter",8,0
+39,M,1,0,"WA, Hellp Pal",10,0
+25,F,1,0,"Line, Hello Pal",8,1
+45,M,0,0,"FB, WA, IG",1,1
+28,F,0,0,"WA, IG",3,1
+36,F,0,0,"WA, FB, IG",4,1
+28,M,1,0,"FB, WA, IG",5,1
+21,M,1,0,"IG, WA",6,1
+26,M,1,0,"IG, FB",8,1
+26,M,1,0,"IG, FB",8,1
+35,M,1,0,"IG, FB",4,1
+21,M,1,1,"IG, FB, Youtube",8,1
+26,F,1,0,"IMO, WA, IG",1,1
+23,M,0,0,"IG, FB",3,1
+35,M,1,0,"IG, FB, GMail",8,1
+34,M,1,0,"Gojek, Grab, BCA",1,1
+22,F,1,1,"FB, IG, Line",2,1
+29,F,0,0,"WA, FB, Telegram",1,1
+21,F,1,1,"IG, WA, FB",4,0
+26,M,1,0,"LOL, PUBG",3,0
+24,F,1,0,IG,5,0
+16,F,1,0,"Tik tok, IG, Spotify",2,1
+33,F,1,0,"WA, IG",1,1
+35,M,1,0,"WA, IG",1,1
+30,F,1,0,"Tik tok, IG, Spotify",8,1
+12,F,1,0,IG,5,1
+22,M,0,1,FB,3,0
+52,M,0,1,TWITTER,8,1
+23,m,1,1,IG,5,1
+34,F,0,0,LINKEDIN,1,1
+44,M,1,0,FB,2,1
+23,M,1,0,IG,1,1
+40,M,1,0,YOUTUBE,7,1
+20,M,1,0,IG,4,1
+34,F,1,1,YOUTUBE,8,1
+45,F,1,0,TWITTER,8,1
+40,M,1,1,YOUTUBE,8,1
+25,M,1,1,FB,8,1
+45,F,1,0,"FB,YOUTUBE",7,1
+49,F,1,0,"IG, youtube",2,1
+24,F,1,0,IG,7,1
+25,M,1,1,FB,1,1
+19,F,1,1,TWITTER,2,1
+25,F,1,1,FB,2,1
+15,M,1,1,YOUTUBE,2,1
+45,M,1,1,IG,2,1
+67,M,1,0,YOUTUBE,2,1
+42,M,1,0,SNAPCHAT,8,1
+34,M,1,0,FB,3,1
+15,M,0,1,SNAPCHAT,5,1
+56,F,0,0,WA,5,1
+14,F,1,0,WA,1,1
+56,F,1,1,YOUTUBE,5,1
+34,F,0,0,FB,2,1
+21,F,1,1,WA,7,1
+34,F,1,1,FB,1,1
+14,F,1,0,IG,1,1
+18,F,1,1,WA,3,1
+16,F,1,0,WA,5,1
+23,F,1,0,YOUTUBE,1,0
+56,F,1,1,WA,5,1
+23,M,1,1,FB,2,1
+24,M,0,0,FB,4,1
+17,F,0,0,YOUTUBE,3,1
+14,F,1,0,FB,5,1
+56,F,1,1,SNAPCHAT,5,1
+27,M,1,0,LINKEDIN,2,1
+24,M,1,0,IG,2,1
+34,M,0,0,WA,2,1
+19,F,0,0,SNAPCHAT,5,1
+19,F,0,0,IMO,8,1
+29,F,0,0,"WA, IG",2,1
+23,F,1,1,"WA, FB, IG",3,0
+26,F,1,1,"FB, WA, IG",2,1
+26,M,1,0,"IG, WA",2,1
+32,M,1,1,"IG, FB",2,0
+26,F,1,1,"IG, FB",8,1
+30,F,1,1,"IG, FB",4,0
+28,F,1,1,"IG, FB, Youtube",2,0
+29,M,1,1,"IMO, WA, IG",6,0
+29,M,1,1,"IG, FB",8,0
+28,M,1,1,"IG, FB, GMail",6,1
+36,F,1,1,"Gojek, Grab, BCA",4,1
+22,F,1,0,"FB, IG, Line",1,0
+18,M,1,0,"WA, FB, Telegram",2,1
+20,M,1,1,"IG, WA, FB",3,1
+20,F,1,1,"LOL, PUBG",4,1
+25,M,1,1,IG,5,1
+39,M,1,1,"Tik tok, IG, Spotify",6,1
+25,M,1,0,"WA, IG",8,1
+45,M,1,0,"WA, IG",7,1
+28,M,1,0,"Tik tok, IG, Spotify",7,1
+36,F,1,0,IG,5,1
+28,F,1,1,FB,6,0
+21,F,1,1,TWITTER,8,1
+26,M,1,1,IG,8,1
+26,F,1,1,LINKEDIN,7,1
+35,M,1,1,FB,4,1
+21,F,1,1,IG,1,1
+26,M,1,1,YOUTUBE,1,1
+23,M,1,1,IG,4,0
+35,M,1,1,YOUTUBE,3,1
+34,M,1,1,TWITTER,1,1
+22,M,1,1,YOUTUBE,1,0
+29,M,0,1,FB,2,0
+21,F,1,1,"FB,YOUTUBE",1,0
+26,M,1,1,"IG, youtube",5,1
+24,F,1,1,IG,5,1
+16,M,1,1,FB,5,1
+33,M,1,1,TWITTER,3,1
+35,M,1,1,FB,2,1
+30,M,1,1,YOUTUBE,3,1
+12,F,1,1,IG,2,1
+22,M,1,1,YOUTUBE,3,0
+52,F,1,1,SNAPCHAT,6,1
+23,F,1,1,FB,6,1
+34,F,1,1,SNAPCHAT,1,1
+44,M,0,1,WA,2,0
+23,M,1,1,WA,2,1
+40,M,1,1,YOUTUBE,1,1
+20,M,0,1,FB,2,1
+34,M,1,1,WA,2,1
+45,F,0,1,FB,1,1
+40,M,0,1,IG,1,1
+25,F,0,1,WA,2,1
+45,M,0,0,WA,2,1
+49,M,1,1,YOUTUBE,2,0
+24,M,1,1,WA,1,0
+25,M,0,1,FB,4,1
+19,M,1,1,FB,8,0
+25,M,1,1,YOUTUBE,2,1
+15,F,1,1,FB,8,1
+45,M,1,1,SNAPCHAT,5,1
+67,M,1,1,LINKEDIN,6,1
+42,M,1,1,IG,6,1
+34,F,1,1,WA,3,1
+15,M,1,1,SNAPCHAT,2,1
+56,F,1,1,IMO,3,1
+14,F,0,0,"IG, Line, Youtube",2,1
+56,F,1,1,"FB, IG, Twitter",2,1
+34,M,1,1,"IG, FB, Twitter",2,1
+21,M,1,0,"IG, WA, FB",8,1
+34,F,1,1,"IG, FB, Youtube",4,1
+14,F,1,0,"FB, IG, WA",2,1
+18,M,1,0,FB,6,1
+16,M,0,0,"FB, Linked In, Gmail",8,1
+23,F,1,0,"FB, Google, IG",6,1
+56,F,1,1,"WeChat, FB",4,1
+23,M,0,1,"IG, FB",1,1
+24,M,0,0,"IG, FB",2,0
+17,F,0,1,WA,3,0
+14,M,1,1,"WA, FB, IG",4,1
+56,M,1,1,"IG,Google",5,1
+27,F,1,1,"IG, Weibo, Twitter",6,0
+24,F,1,1,"IG, FB, Line",8,1
+34,F,1,1,"FB, Twitter, WA",7,1
+19,M,1,1,"FB, IG, Twitter",7,1
+19,M,1,1,"FB, IG, Youtube",5,1
+20,M,0,1,"FB, Google, IG",6,1
+22,M,1,0,"FB, IG",8,1
+23,F,1,1,"Youtube,IG",8,1
+29,F,1,1,"FB,IG",7,1
+28,F,0,1,"Twitter, IG",4,0
+45,F,1,1,"WA,IG",1,0
+30,M,1,1,"IG, FB",1,1
+36,F,1,1,"IG, FB, Twitter",4,1
+50,F,1,0,"IG, Path, Pinterest",3,1
+31,M,1,1,"IG, WA, Twitter",1,1
+38,F,1,1,"IG, WA",1,0
+30,F,1,0,"FB, WA, IG",2,0
+29,F,1,0,"IG, FB, Twitter",1,0
+29,F,0,0,"Path, Pinterest, Twitter",5,0
+35,M,0,1,"IG, FB, Twitter",5,0
+26,M,1,1,"IG, FB",5,1
+29,F,0,1,"Linked In, Twitter",3,1
+45,F,1,1,"Booking, Tripadvisor",2,1
+39,F,1,1,"IG, FB, Twitter",3,0
+33,F,1,1,"WA,FB",2,0
+34,F,1,1,"FB, IG, WA",3,0
+32,F,1,0,"email,IG",6,0
+30,M,1,1,"email, FB",6,0
+33,M,1,1,"Youtube,FB",1,0
+33,M,1,1,"FB,Snapchat",2,0
+33,M,1,0,"WA,email",2,0
+60,M,1,1,"WA, IG, Snapchat",1,0
+62,F,1,1,"IG, WA, Youtube",2,0
+65,M,1,1,"WA, IG, Snapchat",2,0
+28,F,1,1,"WA, IG, Snapchat",1,0
+28,M,1,1,"FB, IG, WA",1,0
+30,M,1,1,"IG, WA, Youtube",2,0
+18,M,1,1,"WA, IG, Snapchat",2,0
+24,M,1,1,"IG, WA, FB",3,0
+32,F,1,0,"IG, WA, FB",1,0
+35,M,1,0,"WA, IG, Snapchat",1,0
+32,M,0,1,"IG, WA",2,0
+34,M,0,0,"IG, WA",2,0
+30,M,1,1,"IG, WA",4,0
+34,F,1,1,"IG, WA",2,0
+60,F,0,1,"IG, WA",4,0
+58,M,1,1,"WA, FB",2,0
+48,M,1,1,"WA, IG, Snapchat",6,0
+54,M,1,1,FB,4,1
+47,M,1,1,"WA, IG, Google",1,0
+55,M,1,1,"WA, IG, FB",8,0
+28,F,1,1,"IG, WA, Youtube",8,0
+30,F,1,1,"WA, IG",3,0
+23,F,1,1,"WA, IG, Youtube",8,0
+23,M,0,1,"IG, FB",3,0
+32,M,0,1,"IG, Linkedln",2,0
+17,M,1,1,"IG, FB",2,0
+32,M,1,1,"IG, Linkedln",5,0
+32,F,1,1,"IG, FB",4,1
+27,F,1,1,"IG, Twitter, Youtube",6,0
+28,M,0,1,"IG, Twitter, Youtube",6,0
+33,M,0,1,"IG, FB",6,0
+33,M,0,0,"FB, WA, IG",6,0
+33,M,1,0,"IG, FB",8,1
+28,M,1,1,"Linkedln, IG",8,0
+28,M,1,1,"IG, WA, FB",8,1
+28,F,1,0,"WA, IG, Path",8,0
+28,M,1,1,"IG, WA, FB",2,0
+28,M,0,1,"IG, WA, FB",8,0
+65,F,1,1,"IG, WA, Youtube",8,0
+70,M,1,1,"FB, WA, IG",10,0
+39,M,1,1,"FB, WA, IG",8,0
+16,F,0,1,"IG, WA, Youtube",1,0
+27,M,1,1,"FB, WA, IG",3,1
+43,F,1,1,"IG, WA, Youtube",4,1
+16,M,1,0,"FB, WA, IG",5,1
+25,F,1,0,"IG, FB, Twitter",6,0
+25,M,1,1,"IG, FB",8,0
+29,F,1,1,"IG, FB, Twitter",8,0
+30,F,1,1,"IG, WA",4,0
+29,M,1,1,"IG, FB, Twitter",8,0
+30,M,0,1,"IG, FB, WA",1,1
+34,M,0,0,"IG, Twitter, FB",3,0
+30,M,1,1,"IG, FB, Twitter",8,1
+24,M,0,1,"IG, FB",1,1
+32,M,1,1,"Youtube, IG, Skype",2,0
+34,F,1,0,"Linkedin, IG",1,0
+26,M,1,1,"Youtube, FB",4,0
+26,M,1,0,"WA, IG",3,1
+25,M,1,0,"WA, FB, IG",5,1
+55,F,1,0,"FB, WA, IG",2,1
+57,F,1,0,"IG, WA",6,1
+28,F,1,1,"IG, FB",6,1
+30,M,1,1,"IG, FB",3,0
+25,F,1,0,"IG, FB",2,0
+26,F,1,1,"IG, FB, Youtube",3,0
+25,F,1,1,"IMO, WA, IG",2,1
+26,M,1,1,"IG, FB",2,0
+34,F,1,1,"IG, FB, GMail",2,0
+22,F,1,1,"Gojek, Grab, BCA",8,1
+25,M,1,1,"FB, IG, Line",4,0
+33,M,1,1,"WA, FB, Telegram",2,1
+20,M,1,1,"IG, WA, FB",6,1
+22,F,1,0,"LOL, PUBG",8,0
+22,M,0,0,IG,6,1
+32,M,0,1,"Tik tok, IG, Spotify",4,0
+22,M,1,1,"WA, IG",1,0
+30,M,1,1,"WA, IG",2,1
+30,F,0,1,"Tik tok, IG, Spotify",3,1
+29,M,1,0,IG,4,0
+83,M,1,0,FB,5,0
+28,F,1,0,TWITTER,6,0
+31,M,1,0,IG,8,1
+18,M,1,1,LINKEDIN,7,0
+19,M,1,1,FB,7,0
+19,M,1,1,IG,5,0
+24,M,1,1,YOUTUBE,6,0
+22,F,0,1,IG,8,0
+23,F,0,1,YOUTUBE,8,1
+22,F,1,1,TWITTER,7,1
+20,M,1,1,YOUTUBE,4,1
+58,F,1,1,FB,1,1
+20,M,1,1,"FB,YOUTUBE",1,1
+52,F,0,1,"IG, youtube",4,1
+57,M,0,1,IG,3,0
+49,M,0,1,FB,1,0
+58,M,0,1,TWITTER,1,1
+60,M,1,1,FB,2,1
+30,M,1,1,YOUTUBE,1,0
+30,M,1,1,IG,5,1
+30,F,1,1,YOUTUBE,5,1
+30,M,1,1,SNAPCHAT,5,1
+24,F,1,1,FB,3,0
+26,M,1,1,SNAPCHAT,2,0
+30,M,1,1,WA,3,1
+29,M,1,1,WA,2,0
+23,M,1,1,YOUTUBE,3,1
+26,F,1,1,FB,6,1
+26,M,1,1,WA,6,1
+32,F,1,1,FB,1,1
+26,F,1,1,IG,2,1
+30,F,1,1,WA,2,1
+28,F,1,1,WA,1,0
+29,F,1,1,YOUTUBE,2,1
+29,M,1,1,WA,2,1
+28,M,1,0,FB,1,1
+36,F,1,1,FB,1,0
+22,F,1,1,YOUTUBE,2,1
+18,F,1,1,FB,2,0
+20,M,1,1,SNAPCHAT,3,0
+20,M,1,1,LINKEDIN,1,0
+25,M,1,1,IG,1,1
+39,F,1,1,WA,2,0
+25,F,1,1,SNAPCHAT,2,1
+45,M,1,1,IMO,4,1
+28,M,1,1,"IG, Line, Youtube",2,1
+36,F,1,1,"FB, IG, Twitter",4,1
+28,M,1,1,"IG, FB, Twitter",2,1
+21,M,1,0,"IG, WA, FB",6,1
+26,M,0,1,"IG, FB, Youtube",4,1
+26,M,1,1,"FB, IG, WA",1,1
+35,M,1,0,FB,8,1
+21,F,1,1,"FB, Linked In, Gmail",8,1
+26,F,1,0,"FB, Google, IG",3,0
+23,F,1,0,"WeChat, FB",8,1
+35,M,1,0,"IG, FB",3,1
+34,F,1,0,"IG, FB",2,0
+22,M,1,1,WA,2,1
+29,F,1,1,"WA, FB, IG",5,1
+21,M,1,0,"IG,Google",4,1
+26,M,1,1,"IG, Weibo, Twitter",6,1
+24,M,1,1,"IG, FB, Line",6,0
+16,M,0,1,"FB, Twitter, WA",6,0
+33,M,1,1,"FB, IG, Twitter",6,1
+35,M,1,1,"FB, IG, Youtube",8,1
+30,F,0,1,"FB, Google, IG",8,0
+12,M,1,1,"FB, IG",8,1
+22,F,0,1,"Youtube,IG",8,1
+52,M,0,1,"FB,IG",2,0
+23,M,0,0,"Twitter, IG",8,0
+34,M,0,1,"WA,IG",8,1
+44,M,1,1,"IG, FB",10,1
+23,F,1,1,"IG, FB, Twitter",8,1
+40,M,0,1,"IG, Path, Pinterest",1,1
+20,F,1,1,"IG, WA, Twitter",3,1
+34,F,1,1,"IG, WA",4,1
+45,F,1,0,"FB, WA, IG",5,1
+40,M,1,1,"IG, FB, Twitter",6,1
+25,M,1,1,"Path, Pinterest, Twitter",8,1
+45,M,1,0,"IG, FB, Twitter",8,1
+49,M,1,0,"IG, FB",4,1
+24,M,1,0,"Linked In, Twitter",8,0
+25,F,1,1,"Booking, Tripadvisor",1,1
+19,M,0,1,"IG, FB, Twitter",3,1
+25,F,1,1,"WA,FB",8,1
+15,M,1,1,"FB, IG, WA",1,0
+45,M,1,1,"email,IG",2,1
+67,M,1,1,"email, FB",1,0
+42,M,1,1,"Youtube,FB",4,1
+34,M,1,0,"FB,Snapchat",3,1
+15,M,0,1,"WA,email",5,1
+56,F,1,1,"WA, IG, Snapchat",2,1
+14,M,1,1,"IG, WA, Youtube",1,0
+56,M,0,0,"WA, IG, Snapchat",1,1
+34,M,0,1,"WA, IG, Snapchat",8,1
+21,F,0,1,"FB, IG, WA",5,1
+34,M,1,1,"IG, WA, Youtube",3,0
+14,F,1,1,"WA, IG, Snapchat",8,1
+18,F,1,1,"IG, WA, FB",5,0
+16,F,1,1,"IG, WA, FB",1,1
+23,M,1,1,"WA, IG, Snapchat",2,1
+56,M,1,1,"IG, WA",1,1
+23,F,1,0,"IG, WA",7,1
+24,F,0,0,"IG, WA",4,1
+17,M,1,1,"IG, WA",8,1
+14,M,1,0,"IG, WA",8,1
+56,F,1,1,"WA, FB",8,1
+27,F,0,1,"WA, IG, Snapchat",8,1
+24,M,1,1,FB,7,1
+34,M,1,1,"WA, IG, Google",2,0
+19,F,1,1,"WA, IG, FB",7,1
+19,M,1,1,"IG, WA, Youtube",1,1
+29,M,1,1,"WA, IG",2,1
+28,F,1,1,"WA, IG, Youtube",2,1
+45,F,1,1,"IG, FB",2,1
+30,F,1,1,"IG, Linkedln",2,1
+36,M,0,1,"IG, FB",2,0
+50,M,0,1,"IG, Linkedln",8,0
+31,M,1,1,"IG, FB",3,1
+38,M,0,1,"IG, Twitter, Youtube",5,0
+30,F,1,1,"IG, Twitter, Youtube",5,1
+29,F,1,1,"IG, FB",1,0
+29,F,1,1,"FB, WA, IG",5,1
+35,F,1,1,"IG, FB",2,0
+26,M,1,1,"Linkedln, IG",7,0
+29,F,1,0,"IG, WA, FB",1,0
+45,F,1,0,"WA, IG, Path",1,0
+39,M,1,1,"IG, WA, FB",3,1
+33,F,1,1,"IG, WA, FB",5,1
+34,F,1,0,"IG, WA, Youtube",1,0
+32,F,1,1,"FB, WA, IG",5,0
+30,F,1,1,"FB, WA, IG",2,1
+33,M,1,1,"IG, WA, Youtube",4,0
+33,M,1,1,"FB, WA, IG",3,1
+33,F,1,1,"IG, WA, Youtube",5,1
+60,F,1,1,"FB, WA, IG",5,1
+62,F,1,1,"IG, FB, Twitter",2,0
+65,F,1,1,"IG, FB",2,1
+28,F,1,0,"IG, FB, Twitter",2,1
+28,F,0,0,"IG, WA",5,1
+30,M,0,1,"IG, FB, Twitter",8,0
+18,M,1,1,"IG, FB, WA",23,0
+24,M,1,1,"IG, Twitter, FB",5,0
+32,M,0,1,"IG, FB, Twitter",9,0
+35,M,1,0,"IG, FB",2,1
+32,F,1,0,"Youtube, IG, Skype",6,0
+34,M,1,1,"Linkedin, IG",2,1
+30,F,1,1,"Youtube, FB",1,1
+34,M,1,0,"Tik tok, IG, Spotify",4,1
+60,M,1,1,"Tik tok, IG, Spotify",5,1
+58,M,1,1,"FB, Tinder",6,1
+48,M,1,1,"FB, IG",5,1
+54,F,0,1,"IG, FB",5,1
+47,M,0,1,"IG, Line, WA",2,1
+55,M,1,0,"WA, Google, Mail",2,0
+28,M,1,0,Not use,5,0
+30,M,1,0,"Wa, FB",3,1
+23,F,1,0,i done use any,2,1
+23,F,0,0,"Bit Coin, WA",6,0
+32,M,0,0,WA,7,1
+17,M,0,1,"IG, Line, WA",6,1
+32,M,0,1,"FB, IG, Snapchat",5,1
+32,M,0,0,"Tik tok, IG, Spotify",2,0
+27,M,0,0,WA,7,0
+28,F,0,1,Snapchat,2,1
+33,F,0,1,"IG, WA, Tinder",4,0
+33,F,0,1,"Line, IG, Twitter",4,1
+33,M,0,1,"Ig, Snapchat, FB",5,1
+28,M,0,1,"FB, Twitter",6,1
+28,M,0,1,"IG, FB",6,1
+28,M,0,1,"IG, Twitter",6,1
+28,F,0,1,"WA, FB, Gmail",6,1
+28,F,0,1,"IG, FB, WA",6,0
+65,M,0,1,"IG, FB, Gmail, Hangout",7,1
+70,M,0,0,"IG, Email, Youtube",4,1
+39,M,0,1,"IG, Camera",4,1
+16,M,0,1,"IG, FB, Twitter",2,0
+27,M,0,0,"IG, WA",6,1
+43,M,0,1,"IG, Email, Youtube",6,0
+16,F,0,1,"IG, FB, Pinterest",6,0
+25,M,0,0,"WA, Google",3,0
+25,M,0,0,"WA, FB",6,1
+29,F,0,0,"email, FB",3,0
+30,M,0,1,"IG, FB, Pinterest",4,1
+29,M,0,0,"IG, FB",4,1
+30,F,0,0,"FB, IG",3,1
+34,M,0,0,"IG, WA",3,1
+30,F,0,1,"IG, FB",4,1
+24,M,0,0,"WA, FB",3,1
+32,F,1,1,"IG, FB, Line",5,1
+34,M,1,1,"IG, FB, WA",9,1
+26,F,1,1,"IG, WA, Telegram",2,1
+26,F,1,1,"Tik tok, IG, Spotify",6,1
+25,M,0,1,"IG, Twitter, WA",2,0
+55,M,0,1,"IG, WA, Twitter",1,1
+57,M,0,1,"IG, Twitter",4,1
+28,M,0,1,"Twitter, IG, FB",5,0
+30,M,1,1,"FB, IG, WA",6,1
+25,M,1,1,"WA, IG, Twitter",5,1
+26,F,0,1,"WA, IG, Twitter",5,1
+25,M,1,0,"Youtube, FB, Pinterest",2,1
+26,M,0,0,"IMO, FB, IG",2,0
+34,M,0,0,"IG, FB",5,0
+22,F,0,0,"IG, WA",3,1
+25,F,0,0,"IG, FB, Twitter",2,1
+33,F,0,0,"Tik tok, IG, Spotify",6,0
+20,M,0,0,"IG, FB",7,1
+22,F,0,0,"FB, IG, WA",6,1
+22,F,0,0,"FB, IG",5,0
+32,F,0,0,"IG, FB",2,0
+22,M,0,1,"FB, Youtube, Camera",7,1
+30,F,0,1,"FB, WA, IG",2,1
+30,F,0,1,"IG, Maps, FB",4,1
+29,M,0,1,"WA. GVS, FB",4,1
+83,M,0,1,"WA, FB",5,1
+28,m,0,1,"FB, IG, WA",6,1
+31,F,0,1,IG,6,1
+18,M,0,1,"IG, WA",6,1
+19,M,0,1,"WA, IG",6,1
+19,M,0,1,IG,1,1
+24,M,0,1,"FB, IG, WA",2,1
+22,F,0,1,"IG, FB, WA",1,0
+23,M,0,1,"WA, IG, FB",4,1
+22,M,0,1,"IG, FB, WA",3,1
+20,F,0,1,"IG, WA, FB",5,1
+58,M,0,1,"IG, WA, FB",2,0
+20,M,0,1,"IG, Twitter, FB",5,1
+52,M,0,0,FB,2,0
+57,M,0,0,FB,3,1
+49,M,0,0,"FB, WA",1,1
+58,F,0,1,"FB, WA, IG",4,1
+60,F,1,0,"FB, IG, WA",3,1
+30,F,1,0,FB,1,0
+30,M,0,1,"IG, Wa, FB",5,1
+30,F,0,0,"WA, IG",4,1
+30,M,0,1,"IG, Telegram, WA",4,1
+24,F,1,1,"FB, WA",5,0
+26,M,0,1,"FB, WA, Line",3,1
+30,M,1,1,"IG, WA",5,0
+29,M,0,0,"IG, WA",7,1
+23,M,0,0,"FB, Gmail",8,1
+26,M,0,1,"IG, FB",8,1
+26,M,0,0,"IG, WA",8,1
+32,F,0,0,"FB, WA",8,1
+26,M,1,0,"WA, Youtube",2,1
+30,F,1,1,"FB, IG, TA",10,1
+28,M,1,1,"FB, IG, TA",6,1
+29,M,0,0,Google,2,1
+29,M,0,0,"IG, Twitter, FB",3,1
+28,M,0,0,"FB, IG",4,0
+36,F,1,0,"IG, WA, FB",3,1
+22,M,0,0,"WA, FB",1,1
+18,F,0,0,"FB, IG, WA",10,1
+20,F,0,0,"WA, FB, Gmail",3,1
+20,F,0,0,"FB, IG",3,1
+25,M,0,0,"WA, Telegram, FB",2,1
+39,M,0,0,"WA, FB",3,0
+25,M,1,0,"WA, Telegram, Video Call",10,0
+45,M,1,1,"FB, WA",4,1
+28,M,0,0,"WA, Youtube",7,0
+36,F,0,0,"FB, TA",2,1
+28,M,1,0,"WA, Telegram, Video Call",4,0
+21,F,0,0,"FB, WA",2,1
+26,M,0,0,"FB, IG, WA",6,0
+26,M,0,0,"FB, IG, WA",5,0
+35,M,0,0,"WA, Telegram, Video Call",3,0
+21,M,0,0,"WA, Telegram, Video Call",2,0
+26,M,0,0,"Fb, WA, IG",2,1
+23,M,0,0,"Telegram, WA, FB",6,1
+35,F,0,0,"Telegram, WA",4,0
+34,M,0,0,"WA, FB, Twitter",2,0
+22,M,0,0,"FB, IG, WA",8,1
+29,M,0,0,"FB, IG",2,0
+21,F,0,0,"WA, Gmail",1,1
+26,M,1,0,"FB, IG",3,1
+24,F,1,0,"WA, Telegram, Video Call",1,1
+16,F,1,0,"WA, Gmail",2,0
+33,F,0,0,"WA, FB, Twitter",5,1
+35,M,1,0,"IG,FB",2,1
+30,M,0,0,"WA, FB, Twitter",5,1
+12,F,0,0,"Telegram, WA, FB",3,0
+22,F,0,0,"IG,FB",3,0
+52,M,0,0,"Telegram, WA, FB",4,0
+23,M,0,0,"WA, Gmail",1,0
+34,F,0,1,"IG, Line, Youtube",2,1
+44,F,1,1,"FB, IG, Twitter",1,1
+23,M,1,0,"IG, FB, Twitter",4,1
+40,M,1,0,"IG, WA, FB",8,0
+20,F,1,0,"IG, FB, Youtube",2,1
+34,M,1,1,"FB, IG, WA",8,1
+45,M,1,1,FB,5,1
+40,F,1,1,"FB, Linked In, Gmail",6,1
+25,F,1,1,"FB, Google, IG",6,1
+45,F,1,0,"WeChat, FB",3,1
+49,M,1,1,"IG, FB",2,1
+24,M,1,1,"IG, FB",3,1
+25,M,1,1,WA,2,1
+19,M,1,1,"WA, FB, IG",2,1
+25,F,1,1,"IG,Google",2,1
+15,F,1,1,"IG, Weibo, Twitter",8,1
+45,F,1,1,"IG, FB, Line",4,1
+67,F,1,1,"FB, Twitter, WA",2,1
+42,M,1,1,"FB, IG, Twitter",6,1
+34,F,1,1,"FB, IG, Youtube",8,1
+15,F,1,1,"FB, Google, IG",6,1
+56,M,1,1,"FB, IG",4,1
+14,F,1,1,"Youtube,IG",1,1
+56,F,1,1,"FB,IG",2,1
+34,F,1,1,"WA, Telegram, Video Call",3,1
+21,F,1,1,"FB, WA",4,1
+34,M,1,1,"FB, IG, WA",5,1
+14,M,1,1,"FB, IG, WA",6,1
+18,F,1,1,"WA, Telegram, Video Call",8,1
+16,F,1,1,"WA, Telegram, Video Call",7,1
+23,F,1,1,"Fb, WA, IG",7,1
+56,F,1,1,"Telegram, WA, FB",5,1
+23,F,1,1,"Telegram, WA",6,1
+24,F,0,1,"WA, FB, Twitter",8,1
+17,M,1,1,"FB, IG, WA",8,1
+14,M,1,1,"FB, IG",7,1
+56,M,1,1,"WA, Gmail",4,0
+27,M,1,1,"FB, IG",1,1
+24,M,1,1,"WA, Telegram, Video Call",1,1
+34,F,1,1,"WA, Gmail",4,1
+19,M,1,1,"WA, FB, Twitter",3,1
+19,F,1,1,"IG,FB",1,1
+29,M,1,0,"WA, FB, Twitter",1,1
+23,M,1,1,"Telegram, WA, FB",2,1
+26,M,1,1,"IG,FB",1,1
+26,M,1,1,"Telegram, WA, FB",5,1
+32,F,0,1,"WA, Gmail",5,1
+26,M,1,1,"IG, Line, Youtube",5,1
+30,M,1,1,"FB, IG, Twitter",3,1
+28,M,0,1,"IG, FB, Twitter",2,0
+29,M,1,1,"IG, WA, FB",3,1
+29,F,0,1,"IG, FB, Youtube",2,1
+28,F,0,1,"FB, IG, WA",3,0
+36,M,0,1,FB,6,1
+22,M,0,1,"FB, Linked In, Gmail",6,0
+18,M,1,0,"FB, Google, IG",1,0
+20,M,1,1,"WeChat, FB",2,0
+20,M,0,1,"IG, FB",2,0
+25,F,1,0,"IG, FB",1,1
+39,F,1,1,WA,2,1
+25,F,1,0,"WA, FB, IG",2,0
+45,M,1,0,"IG,Google",1,1
+28,M,1,0,"IG, Weibo, Twitter",1,1
+36,M,1,0,"IG, FB, Line",2,1
+28,M,1,1,"FB, Twitter, WA",2,1
+21,F,1,1,"FB, IG, Twitter",3,1
+26,F,1,0,"FB, IG, Youtube",1,1
+26,M,0,1,"FB, Google, IG",1,1
+35,M,1,1,"FB, IG",2,1
+21,M,1,1,"Youtube,IG",2,1
+26,M,1,1,"FB,IG",4,0
+23,M,1,1,SNAPCHAT,2,1
+35,M,1,1,WA,4,1
+34,F,1,1,WA,2,1
+22,M,0,1,YOUTUBE,6,1
+29,M,1,1,FB,4,1
+21,F,1,0,WA,1,1
+26,M,0,1,FB,8,0
+24,M,0,1,IG,8,1
+16,F,0,1,WA,3,1
+33,M,1,1,WA,8,0
+35,F,1,1,YOUTUBE,3,0
+30,M,1,1,WA,2,0
+12,F,1,0,FB,2,1
+22,M,1,1,FB,5,1
+52,F,1,1,YOUTUBE,4,1
+23,F,1,0,FB,6,1
+34,M,0,0,SNAPCHAT,6,1
+44,M,1,0,LINKEDIN,6,1
+23,M,1,1,IG,6,1
+40,M,1,1,WA,8,0
+20,M,0,1,SNAPCHAT,8,1
+34,M,1,1,IMO,8,1
+45,F,1,1,"WA, IG",8,1
+40,M,1,1,"WA, FB, IG",2,0
+25,M,1,1,"FB, WA, IG",8,1
+45,M,1,0,"IG, WA",8,1
+49,F,1,1,"IG, FB",10,1
+24,F,1,1,"IG, FB",8,1
+25,F,1,1,"IG, FB",1,1
+19,M,0,0,"IG, FB, Youtube",3,1
+25,F,0,1,"IMO, WA, IG",4,1
+15,F,1,1,"IG, FB",5,1
+45,F,0,1,"IG, FB, GMail",6,0
+67,M,1,1,"G+F1010:F1038ojek, Grab, BCA",8,0
+42,F,1,1,"FB, IG, Line",8,1
+34,F,1,1,"WA, FB, Telegram",4,0
+15,M,1,1,"IG, WA, FB",8,1
+56,M,1,1,"LOL, PUBG",1,1
+14,m,1,0,IG,3,1
+56,F,1,0,"Tik tok, IG, Spotify",8,1
+34,M,1,1,"WA, IG",1,1
+21,M,1,0,"WA, IG",2,1
+34,M,1,1,"Tik tok, IG, Spotify",1,1
+14,M,1,1,IG,4,1
+18,F,1,1,FB,3,1
+16,F,1,1,TWITTER,5,1
+23,M,1,1,IG,2,1
+56,M,1,1,"IG, FB",1,1
+23,F,1,1,"IG, Twitter",1,1
+24,F,1,1,"WA, FB, Gmail",8,1
+17,F,1,1,"IG, FB, WA",5,1
+14,M,1,1,"IG, FB, Gmail, Hangout",3,1
+56,F,0,1,"IG, Email, Youtube",8,1
+27,F,0,1,"IG, Camera",5,1
+24,M,1,1,"IG, FB, Twitter",1,1
+34,M,1,1,"IG, WA",2,0
+19,M,0,1,"IG, Email, Youtube",1,0
+19,M,1,1,"IG, FB, Pinterest",7,1
+20,M,1,1,"WA, Google",4,1
+22,M,1,1,"WA, FB",8,0
+23,F,1,1,"email, FB",8,1
+47,F,1,0,"IG, FB, Pinterest",8,1
+28,F,1,0,"IG, FB",8,1
+22,F,1,1,"FB, IG",7,1
+21,F,1,1,"IG, WA",2,1
+25,F,0,0,"IG, FB",7,1
+29,F,0,1,"WA, FB",1,1
+44,F,1,1,"IG, FB, Line",2,1
+28,F,1,1,"IG, FB, WA",2,0
+30,F,1,1,"IG, WA, Telegram",2,0
+26,F,1,1,"Tik tok, IG, Spotify",2,1
+32,M,0,1,"IG, Twitter, WA",2,1
+2,M,0,1,"IG, WA, Twitter",8,1
+67,F,0,1,"IG, Twitter",3,1
+29,F,1,0,"Twitter, IG, FB",5,0
+64,F,1,0,"FB, IG, WA",5,0
+26,M,0,1,"WA, IG, Twitter",1,0
+21,M,1,1,"WA, IG, Twitter",5,0
+59,M,1,1,"Youtube, FB, Pinterest",2,0
+50,F,1,1,"IMO, FB, IG",7,1
+42,F,1,0,"IG, FB",1,1
+38,M,1,0,"IG, WA",1,1
+52,M,1,0,"IG, FB, Twitter",3,0
+52,M,1,0,"Tik tok, IG, Spotify",5,0
+52,M,1,0,"IG, FB",1,0
+60,F,0,1,"FB, IG, WA",5,0
+57,M,0,1,"FB, IG",2,0
+36,M,1,1,"IG, FB",4,0
+19,M,1,0,"FB, Youtube, Camera",3,0
+36,M,1,0,"FB, WA, IG",5,0
+57,F,1,0,"IG, Maps, FB",5,0
+37,F,0,0,"WA. GVS, FB",2,0
+43,M,0,0,"WA, FB",2,0
+34,M,0,0,"FB, IG, WA",2,0
+57,M,0,0,IG,5,0
+29,M,1,0,"IG, WA",8,0
+42,M,1,0,"WA, IG",23,0
+51,F,1,0,IG,5,0
+57,F,1,0,"FB, IG, WA",9,0
+55,F,1,0,"IG, FB, WA",2,0
+26,M,1,0,"WA, IG, FB",6,0
+37,M,1,0,"IG, FB, WA",2,0
+22,M,1,0,"IG, WA, FB",1,0
+67,M,1,0,"IG, WA, FB",4,0
+34,F,1,0,"IG, Twitter, FB",5,0
+24,F,1,0,FB,6,0
+30,M,1,0,FB,5,0
+31,M,1,0,"FB, WA",5,1
+29,M,1,0,"FB, WA, IG",2,0
+21,M,1,0,"FB, IG, WA",2,0
+25,M,1,0,FB,5,0
+53,M,1,0,"IG, Wa, FB",3,0
+26,F,1,0,"IG, FB, WA",2,0
+38,M,1,1,"IG, WA, Telegram",6,0
+35,M,1,0,"Tik tok, IG, Spotify",7,0
+32,F,1,0,"IG, Twitter, WA",6,0
+25,M,1,0,"IG, WA, Twitter",5,0
+26,M,1,0,"IG, Twitter",2,1
+24,F,1,0,"Twitter, IG, FB",7,0
+26,M,1,0,"FB, IG, WA",2,0
+26,F,1,0,"WA, IG, Twitter",4,0
+27,M,1,0,"WA, IG, Twitter",4,0
+28,F,1,0,"Youtube, FB, Pinterest",5,1
+30,M,1,1,"IMO, FB, IG",6,0
+23,F,1,0,"IG, FB",6,1
+35,F,1,0,"IG, WA",6,0
+35,M,1,0,"IG, FB, Twitter",6,0
+27,M,0,0,"Tik tok, IG, Spotify",6,0
+36,M,1,1,"IG, FB",7,0
+44,M,1,0,"FB, IG, WA",4,0
+23,M,1,1,"FB, IG",4,0
+35,M,1,0,"IG, FB",2,0
+54,F,1,0,"FB, Youtube, Camera",6,1
+47,M,1,0,"FB, WA, IG",6,1
+28,M,1,0,"IG, Maps, FB",6,1
+22,M,1,0,"WA. GVS, FB",3,0
+21,F,1,0,"WA, FB",6,0
+25,F,1,0,"FB, IG, WA",3,0
+29,F,1,1,IG,4,0
+44,M,1,1,"IG, WA",4,0
+28,F,0,1,"WA, IG",3,1
+30,F,1,0,IG,3,0
+26,F,1,0,"FB, IG, WA",4,1
+32,M,0,0,"IG, FB, WA",23,1
+2,F,1,0,"WA, IG, FB",5,0
+67,F,0,0,"IG, FB, WA",9,0
+29,M,0,1,"IG, WA, FB",2,0
+64,M,0,0,"IG, WA, FB",6,1
+26,m,0,1,"IG, Twitter, FB",2,1
+21,F,1,1,FB,1,1
+59,M,1,0,"email, FB",4,1
+50,M,0,0,"IG, FB, Pinterest",5,1
+42,M,1,0,"IG, FB",6,0
+38,M,1,1,"FB, IG",5,0
+52,F,1,1,"IG, WA",5,0
+52,F,1,1,"IG, FB",2,1
+52,M,1,1,"WA, FB",2,0
+60,M,1,1,"IG, FB, Line",5,0
+57,F,1,0,"IG, FB, WA",3,1
+36,F,1,0,"IG, WA, Telegram",2,0
+19,F,1,0,"Tik tok, IG, Spotify",6,1
+36,M,0,1,"IG, Twitter, WA",7,1
+57,F,1,0,"IG, WA, Twitter",6,0
+37,F,1,0,"IG, Twitter",5,1
+43,M,1,1,"Twitter, IG, FB",2,0
+34,M,1,0,"FB, IG, WA",7,0
+57,M,1,1,"WA, IG, Twitter",2,1
+29,M,1,1,"WA, IG, Twitter",4,1
+42,M,0,0,"Youtube, FB, Pinterest",4,0
+51,M,1,1,"IMO, FB, IG",5,0
+57,F,1,0,"IG, FB",6,0
+55,F,0,0,"IG, WA",6,1
+26,F,0,1,"IG, FB, Twitter",6,0
+37,F,0,1,"Tik tok, IG, Spotify",6,0
+22,F,1,0,"IG, FB",6,0
+67,F,1,0,"FB, IG, WA",7,0
+34,F,1,0,"FB, IG",4,0
+24,F,1,1,"IG, FB",4,0
+30,F,1,0,"FB, Youtube, Camera",2,1
+31,F,1,0,"FB, WA, IG",6,1
+29,F,1,0,"IG, Maps, FB",6,1
+21,M,0,0,"WA. GVS, FB",6,1
+25,M,1,0,"WA, FB",3,1
+53,F,1,0,"FB, IG, WA",6,1
+26,F,1,1,IG,3,0
+35,F,0,1,"IG, WA",4,1
+27,M,1,1,"WA, IG",4,1
+36,M,1,1,IG,3,0
+44,M,1,1,"FB, IG, WA",3,0
+23,F,1,1,"IG, FB, WA",4,1
+35,F,1,0,"WA, IG, FB",2,1
+54,M,1,1,"IG, FB, WA",1,0
+47,M,1,1,"IG, WA, FB",4,0
+28,M,1,0,"IG, WA, FB",8,0
+22,M,0,0,"IG, Twitter, FB",2,0
+21,M,0,1,FB,8,1
+25,F,1,1,FB,5,1
+29,F,0,0,"FB, WA",6,1
+44,F,1,0,"FB, WA, IG",6,1
+28,M,1,0,"FB, IG, WA",3,1
+30,F,1,0,FB,2,1
+26,M,1,1,"IG, Wa, FB",3,0
+32,F,1,1,"IG, Email, Youtube",2,0
+2,M,1,1,"IG, FB, Pinterest",2,0
+67,M,1,1,"WA, Google",2,1
+29,M,1,1,"WA, FB",8,1
+64,M,1,1,"email, FB",4,0
+26,M,1,0,"IG, FB, Pinterest",2,0
+21,M,1,0,"IG, FB",6,1
+59,F,1,0,"FB, IG",8,1
+50,M,1,1,"IG, WA",6,1
+42,F,1,1,"IG, FB",4,1
+38,M,1,0,"WA, FB",1,0
+52,M,1,0,"IG, FB, Line",2,0
+52,M,1,1,"IG, FB, WA",3,1
+52,M,1,1,"IG, WA, Telegram",4,0
+60,F,1,1,"Tik tok, IG, Spotify",5,1
+57,M,0,1,"IG, Twitter, WA",6,1
+36,F,0,0,"IG, WA, Twitter",8,0
+19,F,1,0,"IG, Twitter",7,1
+36,F,1,1,"Twitter, IG, FB",7,0
+57,M,0,0,"FB, IG, WA",5,0
+37,M,1,1,"WA, IG, Twitter",6,1
+43,M,1,1,"WA, IG, Twitter",8,1
+34,M,1,0,"Youtube, FB, Pinterest",8,1
+57,M,1,1,"IMO, FB, IG",7,1
+29,F,1,0,"IG, FB",4,1
+42,M,1,0,"IG, WA",1,1
+51,F,1,1,"IG, FB, Twitter",1,1
+57,M,1,1,"Tik tok, IG, Spotify",4,1
+55,M,0,1,"IG, FB",3,1
+26,M,0,1,"FB, IG, WA",1,1
+37,M,1,1,"FB, IG",1,1
+22,M,1,1,"IG, FB",2,1
+67,M,1,1,"FB, Youtube, Camera",1,1
+34,F,1,1,"FB, WA, IG",5,1
+24,M,0,1,"IG, Maps, FB",5,1
+30,M,0,1,"WA. GVS, FB",5,1
+31,M,0,1,"WA, FB",3,0
+29,F,1,1,"FB, IG, WA",2,0
+21,M,1,1,IG,3,0
+25,F,1,1,"IG, WA",2,1
+53,F,1,1,"WA, IG",3,1
+26,F,1,1,IG,6,1
+60,M,1,0,"FB, IG, WA",6,1
+33,M,1,0,"IG, FB, WA",1,1
+20,F,1,0,"WA, IG, FB",2,0
+33,F,0,1,"IG, FB, WA",2,1
+65,M,0,1,"IG, WA, FB",1,1
+29,M,0,1,"IG, WA, FB",2,1
+34,F,1,1,"IG, Twitter, FB",2,1
+27,F,1,1,FB,1,1
+27,M,1,0,FB,1,1
+30,M,1,1,"FB, WA",2,1
+32,F,1,1,"FB, WA, IG",2,1
+25,M,0,1,"FB, IG, WA",3,1
+32,M,1,1,FB,1,1
+28,F,1,1,"IG, Wa, FB",1,1
+26,F,1,1,"IG, FB",2,1
+31,F,1,1,"IG, WA",2,1
+26,M,1,1,"IG, FB, Twitter",4,1
+23,M,1,1,"Tik tok, IG, Spotify",2,1
+45,M,1,1,"IG, FB",4,1
+42,M,1,1,"FB, IG, WA",2,1
+20,F,1,1,"FB, IG",6,1
+53,F,1,1,"IG, FB",4,1
+23,F,1,1,"FB, Youtube, Camera",1,1
+33,F,1,1,"FB, WA, IG",8,1
+24,M,1,1,"IG, Maps, FB",8,1
+25,F,1,1,"WA. GVS, FB",3,1
+30,F,1,1,"WA, FB",8,1
+28,M,1,1,"FB, IG, WA",3,1
+29,F,1,1,IG,2,1
+61,F,1,1,"IG, WA",2,1
+26,F,1,1,"WA, IG",5,1
+23,F,1,1,IG,4,1
+24,M,1,1,"FB, IG, WA",6,1
+26,M,1,1,"IG, FB, WA",6,1
+25,F,1,1,"WA, IG, FB",6,1
+31,F,1,1,"IG, FB, WA",6,0
+29,F,1,1,"IG, WA, FB",8,1
+24,F,1,1,"IG, WA, FB",8,1
+29,F,1,1,"IG, Twitter, FB",8,1
+21,F,1,1,FB,8,1
+23,M,1,1,FB,2,1
+27,M,1,0,"FB, WA",8,1
+24,M,1,1,"FB, WA, IG",8,1
+35,M,1,1,"FB, IG, WA",10,1
+25,M,0,1,FB,8,1
+28,F,1,1,"IG, Wa, FB",1,1
+32,M,1,1,"Tik tok, IG, Spotify",3,1
+34,F,1,1,"IG, FB",4,1
+22,M,1,1,"FB, IG, WA",5,0
+24,M,1,1,"FB, IG",6,1
+30,M,1,1,"IG, FB",8,1
+38,M,1,1,"FB, Youtube, Camera",8,0
+29,F,1,1,"FB, WA, IG",4,1
+38,M,1,1,"IG, Maps, FB",8,0
+35,M,1,0,"WA. GVS, FB",1,0
+32,M,1,1,"WA, FB",3,0
+25,M,1,1,"FB, IG, WA",8,0
+26,F,0,0,IG,1,1
+24,F,1,1,"IG, WA",2,1
+26,M,1,0,"WA, IG",1,0
+26,M,0,0,IG,4,1
+27,M,1,0,"FB, IG, WA",3,1
+28,M,0,0,"IG, FB, WA",5,1
+30,M,0,1,"WA, IG, FB",2,1
+23,F,0,1,"IG, FB, WA",1,1
+35,F,0,0,"FB, WA, IG",1,1
+35,F,1,1,"FB, WA, IG",8,1
+27,M,1,1,"IG, WA, Youtube",5,1
+36,M,0,1,"FB, WA, IG",3,1
+44,M,1,1,"IG, WA, Youtube",8,0
+23,M,1,1,"FB, WA, IG",5,1
+35,F,1,1,"IG, FB, Twitter",1,1
+54,F,1,1,"IG, FB",2,1
+47,M,1,1,"IG, FB, Twitter",1,1
+28,M,1,1,"IG, WA",7,1
+22,M,1,0,"IG, FB, Twitter",4,1
+21,M,1,1,"IG, FB, WA",8,0
+25,M,1,1,"IG, Twitter, FB",8,1
+29,M,0,1,"IG, FB, Twitter",8,1
+44,F,1,1,"IG, FB",8,0
+28,M,1,1,"Youtube, IG, Skype",7,0
+30,M,1,1,"Linkedin, IG",2,0
+26,F,1,0,"Youtube, FB",7,1
+32,M,1,1,"IG, FB",1,1
+2,M,1,1,"IG, FB, WA",2,1
+67,F,0,0,"IG. Twitter, FB",2,1
+29,M,1,0,"IG, Snapchat, Twitter",2,1
+64,F,1,0,"IG, Twitter, Snapchat",2,1
+26,M,0,1,"IG, WA, FB",2,1
+21,F,0,1,"IG, FB, IG",8,0
+59,M,0,1,"IG, WA",3,1
+50,F,1,1,"FB, IG",5,1
+42,F,1,1,"FB, WA, IG",5,1
+38,M,1,1,"WA, FB",1,0
+52,M,1,1,"Snapchat, IG",5,1
+52,M,1,0,"FB, WA, IG",2,1
+52,M,1,1,"FB, WA, IG",7,1
+60,M,1,1,"FB, IG",1,1
+57,M,0,1,"IG, FB",1,1
+36,F,1,0,"Booking, TA",3,1
+19,M,1,1,"IG, WA, FB",5,1
+36,M,1,1,"FB, IG, Line",1,1
+57,M,0,1,"IG, WA, FB",5,0
+37,F,1,1,"IG, Tinder",2,0
+43,F,1,1,IG,4,1
+34,F,1,1,"IG, FB",3,0
+57,M,1,1,"FB, WA, IG",5,1
+29,F,1,1,"IG, WA, FB",5,1
+42,F,1,0,"WA, FB",2,1
+51,F,1,0,"WA, FB, IMO",2,1
+57,M,1,1,"IG, FB",2,1
+55,F,0,0,"IG, WA",5,1
+26,F,0,1,"FB, WA",8,1
+37,M,1,1,"FB, IG",2,1
+22,M,0,1,"IG, WA",3,1
+67,m,1,1,"IG, FB, WA",2,1
+34,F,1,1,IG,2,1
+24,M,1,1,"IG, Gmail",2,1
+30,M,1,1,"IG, FB, WA",8,1
+31,M,1,1,"IG, FB, WA",4,1
+29,M,1,1,"IG, FB, WA",2,1
+21,F,1,1,"IG, FB",6,1
+25,F,1,1,"IG, FB, Twitter",8,1
+53,M,1,1,"IG, FB, Twiter",6,1
+26,M,1,1,"WA, Hellp Pal",4,1
+45,F,1,1,"Line, Hello Pal",1,0
+49,F,1,1,"FB, WA, IG",2,0
+24,F,1,1,"WA, IG",3,1
+25,M,1,1,"WA, FB, IG",4,1
+19,F,1,1,"FB, WA, IG",5,0
+25,F,1,1,"IG, WA",6,1
+15,M,1,0,"IG, FB",8,1
+45,M,1,0,"IG, FB",7,1
+67,M,1,1,"IG, FB",7,1
+42,M,0,1,"IG, FB, Youtube",5,1
+34,M,0,0,"IMO, WA, IG",6,1
+15,M,1,1,"IG, FB",8,1
+56,F,1,1,"IG, FB, GMail",8,1
+14,F,0,1,"Gojek, Grab, BCA",7,0
+56,F,1,1,"FB, IG, Line",4,0
+34,F,1,1,"WA, FB, Telegram",1,1
+21,F,1,1,"IG, WA, FB",1,1
+34,F,1,1,"LOL, PUBG",4,1
+14,F,1,1,IG,3,1
+18,F,1,0,"Tik tok, IG, Spotify",1,0
+16,F,1,0,"WA, IG",1,0
+23,F,1,1,"WA, IG",2,0
+56,F,0,1,"Tik tok, IG, Spotify",1,0
+23,M,0,1,IG,5,0
+24,M,1,1,FB,5,1
+17,F,1,0,TWITTER,5,1
+14,F,1,0,IG,3,1
+56,F,1,0,LINKEDIN,2,0
+27,M,0,0,FB,3,0
+24,M,0,0,IG,2,0
+34,M,0,1,YOUTUBE,3,0
+19,F,0,1,IG,6,0
+19,F,0,1,YOUTUBE,6,0
+20,F,1,0,TWITTER,1,0
+22,F,1,0,YOUTUBE,2,0
+23,F,1,0,FB,2,0
+47,M,0,0,"FB,YOUTUBE",1,0
+28,M,0,0,"IG, youtube",2,0
+22,F,0,0,IG,2,0
+21,F,0,0,FB,1,0
+25,F,0,0,TWITTER,1,0
+29,M,0,0,FB,2,0
+44,M,0,0,YOUTUBE,2,0
+28,M,0,0,IG,2,0
+30,F,0,0,YOUTUBE,1,0
+26,F,0,0,SNAPCHAT,4,0
+32,M,0,0,FB,8,0
+2,M,0,0,SNAPCHAT,2,0
+67,F,0,0,WA,8,0
+29,M,0,0,WA,5,0
+64,M,0,0,YOUTUBE,6,0
+26,M,0,0,FB,6,0
+21,M,0,0,WA,3,1
+59,M,0,0,"IG, WA",2,0
+50,F,0,0,"IG, WA",3,0
+42,F,0,0,"IG, WA",2,0
+38,F,0,0,"IG, WA",2,0
+52,M,0,0,"IG, WA",2,0
+52,F,0,1,"WA, FB",8,0
+52,M,0,0,"WA, IG, Snapchat",4,0
+60,F,0,0,FB,2,0
+57,M,1,0,"WA, IG, Google",6,0
+36,M,0,0,"WA, IG, FB",8,1
+19,M,0,0,"IG, WA, Youtube",6,0
+36,M,0,0,"WA, IG",4,0
+57,M,0,0,"WA, IG, Youtube",1,0
+37,M,0,0,"IG, FB",2,0
+43,F,0,0,"IG, Linkedln",3,1
+34,M,0,1,"IG, FB",4,0
+57,F,0,0,"IG, Linkedln",5,1
+29,M,0,0,"IG, FB",6,0
+42,M,1,0,"IG, Twitter, Youtube",8,0
+51,M,0,0,"IG, Twitter, Youtube",7,0
+57,M,0,1,"IG, FB",7,0
+55,F,0,0,"FB, WA, IG",5,0
+26,M,0,1,"IG, FB",6,0
+37,F,1,0,"WA, IG",8,0
+22,F,0,0,"WA, IG",8,1
+67,F,1,0,"Tik tok, IG, Spotify",7,1
+34,M,0,0,IG,4,1
+24,M,0,0,FB,1,0
+30,M,0,0,TWITTER,1,0
+31,M,0,0,IG,4,0
+29,M,0,1,LINKEDIN,3,0
+21,F,0,1,FB,1,0
+25,M,0,1,IG,1,1
+53,F,1,0,YOUTUBE,2,0
+26,M,1,0,IG,1,1
+38,M,1,0,YOUTUBE,5,1
+35,M,0,0,TWITTER,5,0
+32,M,0,0,YOUTUBE,5,0
+25,M,0,1,FB,3,0
+26,M,0,0,"FB,YOUTUBE",2,1
+24,F,0,1,"IG, youtube",3,1
+26,M,1,1,IG,2,1
+26,M,0,0,FB,3,1
+27,M,1,0,TWITTER,6,1
+28,F,1,0,FB,6,0
+30,M,0,1,YOUTUBE,1,0
+23,F,0,1,IG,2,0
+35,F,0,1,YOUTUBE,2,1
+35,F,1,1,SNAPCHAT,1,0
+27,M,1,1,FB,2,0
+36,M,1,0,SNAPCHAT,2,1
+44,F,1,0,WA,1,0
+23,F,1,0,WA,1,1
+35,M,0,1,YOUTUBE,2,1
+54,M,0,0,FB,2,0
+47,F,0,0,WA,3,1
+28,F,1,1,"IG, WA",1,0
+22,M,0,0,"IG, WA",1,0
+21,M,0,1,"IG, WA",2,1
+25,F,0,1,"IG, WA",2,1
+29,M,0,0,"IG, WA",4,0
+44,M,1,1,"WA, FB",2,0
+28,F,1,0,"WA, IG, Snapchat",4,0
+30,F,0,0,FB,2,1
+26,F,1,1,"WA, IG, Google",6,0
+32,M,0,1,"WA, IG, FB",4,0
+2,M,0,0,"IG, WA, Youtube",1,0
+67,M,1,0,"WA, IG",8,0
+29,M,1,0,"WA, IG, Youtube",8,0
+64,F,0,1,"IG, FB",3,1
+26,F,0,0,"IG, Linkedln",8,1
+21,F,0,0,"IG, FB",3,1
+59,F,1,0,"IG, Linkedln",2,1
+50,M,0,0,"IG, FB",2,1
+42,F,0,0,"IG, Twitter, Youtube",5,1
+38,F,0,1,"IG, Twitter, Youtube",4,0
+52,M,0,1,"IG, FB",6,0
+52,F,0,1,"FB, WA, IG",6,1
+52,F,1,1,"IG, FB",6,1
+60,F,1,1,"IG, WA",6,0
+57,F,1,1,"IG, WA",8,1
+36,M,1,0,"IG, WA",8,1
+19,M,1,0,"IG, WA",8,1
+36,F,1,1,"IG, WA",8,0
+57,F,0,1,"WA, FB",2,0
+37,F,0,0,"WA, IG, Snapchat",8,1
+43,F,1,1,FB,8,0
+34,F,1,1,"WA, IG, Google",10,1
+57,F,0,1,"WA, IG, FB",8,1
+29,M,1,0,"IG, WA, Youtube",1,1
+42,M,1,0,"WA, IG",3,1
+51,M,1,1,"WA, IG, Youtube",4,1
+57,M,0,0,"IG, FB",5,1
+55,M,0,1,"IG, Linkedln",6,0
+26,F,1,1,"IG, FB",8,1
+37,M,0,1,"IG, Linkedln",8,1
+22,F,1,1,"IG, FB",4,1
+67,M,1,1,"IG, Twitter, Youtube",8,0
+34,M,1,1,"IG, Twitter, Youtube",1,1
+24,M,1,0,"IG, FB",3,0
+30,M,1,1,"FB, WA, IG",8,0
+31,F,1,1,"IG, FB",1,0
+29,M,0,1,FB,2,1
+21,M,1,0,TWITTER,1,0
+25,M,1,1,YOUTUBE,4,1
+53,M,1,0,SNAPCHAT,3,1
+26,F,0,0,IG,5,1
+35,F,1,0,FB,2,1
+27,M,0,1,WA,6,1
+36,M,0,0,FB,6,1
+44,M,0,1,WA,3,1
+23,M,1,1,IG,2,1
+35,M,0,1,"FB, WA, IG",3,1
+54,F,1,1,"FB, WA, IG",2,1
+47,F,1,1,"IG, WA, Youtube",2,0
+28,F,1,1,"FB, WA, IG",2,1
+22,M,1,1,"IG, WA, Youtube",8,1
+21,M,1,1,"FB, WA, IG",4,0
+25,M,1,1,"IG, FB, Twitter",2,1
+29,M,1,1,"IG, FB",6,1
+44,F,1,0,"IG, FB, Twitter",8,1
+28,F,1,1,"IG, WA",6,1
+30,M,1,1,"IG, FB, Twitter",4,0
+26,M,0,0,"IG, FB, WA",1,0
+32,M,1,1,"IG, Twitter, FB",2,1
+2,M,1,1,"IG, FB, Twitter",3,1
+67,M,0,1,"IG, FB",4,0
+29,M,1,1,"Youtube, IG, Skype",5,1
+64,F,1,0,"Linkedin, IG",6,1
+26,M,1,0,"Youtube, FB",8,0
+21,M,1,1,"IG, FB",7,0
+59,F,0,1,"IG, FB, WA",7,1
+50,M,0,0,"IG. Twitter, FB",5,1
+42,M,1,1,"IG, Snapchat, Twitter",6,1
+38,F,1,1,"IG, Twitter, Snapchat",8,1
+52,M,0,0,"IG, WA, FB",8,1
+52,F,1,0,"IG, FB, IG",7,1
+52,M,1,1,"IG, WA",4,1
+60,F,0,1,"FB, IG",1,1
+57,M,0,1,"FB, WA, IG",1,1
+36,F,1,1,"Linkedin, IG",4,1
+19,F,1,1,"Youtube, FB",3,1
+36,M,1,1,"Tik tok, IG, Spotify",1,0
+57,M,1,1,"Tik tok, IG, Spotify",1,1
+37,M,1,1,"FB, Tinder",2,1
+43,M,1,1,"FB, IG",1,1
+34,M,1,1,"IG, FB",5,0
+57,M,1,1,"IG, Line, WA",5,1
+29,F,1,0,"WA, Google, Mail",5,0
+42,M,1,1,Not use,3,1
+51,M,1,1,"Wa, FB",2,1
+57,M,0,1,i done use any,3,1
+55,F,1,0,"Bit Coin, WA",2,1
+26,F,1,1,WA,3,0
+37,F,1,0,"IG, Line, WA",6,1
+22,M,1,1,"FB, IG, Snapchat",6,1
+67,F,1,1,"Tik tok, IG, Spotify",1,1
+34,F,1,1,WA,2,0
+24,F,1,1,Snapchat,2,1
+30,M,1,0,"IG, WA, Tinder",1,0
+31,F,1,1,"Line, IG, Twitter",2,1
+29,F,1,1,"Ig, Snapchat, FB",2,1
+21,M,1,1,"FB, Twitter",1,1
+25,M,1,0,"IG, FB",1,1
+53,m,1,1,"IG, Twitter",2,1
+26,F,1,0,"WA, FB, Gmail",2,1
+60,M,1,1,"IG, FB, WA",3,1
+33,M,1,1,"IG, FB, Gmail, Hangout",1,1
+20,M,1,1,"IG, Email, Youtube",1,1
+33,M,1,1,"IG, Camera",2,1
+65,F,1,1,"IG, FB, Twitter",2,0
+29,M,1,1,"IG, WA",4,1
+34,M,1,1,"IG, Email, Youtube",2,1
+27,F,0,1,"IG, FB, Pinterest",4,1
+27,M,1,1,"WA, Google",2,1
+30,M,1,1,"WA, FB",6,1
+32,M,1,0,"email, FB",4,1
+25,M,1,1,"IG, FB, Pinterest",1,0
+32,M,1,1,"IG, FB",8,0
+28,F,1,1,"FB, IG",8,1
+26,F,1,1,"IG, WA",3,0
+31,F,1,1,"IG, WA",8,1
+26,M,1,1,"WA, FB",3,0
+23,F,1,0,"WA, IG, Snapchat",2,1
+45,M,1,0,FB,2,0
+42,F,1,1,"WA, IG, Google",5,0
+20,M,0,0,"WA, IG, FB",4,0
+53,M,1,1,"IG, WA, Youtube",6,0
+23,M,1,0,"WA, IG",6,1
+33,M,0,1,"WA, IG, Youtube",6,1
+24,M,1,0,"IG, FB",6,0
+25,M,0,0,"IG, Linkedln",8,0
+30,F,0,0,"IG, FB",8,1
+28,M,0,0,"IG, Linkedln",8,0
+29,F,0,1,"IG, FB",8,1
+61,M,1,1,"IG, Twitter, Youtube",2,1
+26,M,1,0,"IG, Twitter, Youtube",8,1
+23,M,0,0,"IG, FB",8,0
+24,M,1,1,"FB, WA, IG",10,1
+26,F,1,0,"IG, FB",8,1
+25,M,1,1,FB,1,1
+31,F,1,1,TWITTER,3,0
+29,F,1,1,YOUTUBE,4,0
+24,F,1,0,SNAPCHAT,5,0
+29,F,1,1,IG,6,0
+21,F,1,1,FB,8,1
+23,M,1,1,WA,8,0
+27,M,0,0,FB,4,1
+24,F,1,0,WA,8,1
+35,F,1,0,IG,1,1
+25,F,1,0,"FB, WA, IG",3,1
+28,M,1,1,"FB, WA, IG",8,1
+32,M,1,0,"IG, WA, Youtube",1,1
+34,M,1,1,"FB, WA, IG",2,1
+22,F,0,1,"IG, WA, Youtube",1,1
+24,F,1,1,"FB, WA, IG",4,0
+30,M,1,1,"IG, FB, Twitter",3,0
+38,M,0,1,"IG, FB",5,1
+29,F,0,1,"IG, FB, Twitter",2,1
+38,M,0,1,"IG, WA",1,0
+35,M,1,1,"IG, FB, Twitter",1,1
+32,M,1,0,"IG, FB, WA",8,1
+25,M,1,0,"IG, Twitter, FB",5,1
+26,M,1,1,"IG, FB, Twitter",3,0
+24,F,1,1,"IG, FB",8,0
+26,F,1,0,"Youtube, IG, Skype",5,1
+26,F,1,1,"Linkedin, IG",1,0
+27,M,0,1,"Youtube, FB",2,1
+28,F,1,1,"IG, FB",1,1
+30,M,1,0,"IG, FB, WA",7,1
+23,F,1,0,"IG. Twitter, FB",4,1
+35,M,0,1,"IG, Snapchat, Twitter",8,1
+35,M,1,0,"IG, Twitter, Snapchat",8,1
+27,M,1,1,"IG, WA, FB",8,0
+36,M,1,1,"IG, FB, IG",8,1
+44,M,1,1,"IG, WA",7,1
+23,M,1,1,"FB, IG",2,1
+35,F,1,1,"FB, WA, IG",7,0
+54,M,1,1,"WA, FB",1,1
+47,F,1,0,"Snapchat, IG",2,0
+28,M,0,1,"FB, WA, IG",2,0
+22,M,0,1,"FB, WA, IG",2,0
+21,M,1,1,"FB, IG",2,1
+25,M,0,0,"IG, FB",2,0
+29,F,1,1,"Booking, TA",8,1
+44,M,1,0,"IG, WA, FB",3,1
+28,F,1,0,"FB, IG, Line",5,1
+30,F,1,0,"IG, WA, FB",5,1
+26,F,1,1,"IG, Tinder",1,1
+32,M,1,0,IG,5,1
+2,M,1,1,"IG, FB",2,1
+67,M,1,1,"FB, WA, IG",7,1
+29,M,1,1,"IG, WA, FB",1,1
+64,M,1,1,"WA, FB",1,1
+26,F,1,1,"WA, FB, IMO",3,0
+21,M,1,1,"IG, FB",5,1
+59,F,1,1,"IG, WA",1,1
+50,M,1,1,"FB, WA",5,0
+42,M,1,1,"FB, IG",2,1
+38,M,1,1,"IG, WA",4,1
+52,M,1,0,"IG, FB, WA",3,1
+52,M,1,1,IG,5,1
+52,M,1,1,"IG, Gmail",5,0
+60,F,0,0,"IG, FB, WA",2,0
+57,M,0,1,"IG, FB, WA",2,1
+36,M,1,1,"IG, FB, WA",2,1
+19,M,1,1,"IG, FB",5,0
+36,F,0,1,"IG, FB, Twitter",8,1
+57,M,1,0,"IG, FB, Twiter",23,1
+37,F,1,0,"WA, Hellp Pal",5,0
+43,F,1,1,"Line, Hello Pal",9,0
+34,F,1,1,"FB, WA, IG",2,1
+57,M,1,0,"WA, IG",6,1
+29,M,1,1,"WA, FB, IG",2,1
+17,F,1,1,"FB, WA, IG",1,1
+10,F,1,0,"IG, WA",4,1
+24,M,0,0,"IG, FB",5,1
+30,M,0,1,"IG, FB",6,1
+56,F,1,1,"IG, FB",5,1
+34,F,1,1,"IG, FB, Youtube",5,1
+21,M,1,1,"IMO, WA, IG",2,1
+34,M,1,1,"IG, FB",2,1
+14,F,0,1,"IG, FB, GMail",5,0
+18,M,0,1,"Gojek, Grab, BCA",3,1
+16,M,0,1,"FB, IG, Line",2,1
+23,F,0,1,"WA, FB, Telegram",6,1
+56,F,0,1,"IG, WA, FB",7,0
+23,F,1,1,"LOL, PUBG",6,1
+24,M,1,0,IG,5,0
+17,M,1,1,"Tik tok, IG, Spotify",2,1
+14,M,0,1,"WA, IG",7,1
+56,M,0,1,"WA, IG",2,1
+27,F,0,0,"Tik tok, IG, Spotify",4,1
+24,F,0,1,IG,4,0
+34,F,0,0,FB,5,1
+19,F,0,1,TWITTER,6,1
+19,M,0,1,IG,6,1
+29,F,0,1,LINKEDIN,6,0
+28,F,0,1,FB,6,1
+45,M,0,0,IG,6,0
+30,F,0,1,YOUTUBE,7,1
+36,F,0,1,IG,4,1
+50,F,0,1,YOUTUBE,4,1
+31,F,0,0,TWITTER,2,1
+38,M,0,1,YOUTUBE,6,1
+30,M,0,0,FB,6,1
+26,F,0,1,"FB,YOUTUBE",6,1
+32,F,0,1,"IG, youtube",3,1
+2,F,0,1,IG,6,1
+67,F,0,1,FB,3,1
+29,F,0,1,TWITTER,4,0
+64,F,0,1,FB,4,1
+26,M,0,1,YOUTUBE,3,1
+21,M,0,1,IG,3,1
+59,M,0,1,YOUTUBE,4,1
+50,M,0,1,SNAPCHAT,23,1
+42,M,0,0,FB,5,1
+38,F,0,1,SNAPCHAT,9,0
+52,M,0,1,WA,2,0
+52,F,0,1,WA,6,1
+52,M,0,1,YOUTUBE,2,0
+60,M,0,1,FB,1,1
+57,M,0,1,WA,4,0
+36,M,0,0,TWITTER,5,1
+19,F,0,0,YOUTUBE,6,0
+36,M,1,1,FB,5,0
+57,M,0,0,"FB,YOUTUBE",5,0
+37,M,0,1,"IG, youtube",2,0
+43,M,0,0,IG,2,1
+34,F,0,1,FB,5,1
+57,F,1,0,TWITTER,3,0
+29,M,0,0,FB,2,0
+17,M,1,0,YOUTUBE,6,1
+10,M,0,0,IG,7,0
+24,M,0,1,YOUTUBE,6,1
+30,M,0,1,SNAPCHAT,5,1
+56,F,0,0,FB,2,1
+34,F,0,0,SNAPCHAT,7,0
+21,F,0,1,WA,2,1
+34,M,0,0,WA,4,1
+14,M,1,1,YOUTUBE,4,1
+18,M,1,1,FB,5,0
+16,M,1,1,WA,6,0
+23,F,0,0,FB,6,0
+56,F,0,1,"Tik tok, IG, Spotify",6,0
+23,M,0,1,"IG, FB",6,1
+24,M,0,1,"FB, IG, WA",1,1
+17,M,0,0,"FB, IG",2,0
+14,M,1,0,"IG, FB",1,1
+56,M,0,0,"FB, Youtube, Camera",4,1
+27,M,1,0,"FB, WA, IG",3,0
+24,F,1,1,"IG, Maps, FB",5,0
+34,M,0,1,"WA. GVS, FB",2,1
+19,M,0,0,"WA, FB",5,1
+19,F,0,1,"FB, IG, WA",2,0
+29,M,1,1,IG,3,0
+28,M,1,0,"IG, WA",1,0
+45,F,1,0,"WA, IG",4,0
+30,M,1,1,IG,3,1
+36,F,1,1,"FB, IG, WA",1,1
+50,M,0,0,"IG, FB, WA",5,1
+31,F,0,0,"WA, IG, FB",4,1
+38,M,0,0,"IG, FB, WA",4,1
+30,M,1,0,YOUTUBE,5,1
+42,M,0,1,IG,3,0
+38,M,0,1,"IG, FB, Youtube",5,0
+52,M,1,1,"FB, IG, WA",7,0
+52,M,0,1,FB,8,1
+52,M,1,1,"FB, Linked In, Gmail",8,1
+60,F,1,1,"FB, Google, IG",8,0
+57,M,0,0,"WeChat, FB",8,0
+36,F,1,0,"IG, FB",2,1
+19,M,0,0,"IG, FB",10,1
+36,M,0,1,WA,6,1
+57,M,1,1,"WA, FB, IG",2,1
+37,M,1,0,"IG,Google",3,0
+43,F,0,0,"IG, Weibo, Twitter",4,0
+34,M,0,1,"IG, FB, Line",3,1
+57,M,0,1,"FB, Twitter, WA",1,0
+29,M,1,1,"FB, IG, Twitter",10,1
+17,M,0,1,"FB, IG, Youtube",3,1
+10,F,0,0,"FB, Google, IG",3,0
+24,F,0,0,"FB, IG",2,1
+30,M,0,1,"Youtube,IG",3,0
+56,M,0,0,"FB,IG",10,0
+34,M,1,1,"Twitter, IG",4,1
+21,M,1,1,"WA,IG",7,1
+34,M,1,0,"IG, FB",2,1
+14,F,1,1,"IG, FB, Twitter",4,1
+18,F,1,0,"IG, Path, Pinterest",2,1
+16,F,1,0,"IG, WA, Twitter",6,1
+23,M,0,1,"IG, WA",5,1
+56,M,0,1,"FB, WA, IG",3,1
+23,M,1,1,"IG, FB, Twitter",2,1
+24,M,1,1,"Path, Pinterest, Twitter",2,1
+17,F,0,1,"IG, FB, Twitter",6,1
+14,F,1,1,"IG, FB",4,1
+56,M,1,1,"Linked In, Twitter",2,1
+27,M,1,1,"Booking, Tripadvisor",8,1
+24,M,0,1,"IG, FB, Twitter",2,1
+34,M,0,1,"WA,FB",1,1
+19,M,1,1,"FB, IG, WA",3,0
+19,M,0,1,"email,IG",1,0
+29,F,1,1,"email, FB",2,0
+28,M,1,1,"Youtube,FB",5,1
+45,M,1,1,"FB,Snapchat",2,1
+30,F,1,1,"WA,email",5,1
+36,M,1,0,"WA, IG, Snapchat",3,1
+50,M,1,0,"IG, WA, Youtube",3,1
+31,F,0,0,"WA, IG, Snapchat",4,0
+38,M,1,1,"WA, IG, Snapchat",1,1
+30,F,1,1,"FB, IG, WA",1,1
+26,M,1,1,"IG, WA, Youtube",4,1
+32,F,0,1,"WA, IG, Snapchat",8,1
+12,M,1,1,"IG, WA, FB",2,1
+67,F,0,0,"IG, WA, FB",8,1
+29,F,0,1,"WA, IG, Snapchat",5,1
+64,M,0,1,"IG, WA",6,1
+26,M,1,1,"IG, WA",6,1
+21,M,0,1,"IG, WA",3,1
+59,M,1,1,"IG, WA",2,1
+50,M,1,1,"IG, WA",3,1
+42,M,1,1,"WA, FB",2,1
+38,F,1,1,"WA, IG, Snapchat",2,1
+52,M,1,1,FB,2,1
+52,M,1,1,"WA, IG, Google",8,1
+52,M,1,1,"WA, IG, FB",4,1
+60,F,1,1,"IG, WA, Youtube",2,1
+57,F,1,1,"WA, IG",6,1
+36,F,1,1,"WA, IG, Youtube",8,1
+19,M,0,1,"IG, FB",6,1
+36,F,1,1,"IG, Linkedln",4,1
+57,F,1,1,"IG, FB",1,1
+37,F,0,1,"IG, Linkedln",2,1
+43,M,1,1,"IG, FB",3,1
+34,F,1,1,"IG, Twitter, Youtube",4,1
+57,F,1,1,"IG, Twitter, Youtube",5,1
+29,M,1,1,"IG, FB",6,1
+17,M,0,1,"FB, WA, IG",8,1
+10,m,0,1,"IG, FB",7,1
+24,F,1,1,"Linkedln, IG",7,1
+30,M,1,1,"IG, WA, FB",5,1
+56,M,0,1,"WA, IG, Path",6,0
+34,M,1,1,"IG, WA, FB",8,1
+21,M,1,1,"IG, WA, FB",8,1
+34,F,0,1,"IG, WA, Youtube",7,1
+14,F,0,1,"FB, WA, IG",4,1
+18,M,1,1,"FB, WA, IG",1,1
+16,M,1,0,"IG, WA, Youtube",1,1
+23,F,1,1,"FB, WA, IG",4,1
+56,F,1,1,"IG, WA, Youtube",3,1
+23,F,1,1,"FB, WA, IG",1,1
+24,M,1,1,"IG, FB, Twitter",1,1
+17,F,1,1,"IG, FB",2,1
+14,F,1,1,"IG, FB, Twitter",1,1
+56,M,1,1,"IG, WA",5,0
+27,M,1,1,"IG, FB, Twitter",5,1
+24,M,1,1,"IG, FB, WA",5,1
+34,M,0,1,"IG, Twitter, FB",3,0
+19,M,0,1,"IG, FB, Twitter",2,1
+19,M,0,1,"IG, FB",3,0
+29,F,1,0,"Youtube, IG, Skype",2,0
+28,F,0,1,"Linkedin, IG",3,0
+45,F,1,1,"Youtube, FB",6,0
+30,F,1,0,"IG, FB",6,1
+36,F,1,1,"IG, FB, WA",1,1
+50,F,1,0,"IG. Twitter, FB",2,0
+31,F,1,0,"IG, Snapchat, Twitter",2,1
+38,F,1,0,"IG, Twitter, Snapchat",1,1
+30,F,1,0,"IG, WA, FB",2,1
+25,F,1,1,"IG, FB, IG",2,1
+45,F,1,1,"IG, WA",1,1
+49,M,1,0,"FB, IG",1,1
+24,M,1,1,"FB, WA, IG",2,1
+25,F,1,1,"WA, FB",2,1
+19,F,1,1,"Snapchat, IG",3,1
+25,F,1,1,"FB, WA, IG",1,0
+15,M,1,1,"FB, WA, IG",1,1
+45,M,1,1,"FB, IG",2,1
+67,M,1,1,"IG, FB",2,1
+42,F,1,1,"Booking, TA",4,1
+34,F,1,1,"IG, WA, FB",2,1
+15,F,0,0,"FB, IG, Line",4,1
+56,F,0,1,"IG, WA, FB",2,0
+14,F,1,1,"IG, Tinder",6,1
+56,M,1,1,IG,4,1
+34,M,0,1,"IG, FB",1,0
+21,F,1,1,"FB, WA, IG",8,0
+34,F,1,1,"IG, WA, FB",8,0
+14,F,1,0,"WA, FB",3,1
+18,M,1,1,"WA, FB, IMO",8,1
+16,M,1,1,"IG, FB",3,1
+23,M,1,0,"IG, WA",2,1
+56,F,1,0,"FB, WA",2,1
+23,F,1,0,"FB, IG",5,1
+24,M,0,1,"IG, WA",4,1
+17,M,0,1,"IG, FB, WA",6,0
+14,F,1,1,IG,6,1
+56,M,1,1,"IG, Gmail",6,1
+27,M,1,1,"IG, FB, WA",6,1
+24,M,1,1,"IG, FB, WA",8,0
+34,M,0,1,"IG, FB, WA",8,1
+19,M,0,0,"IG, FB",8,1
+19,F,0,1,"IG, FB, Twitter",8,1
+20,F,0,1,"IG, FB, Twiter",2,1
+22,F,0,1,"WA, Hellp Pal",8,1
+23,M,0,0,"Line, Hello Pal",8,1
+47,F,0,1,"FB, WA, IG",10,1
+28,M,0,1,"WA, IG",8,1
+22,F,0,1,"WA, FB, IG",1,0
+21,M,0,1,"FB, WA, IG",3,0
+25,M,0,1,"IG, WA",4,1
+29,M,0,1,"IG, FB",5,0
+44,M,0,1,"IG, FB",6,1
+28,M,0,1,"IG, FB",8,1
+30,M,0,0,"IG, FB, Youtube",8,1
+26,F,0,0,"IMO, WA, IG",4,1
+32,M,0,1,"IG, FB",8,1
+2,F,0,0,"IG, FB, GMail",1,1
+67,M,0,1,"Gojek, Grab, BCA",3,1
+29,M,0,1,"FB, IG, Line",8,1
+64,M,0,1,"WA, FB, Telegram",1,1
+26,M,0,1,"IG, WA, FB",2,1
+21,F,0,1,"LOL, PUBG",1,1
+59,M,0,1,IG,4,1
+50,F,0,1,"Tik tok, IG, Spotify",3,1
+42,F,0,1,"WA, IG",5,1
+38,F,0,1,"WA, IG",2,1
+52,M,0,1,"Tik tok, IG, Spotify",6,1
+52,M,0,1,IG,6,1
+52,M,0,1,FB,3,1
+60,M,0,1,TWITTER,2,1
+57,M,1,1,IG,3,0
+36,F,1,1,LINKEDIN,2,0
+19,M,1,1,FB,2,1
+36,F,1,1,IG,2,1
+57,M,0,1,YOUTUBE,8,0
+37,M,0,1,IG,4,1
+43,M,0,0,YOUTUBE,2,1
+34,M,0,0,TWITTER,6,1
+57,M,1,1,YOUTUBE,8,1
+29,M,1,1,FB,6,1
+42,F,0,0,"FB,YOUTUBE",4,1
+51,M,1,1,"IG, youtube",1,1
+57,M,0,1,IG,2,1
+55,M,0,1,FB,3,0
+26,F,0,1,TWITTER,4,0
+37,M,0,1,FB,5,1
+22,F,0,1,YOUTUBE,6,1
+67,F,0,1,IG,8,1
+34,F,0,1,YOUTUBE,7,1
+24,M,0,0,SNAPCHAT,7,0
+30,M,0,0,FB,5,0
+31,F,0,1,SNAPCHAT,6,0
+29,F,0,1,WA,8,0
+21,M,0,1,WA,8,0
+25,M,0,1,YOUTUBE,7,1
+53,F,0,0,FB,4,1
+26,F,0,0,WA,1,1
+38,M,0,0,FB,1,0
+35,M,0,0,IG,4,0
+32,F,0,0,WA,3,0
+25,M,0,1,WA,1,0
+26,M,0,1,YOUTUBE,1,0
+24,F,0,1,WA,2,0
+26,F,0,0,FB,1,0
+26,F,0,0,FB,5,0
+27,M,0,0,YOUTUBE,5,0
+28,M,0,0,FB,5,0
+30,M,0,0,SNAPCHAT,3,0
+23,M,0,0,LINKEDIN,2,0
+35,F,0,0,IG,3,0
+35,F,0,0,WA,2,0
+27,F,0,0,SNAPCHAT,3,0
+36,F,1,0,IMO,6,0
+44,M,1,0,"IG, Line, Youtube",6,0
+23,F,0,0,"FB, IG, Twitter",1,0
+35,F,0,0,"IG, FB, Twitter",2,0
+54,M,0,0,"IG, WA, FB",2,0
+47,F,1,0,"IG, FB, Youtube",1,0
+28,F,0,0,"FB, IG, WA",2,0
+22,F,1,0,FB,2,0
+21,F,0,0,"FB, Linked In, Gmail",1,0
+25,M,0,0,"FB, Google, IG",1,0
+29,M,0,0,"WeChat, FB",2,1
+44,F,0,0,"IG, FB",2,0
+28,F,0,0,"IG, FB",3,0
+30,F,1,0,WA,1,0
+26,F,1,0,"WA, FB, IG",1,0
+32,F,1,0,"IG,Google",2,0
+2,F,0,1,"IG, Weibo, Twitter",2,0
+67,M,0,0,"IG, FB, Line",4,0
+29,M,0,0,"FB, Twitter, WA",2,0
+64,M,1,0,"FB, IG, Twitter",4,0
+26,M,0,0,"FB, IG, Youtube",2,1
+21,M,0,0,"FB, Google, IG",6,0
+59,F,0,0,"FB, IG",4,0
+50,M,0,0,"Youtube,IG",1,0
+42,F,0,0,"FB,IG",8,0
+38,M,0,0,"Twitter, IG",8,1
+52,M,1,1,"WA,IG",3,0
+52,M,1,0,"IG, FB",8,1
+52,M,0,0,"IG, FB, Twitter",3,0
+60,F,0,0,"IG, Path, Pinterest",2,0
+57,M,1,0,"IG, WA, Twitter",2,0
+36,M,0,1,"IG, WA",5,0
+19,M,0,0,"FB, WA, IG",4,0
+36,M,0,1,"IG, FB, Twitter",6,0
+57,F,0,0,"Path, Pinterest, Twitter",6,0
+37,F,0,0,"IG, FB, Twitter",6,1
+43,M,0,0,"IG, FB",6,1
+34,M,0,0,"Linked In, Twitter",8,1
+57,M,0,0,"Booking, Tripadvisor",8,0
+29,M,0,0,"IG, FB, Twitter",8,0
+42,M,0,0,"WA,FB",8,0
+51,F,0,1,"FB, IG, WA",2,0
+57,F,0,1,"email,IG",8,0
+55,F,1,1,"email, FB",8,1
+26,M,1,0,"Youtube,FB",10,0
+37,M,1,0,"FB,Snapchat",8,1
+22,M,0,0,"WA,email",1,1
+67,M,1,0,"WA, IG, Snapchat",3,0
+34,F,0,0,"IG, WA, Youtube",4,0
+24,F,0,1,"WA, IG, Snapchat",5,0
+30,M,0,0,"WA, IG, Snapchat",6,1
+31,M,0,1,"FB, IG, WA",8,1
+29,M,0,1,"IG, WA, Youtube",8,1
+21,M,0,0,"WA, IG, Snapchat",4,1
+25,M,1,0,"IG, WA, FB",8,1
+53,M,1,0,"IG, WA, FB",1,0
+26,F,1,1,"WA, IG, Snapchat",3,0
+35,M,1,1,"IG, WA",8,0
+27,M,1,1,"IG, WA",1,1
+36,F,1,1,"IG, WA",2,0
+44,M,1,1,"IG, WA",1,0
+23,M,1,0,"IG, WA",4,1
+35,F,1,0,"WA, FB",3,0
+54,M,1,0,"WA, IG, Snapchat",5,1
+47,F,1,1,FB,2,1
+28,M,1,0,"WA, IG, Google",1,0
+22,F,1,0,"WA, IG, FB",1,1
+21,M,1,1,"IG, WA, Youtube",8,0
+25,F,1,0,"WA, IG",5,0
+29,F,1,1,"WA, IG, Youtube",3,1
+44,M,1,1,"IG, FB",8,1
+28,M,1,0,"IG, Linkedln",5,0
+30,M,1,1,"IG, FB",1,0
+26,M,1,0,"IG, Linkedln",2,0
+32,M,1,0,"IG, FB",1,1
+2,M,1,1,"IG, Twitter, Youtube",7,0
+67,F,1,1,"IG, Twitter, Youtube",4,0
+29,M,1,0,"IG, FB",8,0
+64,M,1,0,"FB, WA, IG",8,0
+26,M,1,0,"IG, FB",8,0
+21,F,1,1,"Linkedln, IG",8,1
+59,F,1,0,"IG, WA, FB",7,1
+50,F,1,0,"WA, IG, Path",2,1
+42,M,1,0,"IG, WA, FB",7,1
+38,F,1,0,"IG, WA, FB",1,1
+52,F,1,0,"IG, WA, Youtube",2,1
+52,F,0,1,"FB, WA, IG",2,0
+52,M,1,1,"FB, WA, IG",2,0
+60,F,1,1,"IG, WA, Youtube",2,1
+57,F,1,1,"FB, WA, IG",2,1
+36,M,1,1,"IG, WA, Youtube",8,0
+19,M,1,1,"FB, WA, IG",3,1
+36,m,1,0,"IG, FB, Twitter",5,1
+57,F,1,0,"IG, FB",5,1
+37,M,1,1,"IG, FB, Twitter",1,0
+43,M,1,1,"IG, WA",5,0
+34,M,1,0,"IG, FB, Twitter",2,1
+57,M,1,1,"IG, FB, WA",7,0
+29,F,1,1,"IG, Twitter, FB",1,1
+42,M,0,1,"IG, FB, Twitter",1,1
+51,M,1,0,"IG, FB",3,1
+57,F,1,0,"Youtube, IG, Skype",5,1
+55,M,0,1,"Linkedin, IG",1,1
+26,M,1,0,"Youtube, FB",5,1
+37,M,0,1,"IG, FB",2,0
+22,M,0,1,"IG, FB, WA",4,1
+67,M,0,1,"IG. Twitter, FB",3,1
+34,F,0,1,"IG, Snapchat, Twitter",5,1
+24,F,1,1,"IG, Twitter, Snapchat",5,0
+30,F,1,1,"IG, WA, FB",2,1
+31,M,0,0,"IG, FB, IG",2,0
+29,F,1,1,"IG, WA",2,0
+21,M,1,1,"FB, IG",5,0
+25,F,1,1,"FB, WA, IG",8,1
+53,M,1,0,"WA, FB",23,0
+26,M,1,1,"Snapchat, IG",5,1
+60,M,1,0,"FB, WA, IG",9,1
+33,M,1,0,"FB, WA, IG",2,1
+20,M,1,0,"FB, IG",6,1
+33,M,1,1,"IG, FB",2,1
+65,F,0,0,"Booking, TA",1,1
+29,M,1,1,"IG, WA, FB",4,1
+34,F,1,1,"FB, IG, Line",5,1
+27,M,1,1,"IG, WA, FB",6,1
+27,M,1,1,"IG, Tinder",5,1
+30,M,1,1,IG,5,0
+32,M,1,1,"IG, FB",2,1
+25,F,0,1,"FB, WA, IG",2,1
+32,M,1,1,"IG, WA, FB",5,0
+28,F,1,1,"WA, FB",3,1
+26,F,0,1,"WA, FB, IMO",2,1
+31,F,0,0,"IG, FB",6,1
+26,F,0,1,"IG, WA",7,1
+23,F,1,1,"FB, WA",6,0
+45,M,1,0,"FB, IG",5,0
+42,M,1,1,"IG, WA",2,1
+20,F,1,1,"IG, FB, WA",7,1
+53,F,1,1,IG,2,0
+23,F,1,1,"IG, Gmail",4,1
+33,M,1,0,"IG, FB, WA",4,1
+24,M,0,0,"IG, FB, WA",5,0
+25,M,1,1,"IG, FB, WA",6,0
+30,F,1,1,"IG, FB",6,1
+28,F,1,0,"IG, FB, Twitter",6,1
+29,M,0,1,"IG, FB, Twiter",6,1
+61,M,1,1,"WA, Hellp Pal",6,1
+26,F,1,0,"Line, Hello Pal",7,1
+23,M,1,0,"FB, WA, IG",4,1
+24,M,1,1,"WA, IG",4,1
+26,M,1,1,"WA, FB, IG",2,1
+25,M,1,1,"FB, WA, IG",6,1
+31,M,1,1,"IG, WA",6,1
+29,F,1,1,"IG, FB",6,1
+24,F,0,1,"IG, FB",3,0
+29,F,0,1,"IG, FB",6,1
+21,M,1,1,"IG, FB, Youtube",3,1
+23,F,0,1,"IMO, WA, IG",4,1
+27,M,1,1,"IG, FB",4,0
+24,F,1,1,"IG, FB, GMail",3,1
+35,M,1,0,"Gojek, Grab, BCA",3,0
+25,M,1,1,"FB, IG, Line",4,1
+28,M,1,1,"WA, FB, Telegram",23,1
+32,M,1,1,"IG, WA, FB",5,1
+34,M,1,0,"LOL, PUBG",9,1
+22,M,1,1,IG,2,0
+24,F,1,0,"Tik tok, IG, Spotify",6,1
+30,M,1,1,"WA, IG",2,1
+38,F,1,1,"WA, IG",1,1
+29,M,1,1,"Tik tok, IG, Spotify",4,0
+38,M,1,1,IG,5,1
+35,M,1,0,FB,6,0
+32,M,1,1,TWITTER,5,1
+25,F,1,1,IG,5,1
+26,M,1,1,LINKEDIN,2,1
+24,F,1,0,FB,2,1
+26,F,1,1,IG,5,1
+26,F,0,0,YOUTUBE,3,1
+27,M,0,1,IG,2,1
+28,M,1,1,YOUTUBE,6,1
+30,M,1,1,TWITTER,7,1
+23,M,0,1,YOUTUBE,6,1
+35,M,1,1,FB,5,0
+35,F,1,1,"FB,YOUTUBE",2,1
+27,M,1,1,"IG, youtube",7,1
+36,F,1,1,IG,2,1
+44,M,1,1,FB,4,1
+23,M,1,1,TWITTER,4,1
+35,M,1,0,FB,5,1
+54,M,1,1,YOUTUBE,6,0
+47,M,0,1,IG,6,0
+28,M,0,1,YOUTUBE,6,1
+22,F,1,1,SNAPCHAT,6,0
+21,M,1,1,FB,1,1
+25,M,1,1,SNAPCHAT,2,0
+29,M,1,0,WA,1,1
+44,F,0,0,WA,4,0
+28,M,0,1,YOUTUBE,3,0
+30,F,0,0,FB,5,0
+26,F,1,1,WA,2,0
+32,F,1,0,FB,5,1
+2,M,0,1,IG,2,1
+67,M,1,0,WA,3,0
+29,F,1,0,WA,1,0
+64,F,1,0,YOUTUBE,4,1
+26,M,1,0,WA,3,0
+21,M,1,1,FB,1,1
+59,F,1,1,FB,5,1
+50,F,1,0,YOUTUBE,4,1
+42,M,1,0,FB,4,0
+38,M,0,1,SNAPCHAT,5,1
+52,F,0,0,LINKEDIN,3,1
+52,M,1,1,IG,5,1
+52,M,1,1,WA,7,0
+60,F,1,1,SNAPCHAT,8,0
+57,F,1,0,IMO,8,0
+36,F,0,1,"WA, IG",8,0
+19,M,0,1,"WA, FB, IG",8,1
+36,M,0,1,"FB, WA, IG",2,0
+57,M,0,0,"IG, WA",10,1
+37,M,1,0,"IG, FB",6,1
+43,F,1,0,"IG, FB",2,1
+34,F,1,0,"IG, FB",3,1
+57,F,1,1,"IG, FB, Youtube",4,1
+29,F,1,0,"IMO, WA, IG",3,1
+42,M,1,1,"IG, FB",1,1
+51,F,1,1,"IG, FB, GMail",10,1
+57,F,1,1,"Gojek, Grab, BCA",3,0
+55,M,1,1,"FB, IG, Line",3,0
+26,F,1,1,"WA, FB, Telegram",2,1
+37,F,1,1,"IG, WA, FB",3,1
+22,F,1,1,"LOL, PUBG",10,0
+67,F,1,1,IG,4,1
+34,M,1,0,"Tik tok, IG, Spotify",7,1
+24,M,1,0,"WA, IG",2,1
+30,F,1,1,"WA, IG",4,0
+31,F,1,1,"Tik tok, IG, Spotify",2,0
+29,F,1,0,IG,6,1
+21,F,1,1,FB,5,0
+25,F,1,1,TWITTER,3,1
+53,F,1,1,IG,2,1
+26,M,1,0,LINKEDIN,2,1
+45,M,1,0,FB,6,1
+49,M,1,1,IG,4,1
+24,M,1,0,YOUTUBE,2,1
+25,M,1,1,IG,8,0
+19,F,1,1,YOUTUBE,2,1
+25,M,1,1,TWITTER,1,1
+15,F,1,1,YOUTUBE,3,1
+45,M,1,1,FB,1,0
+67,M,1,1,"FB,YOUTUBE",2,1
+42,M,1,0,"IG, youtube",5,0
+34,M,0,1,IG,2,0
+15,F,1,1,FB,5,0
+56,M,1,1,TWITTER,3,1
+14,M,1,0,FB,3,0
+56,M,1,1,YOUTUBE,4,1
+34,M,1,0,IG,1,1
+21,F,1,0,YOUTUBE,2,1
+34,F,1,0,SNAPCHAT,1,1
+14,M,1,1,FB,4,1
+18,M,1,0,SNAPCHAT,8,1
+16,M,1,1,WA,2,1
+23,M,1,1,WA,8,1
+56,M,1,1,YOUTUBE,5,1
+23,F,0,1,FB,6,1
+24,F,1,1,WA,6,0
+17,F,1,1,FB,3,1
+14,M,0,1,IG,2,1
+56,M,1,1,WA,3,0
+27,M,0,1,WA,2,1
+24,M,0,1,YOUTUBE,2,1
+34,F,0,0,WA,2,1
+19,F,0,1,FB,8,1
+19,M,1,1,FB,4,0
+20,M,1,0,YOUTUBE,2,0
+22,M,0,1,FB,6,1
+23,M,1,1,SNAPCHAT,8,1
+47,M,1,1,LINKEDIN,6,0
+28,M,1,1,IG,4,1
+22,F,1,0,WA,1,1
+21,M,1,0,SNAPCHAT,2,0
+25,M,1,1,IMO,3,0
+29,F,1,1,"IG, Line, Youtube",4,1
+44,M,1,0,"FB, IG, Twitter",5,1
+28,M,1,1,"IG, FB, Twitter",6,1
+30,F,0,1,"IG, WA, FB",8,1
+26,M,1,0,"IG, FB, Youtube",7,1
+32,F,1,0,"FB, IG, WA",7,1
+2,M,1,1,FB,5,1
+67,F,1,1,"FB, Linked In, Gmail",6,1
+29,M,1,1,"FB, Google, IG",8,1
+64,M,1,1,"WeChat, FB",8,1
+26,M,0,1,"IG, FB",7,1
+21,M,1,1,"IG, FB",4,0
+59,M,1,1,WA,1,1
+50,M,0,1,"WA, FB, IG",1,1
+42,M,0,1,"IG,Google",4,1
+38,F,0,1,"IG, Weibo, Twitter",3,0
+52,M,1,1,"IG, FB, Line",1,1
+52,F,1,0,"FB, Twitter, WA",1,0
+52,M,1,1,"FB, IG, Twitter",2,1
+60,M,1,1,"FB, IG, Youtube",1,1
+57,M,1,1,"FB, Google, IG",5,1
+36,M,1,0,"FB, IG",5,1
+19,F,1,1,"Youtube,IG",5,0
+36,M,0,0,"FB,IG",3,1
+57,M,1,1,"Twitter, IG",2,1
+37,M,1,1,"WA,IG",3,1
+43,M,1,1,"IG, FB",2,0
+34,F,0,1,"IG, FB, Twitter",3,1
+57,F,1,0,"IG, Path, Pinterest",6,0
+29,M,1,1,"IG, WA, Twitter",6,1
+42,M,1,1,"IG, WA",1,1
+51,M,1,1,"FB, WA, IG",2,1
+57,M,1,0,"IG, FB, Twitter",2,1
+55,M,1,1,"Path, Pinterest, Twitter",1,1
+26,F,1,0,"IG, FB, Twitter",2,1
+37,F,1,1,"IG, FB",2,1
+22,F,0,1,"Linked In, Twitter",1,1
+67,M,0,1,"Booking, Tripadvisor",1,1
+34,M,1,1,"IG, FB, Twitter",2,1
+24,M,0,1,"WA,FB",2,0
+30,M,1,1,"FB, IG, WA",3,1
+31,F,1,1,"email,IG",1,1
+29,F,1,1,"email, FB",1,1
+21,M,1,1,"Youtube,FB",2,1
+25,M,1,1,"FB,Snapchat",2,1
+53,M,1,0,"WA,email",4,1
+26,M,1,1,"WA, IG, Snapchat",2,0
+38,M,1,1,"IG, WA, Youtube",4,0
+35,M,1,1,"WA, IG, Snapchat",2,1
+32,F,1,1,"WA, IG, Snapchat",6,0
+25,M,1,1,"FB, IG, WA",4,1
+26,M,1,1,"IG, WA, Youtube",1,0
+24,F,1,0,"WA, IG, Snapchat",8,1
+26,M,1,0,"IG, WA, FB",8,0
+26,M,1,1,"IG, WA, FB",3,0
+27,F,1,0,"WA, IG, Snapchat",8,0
+28,M,1,1,"IG, WA",3,0
+30,F,1,0,"IG, WA",2,1
+23,M,1,1,"IG, WA",2,1
+35,F,0,0,"IG, WA",5,0
+35,M,0,0,"IG, WA",4,0
+27,F,1,0,"WA, FB",6,1
+36,F,1,0,"WA, IG, Snapchat",6,0
+44,M,0,1,FB,6,1
+23,M,1,1,"WA, IG, Google",6,1
+35,M,1,0,"WA, IG, FB",8,1
+54,M,1,0,"IG, WA, Youtube",8,0
+47,M,1,1,"WA, IG",8,1
+28,M,1,0,"WA, IG, Youtube",8,1
+22,F,1,1,"IG, FB",2,1
+21,M,1,1,"IG, Linkedln",8,0
+25,M,1,1,"IG, FB",8,0
+29,M,0,0,"IG, Linkedln",10,0
+44,F,0,1,"IG, FB",8,0
+28,F,1,1,"IG, Twitter, Youtube",1,1
+30,F,1,1,"IG, Twitter, Youtube",3,1
+26,M,1,0,"IG, FB",4,1
+32,F,1,0,"FB, WA, IG",5,0
+2,F,0,0,"IG, FB",6,1
+67,F,0,0,"Linkedln, IG",8,1
+29,M,0,1,"IG, WA, FB",8,1
+64,F,1,1,"WA, IG, Path",4,1
+26,F,1,1,"IG, WA, FB",8,1
+21,M,1,0,"IG, WA, FB",1,1
+59,M,1,1,"IG, WA, Youtube",3,1
+50,m,1,1,"FB, WA, IG",8,1
+42,F,1,1,"FB, WA, IG",1,1
+38,M,1,1,"IG, WA, Youtube",2,1
+52,M,1,1,"FB, WA, IG",1,1
+52,M,0,1,"IG, WA, Youtube",4,1
+52,M,0,1,"FB, WA, IG",3,1
+60,F,0,1,"IG, FB, Twitter",5,1
+57,F,1,1,"IG, FB",2,1
+36,M,1,1,"IG, FB, Twitter",1,1
+19,M,1,1,"IG, WA",1,1
+36,F,1,1,"IG, FB, Twitter",8,1
+57,F,1,1,"IG, FB, WA",5,1
+37,F,0,1,"IG, Twitter, FB",3,1
+43,M,1,1,"IG, FB, Twitter",8,1
+34,F,1,1,"IG, FB",5,1
+57,F,1,1,"Youtube, IG, Skype",1,1
+29,M,1,1,"Linkedin, IG",2,1
+42,M,1,1,"Youtube, FB",1,1
+51,M,1,1,"WA, IG",7,1
+57,M,1,1,"WA, FB, IG",4,1
+55,M,1,1,"FB, WA, IG",8,1
+26,M,1,1,"IG, WA",8,1
+37,F,1,1,"IG, FB",8,1
+22,F,1,1,"IG, FB",8,1
+67,F,1,1,"IG, FB",7,1
+34,F,1,1,"IG, FB, Youtube",2,0
+24,F,1,1,"IMO, WA, IG",7,1
+30,F,1,1,"IG, FB",1,1
+31,F,1,1,"IG, FB, GMail",2,1
+29,F,1,1,"Gojek, Grab, BCA",2,1
+21,F,1,1,"FB, IG, Line",2,1
+25,F,1,0,"WA, FB, Telegram",2,1
+53,F,1,1,"IG, WA, FB",2,1
+26,M,1,1,"LOL, PUBG",8,1
+35,M,1,1,IG,3,1
+27,F,1,1,"Tik tok, IG, Spotify",5,1
+36,F,1,1,"WA, IG",5,1
+44,F,1,1,"WA, IG",1,1
+23,M,1,1,"Tik tok, IG, Spotify",5,0
+35,M,1,1,IG,2,1
+54,M,1,1,FB,7,1
+47,F,1,1,TWITTER,1,0
+28,F,1,1,IG,1,1
+22,F,1,1,LINKEDIN,3,0
+21,F,1,0,FB,5,0
+25,F,0,1,IG,1,0
+29,M,1,1,YOUTUBE,5,0
+44,M,1,0,IG,2,1
+28,F,1,1,YOUTUBE,4,1
+30,F,1,0,TWITTER,3,0
+26,F,1,0,YOUTUBE,5,1
+32,M,1,0,FB,5,1
+2,M,1,0,"FB,YOUTUBE",2,1
+67,M,1,1,"IG, youtube",2,1
+29,F,1,1,IG,2,1
+64,F,1,0,FB,5,1
+26,M,1,1,TWITTER,8,1
+21,M,1,1,FB,23,1
+59,F,0,1,YOUTUBE,5,1
+50,M,1,1,IG,9,0
+42,M,1,1,YOUTUBE,2,1
+38,M,0,1,SNAPCHAT,6,1
+52,M,1,1,FB,2,1
+52,M,0,1,SNAPCHAT,1,1
+52,F,0,1,WA,4,1
+60,F,0,0,WA,5,1
+57,F,0,1,YOUTUBE,6,0
+36,M,1,1,FB,5,1
+19,F,1,1,WA,5,1
+36,M,0,1,FB,2,0
+57,F,1,1,IG,2,0
+37,M,1,1,WA,5,0
+43,M,1,0,WA,3,1
+34,M,1,1,YOUTUBE,2,1
+57,M,1,1,WA,6,1
+29,M,1,0,FB,7,1
+42,M,1,0,FB,6,1
+33,F,1,0,YOUTUBE,5,1
+33,M,1,1,FB,2,1
+33,F,0,1,SNAPCHAT,7,0
+60,M,1,1,LINKEDIN,2,1
+62,M,1,1,IG,4,1
+65,M,1,1,WA,4,1
+28,M,1,1,SNAPCHAT,5,0
+28,F,1,1,IMO,6,1
+30,M,1,0,"IG, Line, Youtube",6,1
+18,F,0,1,"FB, IG, Twitter",6,1
+24,F,1,1,"IG, FB, Twitter",6,1
+32,F,1,1,"IG, WA, FB",6,1
+35,M,0,0,"IG, FB, Youtube",7,1
+32,M,0,1,"FB, IG, WA",4,1
+34,M,0,1,FB,4,1
+30,M,1,1,"FB, Linked In, Gmail",2,0
+34,M,1,1,"FB, Google, IG",6,0
+60,F,1,1,"WeChat, FB",6,1
+58,M,1,1,"IG, FB",6,0
+48,F,1,1,"IG, FB",3,1
+54,M,1,1,WA,6,1
+47,M,1,0,"WA, FB, IG",3,1
+55,M,0,0,"IG,Google",4,1
+28,M,1,1,"IG, Weibo, Twitter",4,1
+30,M,1,0,"IG, FB, Line",3,1
+23,M,1,1,"FB, Twitter, WA",3,1
+23,F,0,1,"FB, IG, Twitter",4,1
+32,M,1,1,"FB, IG, Youtube",23,1
+17,M,1,1,"FB, Google, IG",5,1
+32,M,1,1,"FB, IG",9,1
+32,F,1,1,"Youtube,IG",2,1
+27,M,1,1,"FB,IG",6,1
+28,F,1,1,"Twitter, IG",2,1
+33,F,1,1,"WA,IG",1,1
+33,F,1,1,"IG, FB",4,1
+33,M,0,1,"IG, FB, Twitter",5,1
+28,M,0,1,"IG, Path, Pinterest",6,1
+28,F,1,1,"IG, WA, Twitter",5,1
+28,F,0,1,"IG, WA",5,0
+28,M,1,1,"FB, WA, IG",2,0
+28,M,1,1,"IG, FB, Twitter",2,1
+65,F,1,1,"Path, Pinterest, Twitter",5,1
+70,F,1,1,"IG, FB, Twitter",3,0
+39,M,1,1,"IG, FB",2,1
+16,M,1,0,"Linked In, Twitter",6,1
+27,F,1,0,"Booking, Tripadvisor",7,1
+43,M,1,1,"IG, FB, Twitter",6,1
+16,M,1,1,"WA,FB",5,1
+25,F,1,0,"FB, IG, WA",2,1
+25,F,1,1,"email,IG",7,1
+29,F,1,1,"email, FB",2,1
+30,M,1,1,"Youtube,FB",4,0
+29,M,1,1,"FB,Snapchat",4,0
+30,M,1,1,"WA,email",5,1
+34,M,1,1,"WA, IG, Snapchat",6,1
+30,F,1,1,"IG, WA, Youtube",6,1
+24,F,1,1,"WA, IG, Snapchat",6,1
+32,F,1,0,"WA, IG, Snapchat",6,0
+34,F,0,0,"FB, IG, WA",6,0
+26,M,0,1,"IG, WA, Youtube",7,0
+26,F,1,1,"WA, IG, Snapchat",4,0
+25,F,1,1,"IG, WA, FB",4,0
+55,M,0,1,"IG, WA, FB",2,1
+57,F,1,0,"WA, IG, Snapchat",6,1
+28,F,1,0,"IG, WA",6,1
+30,F,1,0,"IG, WA",6,0
+25,F,1,0,"IG, WA",3,0
+26,M,1,0,"IG, WA",6,0
+25,M,1,1,"IG, WA",3,0
+26,F,1,1,"WA, FB",4,0
+34,F,1,1,"WA, IG, Snapchat",4,0
+22,F,0,0,FB,3,0
+25,F,0,0,"WA, IG, Google",3,0
+33,F,1,0,"WA, IG, FB",4,0
+20,F,1,0,"IG, WA, Youtube",2,0
+22,M,1,0,"WA, IG",1,0
+22,M,1,0,"WA, IG, Youtube",4,0
+32,M,0,0,"IG, FB",8,0
+22,M,0,0,"IG, Linkedln",2,0
+30,M,0,0,"IG, FB",8,0
+30,F,0,0,"IG, Linkedln",5,0
+29,M,0,0,"IG, FB",6,0
+83,F,1,0,"IG, Twitter, Youtube",6,0
+28,M,1,0,"IG, Twitter, Youtube",3,0
+31,M,1,0,"IG, FB",2,0
+18,M,0,0,"FB, WA, IG",3,0
+19,M,0,0,"IG, FB",2,0
+19,F,0,0,"Linkedln, IG",2,0
+24,M,0,0,"IG, WA, FB",2,0
+22,M,0,0,"WA, IG, Path",8,0
+23,M,0,0,"IG, WA, FB",4,1
+22,M,0,0,"IG, WA, FB",2,0
+20,F,0,0,"IG, WA, Youtube",6,0
+58,F,0,0,"FB, WA, IG",8,0
+20,M,0,0,"FB, WA, IG",6,0
+52,M,0,0,"IG, WA, Youtube",4,0
+57,M,0,1,"FB, WA, IG",1,0
+49,M,0,0,"IG, WA, Youtube",2,0
+58,M,0,0,"FB, WA, IG",3,0
+60,F,0,0,"IG, FB, Twitter",4,0
+30,F,0,0,"IG, FB",5,1
+30,F,0,0,"IG, FB, Twitter",6,0
+30,M,0,0,"IG, WA",8,0
+30,M,0,0,"IG, FB, Twitter",7,0
+24,M,0,0,"IG, FB, WA",7,0
+26,M,0,0,"IG, Twitter, FB",5,1
+30,F,0,1,"IG, FB, Twitter",6,0
+29,F,0,0,"IG, FB",8,1
+23,M,0,0,"Youtube, IG, Skype",8,0
+26,M,0,0,"Linkedin, IG",7,0
+26,M,1,0,"Youtube, FB",4,0
+32,M,0,1,"Tik tok, IG, Spotify",1,0
+26,M,0,0,"Tik tok, IG, Spotify",1,0
+30,M,0,1,"FB, Tinder",4,0
+28,F,0,0,"FB, IG",3,0
+29,M,0,0,"IG, FB",1,1
+29,M,0,0,"IG, Line, WA",1,1
+28,F,0,0,"WA, Google, Mail",2,1
+36,M,0,0,Not use,1,0
+22,M,0,0,"Wa, FB",5,0
+18,F,1,0,i done use any,5,0
+20,M,0,1,"Bit Coin, WA",5,0
+20,F,0,1,WA,3,0
+25,M,0,1,"IG, Line, WA",2,1
+39,F,0,0,"FB, IG, Snapchat",3,0
+25,M,1,0,"Tik tok, IG, Spotify",2,1
+45,F,0,0,WA,3,1
+28,F,1,0,Snapchat,6,0
+36,M,0,0,"IG, WA, Tinder",6,0
+28,M,0,1,"Line, IG, Twitter",1,0
+21,M,0,0,"Ig, Snapchat, FB",2,1
+26,M,0,1,"FB, Twitter",2,1
+26,M,0,1,"IG, FB",1,1
+35,M,0,0,"IG, Twitter",2,1
+21,F,0,0,"WA, FB, Gmail",2,1
+26,M,1,0,"IG, FB, WA",1,0
+23,M,1,1,"IG, FB, Gmail, Hangout",1,0
+35,M,1,1,"IG, Email, Youtube",2,0
+34,F,0,1,"IG, Camera",2,1
+22,F,0,1,"IG, FB, Twitter",3,0
+29,F,0,1,"IG, WA",1,0
+21,M,0,0,"IG, Email, Youtube",1,1
+26,F,0,0,"IG, FB, Pinterest",2,0
+24,F,1,0,"WA, Google",2,1
+16,F,0,1,"WA, FB",4,1
+33,M,1,0,"email, FB",2,0
+35,F,1,0,"IG, FB, Pinterest",4,1
+30,F,0,1,"IG, FB",2,0
+12,M,0,0,"FB, IG",6,0
+22,M,0,1,"IG, WA",4,1
+52,m,1,1,"IG, FB",1,1
+23,F,1,0,"WA, FB",8,0
+34,M,1,1,"IG, FB, Line",8,0
+44,M,1,0,"IG, FB, WA",3,0
+23,M,1,0,"IG, WA, Telegram",8,1
+40,M,0,1,"Tik tok, IG, Spotify",3,0
+20,F,0,1,"IG, Twitter, WA",2,0
+34,M,0,0,"IG, WA, Twitter",2,0
+45,M,1,0,"IG, Twitter",5,0
+40,F,0,0,"Twitter, IG, FB",4,0
+25,M,0,1,"FB, IG, WA",6,0
+45,M,1,0,"WA, IG, Twitter",6,1
+49,M,0,0,"WA, IG, Twitter",6,1
+24,M,1,0,"Youtube, FB, Pinterest",6,1
+25,M,1,0,"IMO, FB, IG",8,1
+19,F,0,0,"IG, FB",8,1
+25,F,1,0,"IG, WA",8,1
+15,F,0,1,"IG, FB, Twitter",8,0
+45,M,0,1,"Tik tok, IG, Spotify",2,1
+67,F,1,1,"IG, FB",8,1
+42,M,1,1,"FB, IG, WA",8,0
+34,F,0,1,"FB, IG",10,0
+15,M,0,1,"IG, FB",8,1
+56,M,0,0,"FB, Youtube, Camera",1,1
+14,M,1,1,"FB, WA, IG",3,0
+56,M,0,1,"IG, Maps, FB",4,0
+34,M,0,0,"WA. GVS, FB",5,0
+21,M,0,0,"WA, FB",6,0
+34,F,0,1,"FB, IG, WA",8,1
+14,M,0,1,IG,8,1
+18,F,1,0,"IG, WA",4,1
+16,M,1,0,"WA, IG",8,1
+23,M,1,0,IG,1,1
+56,M,1,0,"FB, IG, WA",3,1
+23,M,1,1,"IG, FB, WA",8,0
+24,F,1,1,"WA, IG, FB",1,0
+17,M,0,1,"IG, FB, WA",2,0
+14,F,0,1,"IG, WA, FB",1,1
+56,F,1,1,"IG, WA, FB",4,1
+27,F,1,1,"IG, Twitter, FB",3,0
+24,F,0,0,FB,5,0
+34,F,1,0,FB,2,1
+19,M,1,0,"FB, WA",1,1
+19,M,1,1,"FB, WA, IG",1,1
+29,F,0,1,"FB, IG, WA",8,1
+23,F,0,0,FB,5,0
+26,F,1,0,"IG, Wa, FB",3,0
+26,M,0,1,"WA, IG",8,1
+32,M,1,1,"IG, Telegram, WA",5,0
+26,M,1,1,"FB, WA",1,1
+30,F,1,1,"FB, WA, Line",2,1
+28,F,1,0,"IG, WA",1,0
+29,M,1,0,"IG, WA",7,1
+29,M,1,1,"FB, Gmail",4,0
+28,F,0,0,"IG, FB",8,0
+36,M,1,1,"IG, WA",8,1
+22,M,1,1,"FB, WA",8,1
+18,M,1,0,"WA, Youtube",8,1
+20,M,0,1,"FB, IG, TA",7,1
+20,M,1,0,"FB, IG, TA",2,1
+25,F,0,0,Google,7,1
+39,F,0,1,"IG, Twitter, FB",1,1
+25,F,0,1,"FB, IG",2,1
+45,M,1,1,"IG, WA, FB",2,1
+28,F,0,1,"WA, FB",2,1
+36,M,1,1,"FB, IG, WA",2,1
+28,F,1,1,"WA, FB, Gmail",2,1
+21,M,1,1,"FB, IG",8,1
+26,M,1,1,"WA, Telegram, FB",3,1
+26,M,1,1,"WA, FB",5,1
+35,M,1,1,"WA, Telegram, Video Call",5,1
+21,M,1,1,"FB, WA",1,0
+26,M,1,1,"WA, Youtube",5,0
+23,F,1,1,"FB, TA",2,0
+35,M,1,1,"WA, Telegram, Video Call",7,1
+34,F,0,1,"FB, WA",1,1
+22,M,1,1,"FB, IG, WA",1,1
+29,M,1,0,"FB, IG, WA",3,1
+21,M,0,0,"WA, Telegram, Video Call",5,1
+26,M,1,0,"WA, Telegram, Video Call",1,0
+24,F,1,1,"Fb, WA, IG",5,1
+16,M,1,1,"Telegram, WA, FB",2,1
+33,F,1,1,"Telegram, WA",4,1
+35,F,0,1,"WA, FB, Twitter",3,1
+30,F,0,1,"FB, IG, WA",5,1
+12,M,1,0,"FB, IG",5,1
+22,M,1,1,"WA, Gmail",2,1
+52,M,0,1,"FB, IG",2,1
+23,M,1,1,"WA, Telegram, Video Call",2,1
+34,M,1,1,"WA, Gmail",5,1
+44,F,0,1,"WA, FB, Twitter",8,1
+23,M,0,1,"IG,FB",2,1
+40,F,1,1,"WA, FB, Twitter",3,1
+20,M,1,1,"Telegram, WA, FB",2,1
+34,M,1,1,"IG,FB",2,1
+45,M,1,1,"Telegram, WA, FB",2,1
+40,M,1,1,"WA, Gmail",8,1
+25,M,1,1,"IG, Line, Youtube",4,1
+45,M,1,1,"FB, IG, Twitter",2,1
+49,F,1,1,"IG, FB, Twitter",6,1
+24,M,1,1,"IG, WA, FB",8,1
+25,M,1,1,"IG, FB, Youtube",6,1
+19,M,1,1,"FB, IG, WA",4,1
+25,F,0,1,FB,1,1
+15,M,1,1,"FB, Linked In, Gmail",2,1
+45,F,1,1,"FB, Google, IG",3,1
+67,F,1,1,"WeChat, FB",4,1
+42,F,1,1,"IG, FB",5,1
+34,M,1,1,"IG, FB",6,1
+15,M,1,1,WA,8,0
+56,F,1,1,"WA, FB, IG",7,0
+14,F,1,1,"IG,Google",7,1
+56,M,1,1,"IG, Weibo, Twitter",5,1
+34,M,1,1,"IG, FB, Line",6,1
+21,F,1,1,"FB, Twitter, WA",8,1
+34,F,1,1,"FB, IG, Twitter",8,1
+14,M,1,1,"FB, IG, Youtube",7,1
+18,M,1,0,"FB, Google, IG",4,1
+16,F,1,1,"FB, IG",1,1
+23,M,1,1,"Youtube,IG",1,1
+56,M,1,0,"FB,IG",4,1
+23,F,1,0,"WA, Telegram, Video Call",3,1
+24,F,1,1,"FB, WA",1,1
+17,F,1,1,"FB, IG, WA",1,1
+14,M,1,0,"FB, IG, WA",2,1
+56,M,0,0,"WA, Telegram, Video Call",1,1
+27,M,1,0,"WA, Telegram, Video Call",5,1
+24,M,1,0,"Fb, WA, IG",5,0
+34,F,1,1,"Telegram, WA, FB",5,0
+19,F,1,1,"Telegram, WA",3,0
+19,F,1,1,"WA, FB, Twitter",2,1
+20,F,1,1,"FB, IG, WA",3,1
+22,M,1,1,"FB, IG",2,1
+23,F,1,1,"WA, Gmail",3,1
+47,F,1,0,"FB, IG",6,1
+28,M,1,0,"WA, Telegram, Video Call",6,0
+22,F,1,0,"WA, Gmail",1,1
+21,F,1,1,"WA, FB, Twitter",2,1
+25,F,0,1,"IG,FB",2,1
+29,F,1,0,"WA, FB, Twitter",1,1
+44,M,1,0,"Telegram, WA, FB",2,1
+28,M,0,1,"IG,FB",2,1
+30,F,1,1,"Telegram, WA, FB",1,1
+26,F,0,1,"WA, Gmail",1,1
+32,F,0,1,"IG, Line, Youtube",2,1
+2,F,0,0,"FB, IG, Twitter",2,1
+67,F,0,0,"IG, FB, Twitter",2,1
+29,F,1,1,"IG, WA, FB",1,1
+64,M,1,0,"IG, FB, Youtube",4,1
+26,M,0,1,"FB, IG, WA",8,1
+21,M,1,1,FB,2,1
+59,M,1,0,"FB, Linked In, Gmail",8,1
+50,M,1,1,"FB, Google, IG",5,1
+42,F,1,0,"WeChat, FB",6,1
+38,M,1,0,"IG, FB",6,1
+52,F,1,1,"IG, FB",3,1
+52,M,1,1,WA,2,1
+52,M,1,1,"WA, FB, IG",3,1
+60,M,1,1,"IG,Google",2,1
+57,M,0,1,"IG, Weibo, Twitter",2,1
+36,F,1,1,"IG, FB, Line",2,1
+19,M,1,1,"FB, Twitter, WA",8,1
+36,M,1,1,"FB, IG, Twitter",4,1
+57,M,1,1,"FB, IG, Youtube",2,1
+37,M,1,1,"FB, Google, IG",6,1
+43,F,1,1,"FB, IG",8,0
+34,F,0,1,"Youtube,IG",6,0
+57,M,1,1,"FB,IG",4,1
+29,M,1,1,SNAPCHAT,1,0
+42,M,0,1,WA,2,1
+51,M,0,1,WA,3,1
+57,M,0,0,YOUTUBE,4,1
+55,F,1,0,FB,5,1
+26,F,1,0,WA,6,1
+37,F,1,1,FB,8,1
+22,M,1,1,IG,7,1
+67,M,1,1,WA,7,1
+34,M,1,1,WA,5,1
+24,M,1,1,YOUTUBE,6,1
+30,F,0,0,WA,8,1
+22,F,1,1,FB,8,1
+23,M,1,1,FB,7,1
+29,M,1,1,YOUTUBE,4,1
+28,M,0,1,FB,1,1
+45,M,1,1,SNAPCHAT,1,1
+30,M,1,1,LINKEDIN,4,1
+36,M,1,1,IG,3,1
+50,F,1,1,WA,1,1
+31,M,1,1,SNAPCHAT,1,0
+38,M,1,1,IMO,2,0
+30,F,1,1,"WA, IG",1,1
+29,M,1,1,"WA, FB, IG",5,1
+29,M,0,1,"FB, WA, IG",5,0
+35,F,0,1,"IG, WA",5,1
+26,M,1,1,"IG, FB",3,1
+29,F,0,1,"IG, FB",2,1
+45,M,1,1,"IG, FB",3,1
+39,F,1,1,"IG, FB, Youtube",2,1
+33,M,1,1,"IMO, WA, IG",3,1
+34,M,1,1,"IG, FB",6,1
+32,M,1,1,"IG, FB, GMail",6,1
+30,F,1,1,"G+F1010:F1038ojek, Grab, BCA",1,0
+33,M,1,1,"FB, IG, Line",2,0
+33,F,1,1,"WA, FB, Telegram",2,1
+33,M,1,1,"IG, WA, FB",1,1
+60,M,1,1,"LOL, PUBG",2,1
+62,M,1,1,IG,2,1
+65,M,1,1,"Tik tok, IG, Spotify",1,0
+28,F,1,1,"WA, IG",1,0
+28,M,1,1,"WA, IG",2,0
+30,F,1,1,"Tik tok, IG, Spotify",2,0
+18,F,1,1,IG,3,0
+24,F,1,0,FB,1,0
+32,M,1,1,TWITTER,1,0
+35,M,1,1,IG,2,0
+32,M,0,1,"IG, FB",2,0
+34,M,0,1,"IG, Twitter",4,0
+30,M,1,1,"WA, FB, Gmail",2,0
+34,F,1,1,"IG, FB, WA",4,0
+60,M,0,1,"IG, FB, Gmail, Hangout",2,0
+58,F,1,1,"IG, Email, Youtube",6,0
+48,M,1,1,"IG, Camera",4,0
+54,M,1,1,"IG, FB, Twitter",1,0
+47,M,1,1,"IG, WA",8,0
+55,M,1,1,"IG, Email, Youtube",8,0
+28,M,1,0,"IG, FB, Pinterest",3,0
+30,M,1,1,"WA, Google",8,0
+23,F,1,1,"WA, FB",3,0
+23,M,0,0,"email, FB",2,0
+32,M,0,1,"IG, FB, Pinterest",2,0
+17,M,1,0,"IG, FB",5,0
+32,F,1,0,"FB, IG",4,0
+32,M,1,0,"IG, WA",6,0
+27,F,1,0,"IG, FB",6,0
+28,F,0,1,"WA, FB",6,0
+33,F,0,1,"IG, FB, Line",6,0
+33,M,0,0,"IG, FB, WA",8,0
+33,M,0,1,"IG, WA, Telegram",8,0
+28,F,0,1,"Tik tok, IG, Spotify",8,1
+28,F,1,1,"IG, Twitter, WA",8,1
+28,M,1,1,"IG, WA, Twitter",2,1
+28,M,1,1,"IG, Twitter",8,1
+28,F,0,1,"Twitter, IG, FB",8,0
+65,F,0,1,"FB, IG, WA",10,0
+70,M,0,1,"WA, IG, Twitter",8,0
+39,M,0,1,"WA, IG, Twitter",1,0
+16,F,0,0,"Youtube, FB, Pinterest",3,1
+27,M,0,1,"IMO, FB, IG",4,1
+43,M,0,1,"IG, FB",5,0
+16,F,0,1,"IG, WA",6,1
+25,F,0,1,"IG, FB, Twitter",8,0
+25,F,0,1,"Tik tok, IG, Spotify",8,0
+29,M,0,1,"IG, FB",4,0
+30,M,0,0,"FB, IG, WA",8,0
+29,M,0,1,"FB, IG",1,0
+30,M,0,1,"IG, FB",3,0
+34,F,0,0,"FB, Youtube, Camera",8,0
+30,F,0,0,"FB, WA, IG",1,0
+24,F,0,0,"IG, Maps, FB",2,0
+32,F,0,1,"WA. GVS, FB",1,0
+34,M,0,1,"WA, FB",4,0
+26,F,0,1,"FB, IG, WA",3,0
+26,F,0,1,IG,5,0
+25,M,0,1,"IG, WA",2,0
+55,F,0,1,"WA, IG",6,0
+57,F,0,1,IG,6,0
+28,F,0,0,"FB, IG, WA",3,0
+30,F,0,1,"IG, FB, WA",2,0
+25,M,0,1,"WA, IG, FB",3,0
+26,M,0,1,"IG, FB, WA",2,0
+25,F,0,0,"IG, WA, FB",2,0
+26,F,0,1,"IG, WA, FB",2,0
+34,F,0,1,"IG, Twitter, FB",8,0
+22,F,0,1,FB,4,0
+25,F,0,1,FB,2,0
+33,F,0,1,"FB, WA",6,0
+20,M,0,1,"FB, WA, IG",8,0
+22,M,1,1,"FB, IG, WA",6,0
+22,M,0,1,FB,4,0
+32,M,0,0,"IG, Wa, FB",1,0
+22,M,0,0,"IG, FB, WA",2,1
+30,F,0,1,"IG, WA, Telegram",3,1
+30,M,1,0,"Tik tok, IG, Spotify",4,0
+29,F,0,1,"IG, Twitter, WA",5,0
+83,M,1,1,"IG, WA, Twitter",6,0
+28,M,0,1,"IG, Twitter",8,1
+31,M,0,1,"Twitter, IG, FB",7,0
+18,M,0,1,"FB, IG, WA",7,1
+19,F,0,1,"WA, IG, Twitter",5,0
+19,M,0,1,"WA, IG, Twitter",6,0
+24,M,0,1,"Youtube, FB, Pinterest",8,0
+34,M,0,1,"IMO, FB, IG",8,0
+30,M,1,1,"IG, FB",7,0
+34,F,1,1,"IG, WA",4,1
+60,F,1,1,"IG, FB, Twitter",1,1
+58,M,0,1,"Tik tok, IG, Spotify",1,1
+48,M,0,1,"IG, FB",4,0
+54,M,0,1,"FB, IG, WA",3,0
+47,M,0,1,"FB, IG",1,0
+55,M,0,1,"IG, FB",1,1
+28,F,1,1,"FB, Youtube, Camera",2,0
+30,F,0,1,"FB, WA, IG",1,0
+23,F,1,0,"IG, Maps, FB",5,0
+23,M,1,0,"WA. GVS, FB",5,0
+32,M,0,1,"WA, FB",5,0
+17,M,0,1,"FB, IG, WA",3,0
+32,M,0,0,IG,2,1
+32,F,1,1,"IG, WA",3,1
+27,F,1,1,"WA, IG",2,0
+28,M,1,1,IG,3,0
+33,M,1,1,"FB, IG, WA",6,1
+33,M,1,1,"IG, FB, WA",6,0
+33,M,0,1,"WA, IG, FB",1,0
+28,M,0,1,"IG, FB, WA",2,0
+28,M,0,1,"IG, WA, FB",2,0
+28,F,1,0,"IG, WA, FB",1,0
+28,M,0,0,"IG, Twitter, FB",2,0
+28,M,0,1,FB,2,0
+65,F,1,1,"email, FB",1,0
+70,M,0,1,"IG, FB, Pinterest",1,0
+39,M,1,1,"IG, FB",2,0
+16,F,1,0,"FB, IG",2,0
+27,M,0,0,"IG, WA",3,0
+43,F,1,0,"IG, FB",1,1
+16,M,0,0,"WA, FB",1,1
+25,F,0,0,"IG, FB, Line",2,1
+25,M,1,1,"IG, FB, WA",2,0
+29,F,1,1,"IG, WA, Telegram",4,1
+30,F,0,1,"Tik tok, IG, Spotify",2,0
+29,M,0,0,"IG, Twitter, WA",4,0
+30,M,0,0,"IG, WA, Twitter",2,0
+34,M,1,0,"IG, Twitter",6,0
+30,M,0,0,"Twitter, IG, FB",4,0
+24,M,0,0,"FB, IG, WA",1,0
+32,M,0,0,"WA, IG, Twitter",8,1
+34,F,0,0,"WA, IG, Twitter",8,1
+26,M,0,0,"Youtube, FB, Pinterest",3,1
+26,M,1,0,"IMO, FB, IG",8,1
+25,M,1,0,"IG, FB",3,1
+55,F,1,0,"IG, WA",2,1
+57,F,1,0,"IG, FB, Twitter",2,1
+28,F,1,0,"Tik tok, IG, Spotify",5,1
+30,M,1,0,"IG, FB",4,1
+25,F,0,0,"FB, IG, WA",6,1
+26,F,0,0,"FB, IG",6,1
+25,F,1,0,"IG, FB",6,1
+26,M,1,0,"FB, Youtube, Camera",6,1
+34,F,0,0,"FB, WA, IG",8,1
+22,F,1,0,"IG, Maps, FB",8,1
+25,M,1,0,"WA. GVS, FB",8,1
+33,M,1,0,"WA, FB",8,1
+20,M,0,0,"FB, IG, WA",2,1
+22,F,0,0,IG,8,1
+22,M,1,0,"IG, WA",8,1
+32,M,0,1,"WA, IG",10,1
+22,M,1,0,IG,8,1
+30,M,1,0,"FB, IG, WA",1,1
+30,F,1,0,"IG, FB, WA",3,1
+29,M,1,0,"WA, IG, FB",4,1
+83,M,1,0,"IG, FB, WA",5,1
+28,F,1,0,"IG, WA, FB",6,1
+31,M,0,0,"IG, WA, FB",8,1
+18,M,1,0,"IG, Twitter, FB",8,1
+19,M,1,0,FB,4,1
+19,M,1,1,FB,8,1
+24,M,0,0,"FB, WA",1,1
+22,F,1,0,"FB, WA, IG",3,0
+23,F,0,0,"FB, IG, WA",8,1
+34,F,0,0,FB,1,1
+44,M,0,1,"IG, Wa, FB",2,1
+66,F,1,0,"IG, Email, Youtube",1,1
+66,M,0,1,"IG, FB, Pinterest",4,1
+33,F,1,0,"WA, Google",3,1
+56,M,1,0,"WA, FB",5,1
+43,M,1,0,"email, FB",2,1
+67,M,1,0,"IG, FB, Pinterest",1,1
+32,M,1,0,"IG, FB",1,1
+22,M,1,0,"FB, IG",8,1
+23,M,1,0,"IG, WA",5,1
+29,F,1,1,"IG, FB",3,0
+28,M,1,1,"WA, FB",8,1
+45,F,1,1,"IG, FB, Line",5,1
+30,M,0,0,"IG, FB, WA",1,0
+36,M,1,0,"IG, WA, Telegram",2,1
+50,M,1,0,"Tik tok, IG, Spotify",1,0
+31,M,0,0,"IG, Twitter, WA",7,0
+38,F,1,0,"IG, WA, Twitter",4,0
+30,M,1,1,"IG, Twitter",8,0
+29,F,1,0,"Twitter, IG, FB",8,1
+29,F,1,1,"FB, IG, WA",8,1
+35,F,0,1,"WA, IG, Twitter",8,0
+26,F,0,0,"WA, IG, Twitter",7,1
+29,F,1,0,"Youtube, FB, Pinterest",2,1
+45,M,1,0,"IMO, FB, IG",7,1
+39,M,0,1,"IG, FB",1,1
+33,F,1,1,"IG, WA",5,1
+34,F,1,1,"IG, FB, Twitter",3,1
+32,F,0,1,"Tik tok, IG, Spotify",8,1
+30,M,0,1,"IG, FB",5,1
+33,M,1,0,"FB, IG, WA",1,1
+33,M,1,0,"FB, IG",2,0
+33,F,1,0,"IG, FB",1,1
+60,F,1,1,"FB, Youtube, Camera",7,1
+62,M,1,0,"FB, WA, IG",4,1
+65,M,1,0,"IG, Maps, FB",8,1
+28,F,1,1,"WA. GVS, FB",8,1
+28,M,1,0,"WA, FB",8,1
+30,M,1,1,"FB, IG, WA",8,0
+18,M,1,1,IG,7,1
+24,M,1,0,"IG, WA",2,1
+32,M,0,1,"WA, IG",7,0
+35,F,0,0,IG,1,0
+32,F,0,0,"FB, IG, WA",2,0
+34,F,1,1,"IG, FB, WA",2,1
+30,M,0,1,"WA, IG, FB",2,1
+34,F,1,0,"IG, FB, WA",2,1
+60,M,1,0,"IG, WA, FB",2,1
+58,F,1,0,"IG, WA, FB",8,1
+48,M,1,1,"IG, Twitter, FB",3,1
+54,M,1,0,FB,5,1
+47,M,1,0,FB,5,0
+55,M,1,0,"FB, WA",1,1
+28,M,1,0,"FB, WA, IG",5,1
+30,M,1,0,"FB, IG, WA",2,1
+23,F,1,1,FB,7,0
+23,M,1,1,"IG, Wa, FB",1,1
+32,F,1,1,"IG, FB",1,1
+17,M,1,1,"IG, WA",3,1
+32,M,1,1,"IG, FB, Twitter",5,1
+32,M,1,1,"Tik tok, IG, Spotify",1,1
+27,M,1,0,"IG, FB",5,1
+28,F,1,0,"FB, IG, WA",2,1
+33,M,1,1,"FB, IG",4,1
+33,F,1,1,"IG, FB",3,0
+33,F,0,0,"FB, Youtube, Camera",5,0
+28,F,0,1,"FB, WA, IG",5,1
+28,M,1,1,"IG, Maps, FB",2,0
+28,M,1,1,"WA. GVS, FB",2,1
+28,M,0,0,"WA, FB",2,1
+28,M,1,0,"FB, IG, WA",5,1
+65,M,1,1,IG,8,1
+70,F,1,0,"IG, WA",23,1
+39,M,1,1,"WA, IG",5,1
+16,F,1,1,IG,9,1
+27,M,1,1,"FB, IG, WA",2,1
+43,M,1,1,"IG, FB, WA",6,1
+16,M,1,1,"WA, IG, FB",2,1
+25,M,0,1,"IG, FB, WA",1,1
+25,M,0,0,"IG, WA, FB",4,1
+29,M,1,1,"IG, WA, FB",5,1
+30,F,1,1,"IG, Twitter, FB",6,1
+29,M,1,1,FB,5,1
+30,M,1,0,FB,5,1
+34,M,0,1,"FB, WA",2,1
+30,F,0,0,"FB, WA, IG",2,1
+24,M,0,0,"FB, IG, WA",5,1
+32,F,0,0,FB,3,0
+34,F,0,1,"IG, Wa, FB",2,0
+26,F,0,0,"Tik tok, IG, Spotify",6,1
+26,M,0,1,"IG, FB",7,1
+25,M,0,1,"FB, IG, WA",6,0
+55,F,0,1,"FB, IG",5,1
+57,F,0,1,"IG, FB",2,1
+28,M,0,1,"FB, Youtube, Camera",7,1
+30,M,0,1,"FB, WA, IG",2,1
+25,F,0,1,"IG, Maps, FB",4,1
+26,F,0,1,"WA. GVS, FB",4,1
+25,M,0,1,"WA, FB",5,1
+26,M,0,1,"FB, IG, WA",6,1
+34,F,0,0,IG,6,0
+22,M,0,1,"IG, WA",6,0
+25,M,0,1,"WA, IG",6,1
+33,F,0,0,IG,6,1
+20,F,0,1,"FB, IG, WA",7,1
+22,F,0,1,"IG, FB, WA",4,1
+22,M,0,1,"WA, IG, FB",4,0
+32,M,0,1,"IG, FB, WA",2,0
+22,M,0,0,"FB, WA, IG",6,0
+30,M,0,0,"FB, WA, IG",6,1
+30,F,0,1,"IG, WA, Youtube",6,1
+29,F,0,1,"FB, WA, IG",3,0
+83,F,0,0,"IG, WA, Youtube",6,1
+28,F,0,1,"FB, WA, IG",3,1
+31,M,0,1,"IG, FB, Twitter",4,1
+18,F,1,0,"IG, FB",4,1
+19,F,1,0,"IG, FB, Twitter",3,1
+19,M,1,1,"IG, WA",3,1
+24,F,1,1,"IG, FB, Twitter",4,1
+34,F,0,1,"IG, FB, WA",23,1
+30,F,0,1,"IG, Twitter, FB",5,0
+34,F,0,1,"IG, FB, Twitter",9,0
+60,M,0,1,"IG, FB",2,1
+58,M,1,1,"Youtube, IG, Skype",6,1
+48,F,1,1,"Linkedin, IG",2,1
+54,F,0,1,"Youtube, FB",1,1
+47,F,1,1,"IG, FB",4,0
+55,F,0,1,"IG, FB, WA",5,0
+28,F,0,0,"IG. Twitter, FB",6,0
+30,F,0,1,"IG, Snapchat, Twitter",5,0
+23,M,0,1,"IG, Twitter, Snapchat",5,1
+23,M,0,1,"IG, WA, FB",2,1
+32,M,0,0,"IG, FB, IG",2,1
+17,M,0,1,"IG, WA",5,1
+32,M,0,0,"FB, IG",3,1
+32,F,0,1,"FB, WA, IG",2,1
+27,M,0,1,"WA, FB",6,1
+28,F,0,1,"Snapchat, IG",7,1
+33,M,0,1,"FB, WA, IG",6,1
+33,M,0,0,"FB, WA, IG",5,1
+33,M,0,1,"FB, IG",2,1
+28,M,0,1,"IG, FB",7,1
+28,F,0,1,"Booking, TA",2,1
+28,M,0,0,"IG, WA, FB",4,1
+28,M,0,1,"FB, IG, Line",4,1
+28,M,0,0,"IG, WA, FB",5,1
+65,M,0,1,"IG, Tinder",6,1
+70,F,0,1,IG,6,1
+39,F,0,1,"IG, FB",6,1
+16,M,0,1,"FB, WA, IG",6,1
+27,M,0,1,"IG, WA, FB",6,1
+43,M,0,1,"WA, FB",7,1
+16,M,0,1,"WA, FB, IMO",4,1
+25,M,0,1,"IG, FB",4,1
+25,F,0,1,"IG, WA",2,1
+29,F,0,1,"FB, WA",6,1
+30,F,0,0,"FB, IG",6,1
+29,M,1,1,"IG, WA",6,1
+30,M,1,1,"IG, FB, WA",3,1
+34,M,0,1,IG,6,1
+30,M,0,1,"IG, Gmail",3,1
+24,F,0,1,"IG, FB, WA",4,1
+32,F,1,1,"IG, FB, WA",4,0
+34,M,0,0,"IG, FB, WA",3,1
+26,M,1,0,"IG, FB",3,1
+26,M,0,1,"IG, FB, Twitter",4,1
+25,M,0,0,"IG, FB, Twiter",2,1
+55,M,0,1,"WA, Hellp Pal",1,1
+57,M,0,0,"Line, Hello Pal",4,1
+28,F,0,1,"FB, WA, IG",8,1
+30,M,1,0,"WA, IG",2,1
+25,M,1,0,"WA, FB, IG",8,1
+26,F,1,0,"FB, WA, IG",5,1
+25,M,0,0,"IG, WA",6,1
+26,M,0,1,"IG, FB",6,1
+34,F,0,1,"IG, FB",3,0
+22,M,1,0,"IG, FB",2,1
+25,F,0,0,"IG, FB, Youtube",3,1
+33,M,0,1,"IMO, WA, IG",2,0
+20,F,0,0,"IG, FB",2,1
+22,M,0,1,"IG, FB, GMail",2,0
+22,F,0,1,"Gojek, Grab, BCA",8,0
+32,F,0,1,"FB, IG, Line",4,0
+22,M,1,0,"WA, FB, Telegram",2,0
+30,M,1,1,"IG, WA, FB",6,1
+30,M,0,1,"LOL, PUBG",8,1
+29,M,0,1,IG,6,0
+83,M,1,0,"Tik tok, IG, Spotify",4,1
+28,M,0,0,"WA, IG",1,1
+31,F,0,0,"WA, IG",2,1
+18,M,0,0,"Tik tok, IG, Spotify",3,1
+19,M,0,1,IG,4,1
+19,M,0,0,FB,5,1
+24,F,0,1,TWITTER,6,1
+22,F,0,1,IG,8,1
+23,F,0,1,LINKEDIN,7,1
+34,M,0,1,FB,7,0
+44,F,0,1,IG,5,1
+66,F,0,1,YOUTUBE,6,1
+66,F,0,1,IG,8,1
+33,M,1,1,YOUTUBE,8,1
+56,F,1,0,TWITTER,7,1
+43,F,1,0,YOUTUBE,4,1
+67,M,0,1,FB,1,0
+32,M,1,1,"FB,YOUTUBE",1,1
+28,m,0,0,"IG, youtube",4,1
+30,F,0,1,IG,3,0
+25,M,0,1,FB,1,0
+26,M,0,1,TWITTER,1,0
+25,M,0,0,FB,2,1
+26,M,0,0,YOUTUBE,1,1
+34,F,1,1,IG,5,1
+22,M,1,0,YOUTUBE,5,1
+25,M,1,1,SNAPCHAT,5,1
+33,F,1,1,FB,3,1
+20,M,1,1,SNAPCHAT,2,1
+22,M,1,1,WA,3,0
+22,M,1,1,WA,2,1
+32,M,1,1,YOUTUBE,3,1
+22,M,1,0,FB,6,1
+30,F,1,1,WA,6,0
+30,F,1,1,"IG, WA",1,1
+29,F,1,1,"IG, WA",2,1
+83,M,1,0,"IG, WA",2,1
+28,F,1,1,"IG, WA",1,1
+31,M,1,0,"IG, WA",2,1
+18,F,1,0,"WA, FB",2,1
+19,M,1,0,"WA, IG, Snapchat",1,1
+19,M,1,1,FB,1,1
+24,M,1,0,"WA, IG, Google",2,0
+22,M,1,1,"WA, IG, FB",2,0
+23,M,1,1,"IG, WA, Youtube",3,1
+22,M,1,1,"WA, IG",1,0
+20,F,1,1,"WA, IG, Youtube",1,1
+58,M,1,1,"IG, FB",2,1
+20,F,1,1,"IG, Linkedln",2,1
+52,M,1,1,"IG, FB",4,1
+57,M,1,1,"IG, Linkedln",2,1
+49,M,1,1,"IG, FB",4,1
+58,M,1,1,"IG, Twitter, Youtube",2,1
+60,F,1,0,"IG, Twitter, Youtube",6,1
+30,M,1,1,"IG, FB",4,1
+30,F,1,1,"FB, WA, IG",1,1
+30,F,0,0,"IG, FB",8,1
+30,F,1,1,"WA, IG",8,1
+24,M,1,1,"WA, IG",3,1
+26,M,1,1,"Tik tok, IG, Spotify",8,1
+30,M,1,1,IG,3,1
+29,M,1,0,FB,2,1
+23,M,1,0,TWITTER,2,1
+26,F,1,1,IG,5,1
+26,M,1,1,LINKEDIN,4,1
+32,F,1,0,FB,6,0
+26,M,1,1,IG,6,0
+30,M,1,1,YOUTUBE,6,1
+28,M,1,0,IG,6,1
+29,M,0,0,YOUTUBE,8,0
+29,M,1,1,TWITTER,8,1
+28,M,1,1,YOUTUBE,8,1
+36,F,0,1,FB,8,1
+22,M,1,1,"FB,YOUTUBE",2,1
+18,M,0,1,"IG, youtube",8,1
+20,M,0,1,IG,8,1
+20,F,0,1,FB,10,1
+25,M,0,1,TWITTER,8,1
+39,F,1,1,FB,1,0
+25,F,1,1,YOUTUBE,3,0
+45,F,0,1,IG,4,1
+28,M,1,0,YOUTUBE,5,1
+36,M,1,1,SNAPCHAT,6,1
+28,F,1,1,FB,8,1
+21,F,1,1,SNAPCHAT,8,0
+26,M,1,0,WA,4,0
+26,M,1,1,WA,8,0
+35,F,1,0,YOUTUBE,1,1
+21,F,1,1,FB,3,1
+26,M,1,1,WA,8,1
+23,M,0,1,"IG, WA",1,1
+35,F,1,1,"IG, WA",2,1
+34,M,1,0,"IG, WA",1,1
+22,M,1,1,"IG, WA",4,1
+29,F,1,1,"IG, WA",3,1
+21,F,1,1,"WA, FB",5,0
+26,F,1,0,"WA, IG, Snapchat",2,0
+24,M,0,1,FB,1,0
+16,M,1,0,"WA, IG, Google",1,1
+33,M,1,1,"WA, IG, FB",8,1
+35,M,0,1,"IG, WA, Youtube",5,1
+30,F,0,1,"WA, IG",3,1
+12,F,0,1,"WA, IG, Youtube",8,1
+22,F,1,1,"IG, FB",5,0
+52,F,1,1,"IG, Linkedln",1,1
+23,M,1,1,"IG, FB",2,1
+34,F,1,1,"IG, Linkedln",1,1
+44,F,1,1,"IG, FB",7,1
+23,M,1,1,"IG, Twitter, Youtube",4,1
+40,F,1,0,"IG, Twitter, Youtube",8,1
+20,F,0,1,"IG, FB",8,1
+34,F,1,1,"FB, WA, IG",8,1
+45,F,1,1,"IG, FB",8,1
+40,M,1,1,"IG, WA",7,1
+25,M,0,1,"IG, WA",2,1
+45,F,1,1,"IG, WA",7,1
+49,F,1,0,"IG, WA",1,1
+24,F,1,0,"IG, WA",2,1
+25,F,1,1,"WA, FB",2,1
+19,F,1,0,"WA, IG, Snapchat",2,1
+25,F,1,1,FB,2,1
+15,M,1,0,"WA, IG, Google",2,1
+45,M,1,1,"WA, IG, FB",8,1
+67,M,0,0,"IG, WA, Youtube",3,1
+42,M,0,0,"WA, IG",5,1
+34,M,1,0,"WA, IG, Youtube",5,1
+15,F,0,0,"IG, FB",1,1
+56,M,1,1,"IG, Linkedln",5,1
+14,F,1,1,"IG, FB",2,1
+56,M,1,0,"IG, Linkedln",7,1
+34,M,1,0,"IG, FB",1,1
+21,M,1,1,"IG, Twitter, Youtube",1,1
+34,M,1,0,"IG, Twitter, Youtube",3,1
+14,F,1,1,"IG, FB",5,1
+18,M,1,1,"FB, WA, IG",1,1
+16,M,1,1,"IG, FB",5,1
+23,M,1,0,FB,2,0
+56,M,1,1,TWITTER,4,1
+23,F,1,1,YOUTUBE,3,1
+24,F,1,1,SNAPCHAT,5,1
+17,M,1,0,IG,5,1
+14,M,1,0,FB,2,1
+56,M,1,0,WA,2,1
+27,M,1,0,FB,2,1
+24,M,1,1,WA,5,1
+34,F,1,1,IG,8,1
+19,F,0,1,"FB, WA, IG",2,1
+19,F,0,0,"FB, WA, IG",3,1
+29,M,1,1,"IG, WA, Youtube",2,1
+28,M,1,1,"FB, WA, IG",2,0
+45,M,0,1,"IG, WA, Youtube",2,1
+30,M,1,1,"FB, WA, IG",8,1
+36,F,1,1,"IG, FB, Twitter",4,0
+50,F,1,1,"IG, FB",2,1
+31,M,1,1,"IG, FB, Twitter",6,0
+38,M,1,1,"IG, WA",8,0
+30,M,1,1,"IG, FB, Twitter",6,0
+29,M,1,1,"IG, FB, WA",4,0
+29,M,1,1,"IG, Twitter, FB",1,1
+35,M,0,1,"IG, FB, Twitter",2,1
+26,F,0,1,"IG, FB",3,0
+29,M,1,1,"Youtube, IG, Skype",4,1
+45,M,1,1,"Linkedin, IG",5,1
+39,F,1,1,"Youtube, FB",6,1
+33,M,1,1,"IG, FB",8,1
+34,M,0,1,"IG, FB, WA",7,1
+32,F,0,1,"IG. Twitter, FB",7,1
+30,M,0,1,"IG, Snapchat, Twitter",5,1
+33,F,1,1,"IG, Twitter, Snapchat",6,1
+33,M,1,1,"IG, WA, FB",8,1
+33,F,0,1,"IG, FB, IG",8,0
+60,M,1,1,"IG, WA",7,1
+62,F,1,1,"FB, IG",4,1
+65,F,1,1,"FB, WA, IG",1,1
+28,M,1,1,"Linkedin, IG",1,1
+28,M,1,1,"Youtube, FB",4,1
+30,M,1,1,"Tik tok, IG, Spotify",3,1
+18,M,1,1,"Tik tok, IG, Spotify",1,0
+24,M,1,1,"FB, Tinder",1,1
+32,M,0,1,"FB, IG",2,1
+35,F,0,0,"IG, FB",1,0
+32,M,1,1,"IG, Line, WA",5,0
+34,M,1,1,"WA, Google, Mail",5,0
+30,M,1,1,Not use,5,1
+34,F,1,1,"Wa, FB",3,1
+60,F,0,1,i done use any,2,1
+58,F,0,1,"Bit Coin, WA",3,1
+48,M,0,1,WA,2,1
+54,F,0,1,"IG, Line, WA",3,1
+47,F,1,1,"FB, IG, Snapchat",6,1
+55,F,1,1,"Tik tok, IG, Spotify",6,0
+28,M,1,1,WA,1,1
+30,F,1,1,Snapchat,2,1
+23,F,1,0,"IG, WA, Tinder",2,1
+23,M,1,1,"Line, IG, Twitter",1,0
+32,M,1,1,"Ig, Snapchat, FB",2,1
+17,m,1,0,"FB, Twitter",2,1
+32,F,1,1,"IG, FB",1,1
+32,M,1,0,"IG, Twitter",1,1
+27,M,1,0,"WA, FB, Gmail",2,1
+28,M,1,0,"IG, FB, WA",2,1
+33,M,1,0,"IG, FB, Gmail, Hangout",2,1
+33,F,1,1,"IG, Email, Youtube",1,1
+33,F,1,1,"IG, Camera",4,0
+28,M,1,0,"IG, FB, Twitter",8,0
+28,M,1,1,"IG, WA",2,1
+28,F,1,1,"IG, Email, Youtube",8,0
+28,F,1,1,"IG, FB, Pinterest",5,1
+28,F,1,1,"WA, Google",6,1
+65,M,1,1,"WA, FB",6,1
+70,F,1,1,"email, FB",3,1
+39,F,1,1,"IG, FB, Pinterest",2,1
+16,M,1,1,"IG, FB",3,1
+27,M,1,1,"FB, IG",2,1
+43,M,1,0,"IG, WA",2,1
+16,M,1,1,"IG, WA",2,1
+25,M,1,1,"WA, FB",8,1
+25,M,1,1,"WA, IG, Snapchat",4,1
+29,F,1,1,FB,2,1
+30,F,1,1,"WA, IG, Google",6,1
+29,F,1,1,"WA, IG, FB",8,1
+30,F,0,0,"IG, WA, Youtube",6,1
+34,F,1,1,"WA, IG",4,1
+30,F,1,1,"WA, IG, Youtube",1,1
+24,F,1,0,"IG, FB",2,1
+32,F,1,0,"IG, Linkedln",3,1
+34,F,1,0,"IG, FB",4,0
+26,F,1,1,"IG, Linkedln",5,0
+26,F,1,1,"IG, FB",6,1
+25,M,1,1,"IG, Twitter, Youtube",8,1
+55,M,1,1,"IG, Twitter, Youtube",7,0
+57,F,1,1,"IG, FB",7,1
+28,F,1,1,"FB, WA, IG",5,1
+30,F,1,1,"IG, FB",6,1
+25,M,0,0,FB,8,1
+26,M,1,1,TWITTER,8,1
+25,M,1,1,YOUTUBE,7,1
+26,F,0,1,SNAPCHAT,4,1
+34,F,1,0,IG,1,1
+22,M,0,1,FB,1,0
+25,M,0,1,WA,4,0
+33,M,0,1,FB,3,1
+20,M,0,1,WA,1,1
+22,F,1,1,IG,1,1
+22,M,1,1,"FB, WA, IG",2,1
+32,M,0,1,"FB, WA, IG",1,0
+22,M,1,1,"IG, WA, Youtube",5,0
+30,M,1,0,"FB, WA, IG",5,0
+30,F,1,0,"IG, WA, Youtube",5,0
+29,F,1,1,"FB, WA, IG",3,0
+83,M,1,0,"IG, FB, Twitter",2,1
+28,M,1,1,"IG, FB",3,1
+31,M,1,1,"IG, FB, Twitter",2,1
+18,M,1,1,"IG, WA",3,0
+19,M,1,1,"IG, FB, Twitter",6,0
+19,F,0,1,"IG, FB, WA",6,0
+24,F,1,1,"IG, Twitter, FB",1,0
+22,F,1,1,"IG, FB, Twitter",2,0
+23,M,1,1,"IG, FB",2,0
+22,M,1,1,"Youtube, IG, Skype",1,0
+20,M,1,1,"Linkedin, IG",2,0
+58,M,1,1,"Youtube, FB",2,0
+20,F,0,1,"IG, FB",1,0
+52,F,1,1,"IG, FB, WA",1,0
+57,M,1,1,"IG. Twitter, FB",2,0
+49,M,0,1,"IG, Snapchat, Twitter",2,0
+58,M,0,1,"IG, Twitter, Snapchat",3,0
+60,M,0,1,"IG, WA, FB",1,0
+30,M,1,1,"IG, FB, IG",1,0
+30,M,1,1,"IG, WA",2,0
+30,F,1,0,"FB, IG",2,0
+30,M,1,0,"FB, WA, IG",4,0
+24,M,1,1,"WA, FB",2,0
+26,F,1,1,"Snapchat, IG",4,0
+30,M,1,0,"FB, WA, IG",2,0
+29,M,0,1,"FB, WA, IG",6,0
+23,F,1,1,"FB, IG",4,0
+26,M,1,1,"IG, FB",1,0
+26,F,1,1,"Booking, TA",8,1
+32,M,0,1,"IG, WA, FB",8,0
+26,F,1,1,"FB, IG, Line",3,0
+30,M,1,1,"IG, WA, FB",8,0
+28,F,1,1,"IG, Tinder",3,0
+29,F,1,0,IG,2,0
+29,M,1,0,"IG, FB",2,0
+28,M,1,1,"FB, WA, IG",5,0
+36,M,1,1,"IG, WA, FB",4,0
+22,M,1,1,"WA, FB",6,0
+18,M,0,1,"WA, FB, IMO",6,1
+20,M,0,0,"IG, FB",6,0
+20,F,1,0,"IG, WA",6,0
+25,M,0,0,"FB, WA",8,0
+39,M,1,0,"FB, IG",8,0
+25,M,1,0,"IG, WA",8,1
+45,F,1,1,"IG, FB, WA",8,0
+28,F,1,1,IG,2,1
+36,F,1,1,"IG, Gmail",8,0
+28,M,1,0,"IG, FB, WA",8,0
+21,F,1,0,"IG, FB, WA",10,0
+26,F,1,0,"IG, FB, WA",8,0
+26,F,1,0,"IG, FB",1,0
+35,M,1,0,"IG, FB, Twitter",3,0
+21,F,1,0,"IG, FB, Twiter",4,0
+26,F,1,0,"WA, Hellp Pal",5,1
+23,M,1,0,"Line, Hello Pal",6,1
+35,M,1,0,"FB, WA, IG",8,1
+34,m,1,0,"WA, IG",8,0
+22,F,1,0,"WA, FB, IG",4,0
+29,M,1,0,"FB, WA, IG",8,0
+21,M,1,0,"IG, WA",1,0
+26,M,1,0,"IG, FB",3,0
+24,M,0,0,"IG, FB",8,1
+16,F,0,0,"IG, FB",1,0
+33,F,1,0,"IG, FB, Youtube",2,1
+35,M,1,0,"IMO, WA, IG",1,1
+30,M,0,0,"IG, FB",4,0
+12,F,1,0,"IG, FB, GMail",3,0
+22,F,1,0,"Gojek, Grab, BCA",5,0
+52,F,1,0,"FB, IG, Line",2,1
+23,M,1,0,"WA, FB, Telegram",6,1
+34,F,1,0,"IG, WA, FB",6,1
+44,F,1,0,"LOL, PUBG",3,1
+23,M,1,1,IG,2,1
+40,M,1,0,"Tik tok, IG, Spotify",3,0
+20,M,0,0,"WA, IG",2,0
+34,M,0,0,"WA, IG",2,0
+45,M,1,0,"Tik tok, IG, Spotify",2,1
+40,M,1,0,IG,8,0
+25,F,1,0,FB,4,0
+45,F,1,0,TWITTER,2,1
+49,F,0,0,IG,6,0
+24,F,0,0,LINKEDIN,8,1
+25,F,0,1,FB,6,1
+19,F,1,0,IG,4,0
+25,F,1,0,YOUTUBE,1,1
+15,F,1,0,IG,2,0
+45,F,1,0,YOUTUBE,3,0
+67,F,1,1,TWITTER,4,1
+42,F,1,0,YOUTUBE,5,1
+34,M,1,1,FB,6,0
+15,M,1,0,"FB,YOUTUBE",8,0
+56,F,0,0,"IG, youtube",7,0
+14,F,0,0,IG,7,1
+56,F,0,0,FB,5,0
+34,M,1,0,TWITTER,6,0
+21,M,1,0,FB,8,0
+34,M,1,0,YOUTUBE,8,0
+14,F,1,1,IG,7,0
+18,F,1,1,YOUTUBE,4,1
+16,M,0,1,SNAPCHAT,1,1
+23,M,1,0,FB,1,1
+56,M,1,0,SNAPCHAT,4,1
+23,M,1,0,WA,3,1
+24,M,1,0,WA,1,1
+17,F,1,0,YOUTUBE,1,0
+14,F,1,1,FB,2,0
+56,F,1,0,WA,1,1
+27,M,1,1,TWITTER,5,1
+24,F,1,1,YOUTUBE,5,0
+34,M,1,0,FB,5,1
+19,F,1,0,"FB,YOUTUBE",3,1
+19,M,1,0,"IG, youtube",2,1
+29,M,1,1,IG,3,0
+23,M,1,1,FB,2,0
+26,M,1,1,TWITTER,3,1
+26,M,1,1,FB,6,0
+32,M,1,1,YOUTUBE,6,1
+26,F,1,0,IG,1,1
+30,M,1,0,YOUTUBE,2,1
+28,F,1,0,SNAPCHAT,2,1
+29,M,1,1,FB,1,1
+29,M,1,0,SNAPCHAT,2,1
+28,M,1,0,WA,2,0
+36,M,1,1,WA,1,1
+22,F,1,0,YOUTUBE,1,1
+18,M,1,1,FB,2,1
+20,F,1,1,WA,2,0
+20,F,1,0,FB,3,1
+25,F,1,1,"Tik tok, IG, Spotify",1,0
+39,M,1,0,"IG, FB",1,0
+25,M,1,0,"FB, IG, WA",2,0
+45,M,1,1,"FB, IG",2,1
+28,M,0,1,"IG, FB",4,0
+36,M,1,0,"FB, Youtube, Camera",2,1
+28,F,1,0,"FB, WA, IG",4,1
+21,M,1,0,"IG, Maps, FB",2,1
+26,F,1,1,TWITTER,6,1
+26,M,1,0,FB,4,1
+35,M,1,0,YOUTUBE,1,1
+21,M,1,0,IG,8,1
+26,M,1,0,YOUTUBE,8,1
+23,M,1,0,SNAPCHAT,3,1
+35,M,1,0,FB,8,1
+34,F,1,1,SNAPCHAT,3,0
+22,M,1,1,WA,2,1
+29,M,0,1,WA,2,1
+21,M,1,1,YOUTUBE,5,0
+26,F,1,1,FB,4,1
+24,M,0,1,WA,6,1
+16,F,1,0,TWITTER,6,1
+33,F,0,1,YOUTUBE,6,1
+35,F,0,1,FB,6,0
+30,M,0,0,"FB,YOUTUBE",8,0
+12,M,0,0,"IG, youtube",8,1
+22,F,1,1,IG,8,1
+52,F,1,1,FB,8,0
+23,M,0,0,TWITTER,2,1
+34,M,1,0,FB,8,1
+44,F,1,0,YOUTUBE,8,0
+23,F,1,0,IG,10,0
+40,M,1,1,YOUTUBE,8,1
+20,M,1,1,SNAPCHAT,1,1
+34,F,1,1,FB,3,1
+45,M,1,1,SNAPCHAT,4,1
+40,M,1,1,WA,5,1
+25,F,1,1,WA,6,1
+45,F,0,0,YOUTUBE,8,1
+49,F,1,0,FB,8,1
+24,M,1,0,WA,4,1
+25,M,1,1,FB,8,1
+19,M,1,1,"Tik tok, IG, Spotify",1,1
+25,M,1,0,"IG, FB",3,0
+15,F,1,0,"FB, IG, WA",8,1
+45,F,0,1,"FB, IG",1,1
+67,F,1,1,"IG, FB",2,1
+42,F,1,1,"FB, Youtube, Camera",1,1
+34,M,0,1,"FB, WA, IG",4,1
+15,F,0,0,"IG, Maps, FB",3,1
+56,F,0,0,"WA. GVS, FB",5,1
+14,M,1,1,"WA, FB",2,1
+56,F,1,0,"FB, IG, WA",1,1
+34,F,1,1,IG,1,1
+21,F,1,1,"IG, WA",8,1
+34,F,1,0,"WA, IG",5,1
+14,M,1,1,IG,3,1
+18,M,1,0,"FB, IG, WA",8,1
+16,F,0,0,"IG, FB, WA",5,1
+23,F,1,1,"WA, IG, FB",1,1
+56,F,1,1,"IG, FB, WA",2,1
+23,F,1,1,YOUTUBE,1,1
+24,F,0,1,IG,7,1
+17,F,1,1,"IG, FB, Youtube",4,1
+14,M,1,1,"FB, IG, WA",8,1
+56,M,1,1,FB,8,0
+27,M,1,1,"FB, Linked In, Gmail",8,1
+24,M,1,1,"FB, Google, IG",8,1
+34,M,1,1,"WeChat, FB",7,1
+19,F,1,1,"IG, FB",2,1
+19,M,1,1,"IG, FB",7,1
+20,F,0,1,WA,1,1
+22,M,0,1,"WA, FB, IG",2,1
+23,M,1,1,"IG,Google",2,1
+29,M,0,1,"IG, Weibo, Twitter",2,1
+28,M,1,0,"IG, FB, Line",2,1
+45,F,1,0,"FB, Twitter, WA",2,1
+30,M,1,0,"FB, IG, Twitter",8,1
+36,M,1,1,"FB, IG, Youtube",3,0
+50,M,1,1,"FB, Google, IG",5,1
+31,M,1,1,"FB, IG",5,1
+38,F,1,1,"Youtube,IG",1,0
+30,F,1,1,"FB,IG",5,1
+29,M,1,0,"Twitter, IG",2,0
+29,M,1,1,"WA,IG",7,0
+35,M,1,1,"IG, FB",1,0
+26,M,1,1,"IG, FB, Twitter",1,0
+29,M,1,1,"IG, Path, Pinterest",3,1
+45,F,1,1,"IG, WA, Twitter",5,1
+39,F,1,1,"IG, WA",1,0
+33,F,1,1,"FB, WA, IG",5,1
+34,M,1,1,"IG, FB, Twitter",2,1
+32,M,1,1,"Path, Pinterest, Twitter",4,1
+30,M,1,1,"IG, FB, Twitter",3,1
+33,M,0,1,"IG, FB",5,1
+33,F,0,1,"Linked In, Twitter",5,1
+33,F,1,1,"Booking, Tripadvisor",2,1
+60,M,1,1,"IG, FB, Twitter",2,1
+62,M,0,1,"WA,FB",2,1
+65,M,1,1,"FB, IG, WA",5,0
+28,M,1,1,"email,IG",8,1
+28,M,1,1,"email, FB",23,1
+30,M,1,1,"Youtube,FB",5,1
+18,F,1,1,"FB,Snapchat",9,1
+24,M,1,1,"WA,email",2,1
+32,M,1,1,"WA, IG, Snapchat",6,1
+35,F,1,1,"IG, WA, Youtube",2,0
+32,M,0,1,"WA, IG, Snapchat",1,1
+34,M,0,1,"WA, IG, Snapchat",4,1
+30,F,1,1,"FB, IG, WA",5,0
+34,M,1,1,"IG, WA, Youtube",6,0
+60,F,1,1,"WA, IG, Snapchat",5,0
+58,M,1,1,"IG, WA, FB",5,1
+48,F,0,1,"IG, WA, FB",2,1
+54,M,0,1,"WA, IG, Snapchat",2,1
+47,F,0,0,"IG, WA",5,1
+55,F,0,0,"IG, WA",3,1
+28,M,0,0,"IG, WA",2,1
+30,M,1,0,"IG, WA",6,1
+23,M,1,1,"IG, WA",7,0
+23,M,1,1,"WA, FB",6,1
+32,M,0,1,"WA, IG, Snapchat",5,1
+17,M,0,1,FB,2,1
+32,F,0,1,"WA, IG, Google",7,0
+32,M,0,1,"WA, IG, FB",2,1
+27,M,0,0,"IG, WA, Youtube",4,1
+28,M,0,0,"WA, IG",4,1
+33,F,0,0,"WA, IG, Youtube",5,1
+33,F,0,1,"IG, FB",6,1
+33,F,0,1,"WA, IG, Snapchat",6,1
+28,M,0,0,"IG, WA",6,1
+28,F,0,0,"IG, WA",6,1
+28,F,0,1,"IG, WA",6,0
+28,F,0,1,"IG, WA",7,0
+28,M,0,1,"IG, WA",4,1
+65,F,0,1,"WA, FB",4,0
+70,F,0,0,"WA, IG, Snapchat",2,1
+39,M,0,0,FB,6,1
+16,M,0,1,"WA, IG, Google",6,1
+27,m,0,0,"WA, IG, FB",6,1
+43,F,0,1,"IG, WA, Youtube",3,1
+16,M,0,1,"WA, IG",6,1
+25,M,0,0,"WA, IG, Youtube",3,1
+25,M,0,1,"IG, FB",4,1
+29,M,0,0,SNAPCHAT,4,1
+30,F,0,0,WA,3,1
+29,F,1,1,WA,3,1
+30,M,0,1,YOUTUBE,4,1
+34,M,0,1,FB,1,1
+30,F,0,1,WA,5,1
+24,F,0,1,TWITTER,9,1
+32,F,0,1,YOUTUBE,2,1
+34,M,0,1,FB,6,1
+26,F,0,1,"FB,YOUTUBE",2,1
+26,F,0,1,"IG, youtube",1,1
+25,M,0,1,IG,4,0
+55,M,1,1,FB,5,0
+57,M,0,1,TWITTER,6,1
+28,M,0,1,FB,5,1
+30,M,0,1,YOUTUBE,5,0
+25,M,0,1,IG,2,1
+26,F,1,1,YOUTUBE,2,1
+25,F,0,0,SNAPCHAT,5,1
+26,F,1,0,FB,3,1
+34,F,0,0,SNAPCHAT,2,1
+22,F,0,1,WA,6,1
+25,F,0,1,WA,7,1
+33,F,0,1,YOUTUBE,6,1
+20,F,0,1,FB,5,0
+22,F,0,1,WA,2,0
+22,F,0,0,FB,7,1
+32,F,1,1,"Tik tok, IG, Spotify",2,1
+22,M,1,1,"IG, FB",4,1
+30,M,1,1,"FB, IG, WA",4,1
+30,F,0,1,"FB, IG",5,0
+29,F,0,1,"IG, FB",6,0
+83,F,0,1,"FB, Youtube, Camera",6,0
+28,M,0,1,"FB, WA, IG",6,0
+31,M,0,1,"IG, Maps, FB",6,0
+18,M,1,1,"WA. GVS, FB",1,1
+19,F,0,1,"WA, FB",2,1
+19,F,1,1,"FB, IG, WA",1,1
+45,F,1,1,IG,4,0
+49,F,0,1,"IG, WA",3,0
+24,F,0,1,"WA, IG",5,0
+25,M,0,1,IG,2,0
+19,M,1,1,"FB, IG, WA",5,0
+25,F,1,1,"IG, FB, WA",2,0
+15,F,1,1,"WA, IG, FB",3,0
+45,F,1,1,"IG, FB, WA",1,0
+67,M,1,1,YOUTUBE,4,0
+42,M,0,1,IG,3,0
+34,M,0,1,"IG, FB, Youtube",1,0
+15,F,0,1,"FB, IG, WA",5,0
+56,F,1,1,FB,4,0
+14,M,0,1,"FB, Linked In, Gmail",4,0
+56,M,0,1,"FB, Google, IG",5,0
+34,F,1,1,"WeChat, FB",3,0
+21,M,0,1,"IG, FB",5,0
+34,M,1,1,"IG, FB",7,0
+14,M,1,0,WA,8,0
+18,M,0,0,"WA, FB, IG",8,0
+16,M,1,0,"IG,Google",8,0
+23,F,0,0,"IG, Weibo, Twitter",8,0
+56,F,0,0,"IG, FB, Line",2,0
+23,F,1,0,"FB, Twitter, WA",10,0
+24,M,1,0,"FB, IG, Twitter",6,0
+17,F,0,0,"FB, IG, Youtube",2,0
+14,M,0,0,"FB, Google, IG",3,0
+56,F,0,0,"FB, IG",4,0
+27,M,1,0,"Youtube,IG",3,0
+24,M,0,0,"FB,IG",1,0
+34,M,0,0,"Twitter, IG",10,0
+19,M,0,0,"WA,IG",3,0
+19,M,0,0,"IG, FB",3,0
+29,M,0,0,"IG, FB, Twitter",2,0
+23,F,1,0,"IG, Path, Pinterest",3,0
+26,M,1,0,"IG, WA, Twitter",10,1
+26,F,1,0,"IG, WA",4,0
+32,M,1,0,"FB, WA, IG",7,0
+26,M,1,0,"IG, FB, Twitter",2,0
+30,M,1,0,"Path, Pinterest, Twitter",4,0
+28,M,0,0,"IG, FB, Twitter",2,1
+29,F,0,0,"IG, FB",6,0
+29,M,1,0,"Linked In, Twitter",5,1
+28,F,1,0,"Booking, Tripadvisor",3,0
+36,F,0,0,"IG, FB, Twitter",2,0
+22,F,1,0,"WA,FB",2,0
+18,M,1,0,"FB, IG, WA",6,0
+20,M,1,0,"email,IG",4,0
+20,M,0,0,"email, FB",2,0
+25,M,0,0,"Youtube,FB",8,0
+39,M,1,0,"FB,Snapchat",2,1
+25,F,0,0,"WA,email",1,1
+45,M,1,0,"WA, IG, Snapchat",3,1
+28,F,1,1,"IG, WA, Youtube",1,0
+36,M,1,0,"WA, IG, Snapchat",2,0
+28,M,1,0,"WA, IG, Snapchat",5,0
+21,M,1,0,"FB, IG, WA",2,0
+26,M,1,0,"IG, WA, Youtube",5,0
+26,M,0,1,"WA, IG, Snapchat",3,1
+35,M,1,0,"IG, WA, FB",3,0
+21,F,1,1,"IG, WA, FB",4,1
+26,M,1,0,"WA, IG, Snapchat",1,1
+23,M,0,0,"IG, WA",2,0
+35,M,1,1,"IG, WA",1,0
+34,F,0,1,"IG, WA",4,0
+22,M,0,1,"IG, WA",8,1
+29,F,0,1,"IG, WA",2,1
+21,F,1,0,"WA, FB",8,1
+26,F,0,0,"WA, IG, Snapchat",5,1
+24,M,1,1,FB,6,1
+16,M,1,0,"WA, IG, Google",6,0
+33,F,1,0,"WA, IG, FB",3,0
+35,F,1,1,"IG, WA, Youtube",2,0
+30,M,1,0,"WA, IG",3,1
+12,M,1,1,"WA, IG, Youtube",2,0
+22,F,1,0,"FB, Twitter, WA",2,0
+52,F,1,1,"FB, IG, Twitter",2,1
+23,M,1,0,"FB, IG, Youtube",8,0
+34,M,1,0,"FB, Google, IG",4,1
+44,M,0,0,"FB, IG",2,1
+23,F,1,1,"Youtube,IG",6,0
+40,F,1,0,"FB,IG",8,1
+20,F,0,1,"Twitter, IG",6,0
+34,M,1,1,"WA,IG",4,0
+45,M,1,1,"IG, FB",1,1
+40,M,1,1,"IG, FB, Twitter",2,1
+25,F,1,1,"IG, Path, Pinterest",3,0
+45,F,0,1,"IG, WA, Twitter",4,0
+49,M,0,0,"IG, WA",5,0
+24,M,1,1,"FB, WA, IG",6,1
+25,F,1,1,"FB, Twitter, WA",8,0
+19,M,0,0,"FB, IG, Twitter",7,0
+25,M,1,0,"FB, IG, Youtube",7,0
+15,M,1,1,"FB, Google, IG",5,0
+45,M,0,1,"FB, IG",6,0
+67,M,0,1,"Youtube,IG",8,1
+42,F,1,1,"FB,IG",8,1
+34,F,1,0,"Twitter, IG",7,1
+15,F,1,0,"WA,IG",4,1
+56,M,1,0,"IG, FB",1,1
+14,F,1,0,"IG, FB, Twitter",1,1
+56,M,1,0,"IG, Path, Pinterest",4,0
+34,F,1,1,"IG, WA, Twitter",3,0
+21,M,1,1,"IG, WA",1,1
+34,M,1,1,"FB, WA, IG",1,1
+14,M,1,0,"Twitter, IG",2,0
+18,M,1,0,"WA,IG",1,1
+16,M,0,0,"IG, FB",5,1
+23,M,1,0,"IG, FB, Twitter",5,1
+56,F,1,0,"IG, Path, Pinterest",5,0
+23,M,1,0,"IG, WA, Twitter",3,0
+24,F,1,0,"IG, WA",2,1
+17,M,1,0,"FB, WA, IG",3,0
+14,M,1,0,"IG, Twitter, Youtube",2,1
+56,M,1,0,"IG, FB",3,1
+27,M,1,0,"FB, WA, IG",6,1
+24,F,1,0,"IG, FB",6,1
+34,M,1,0,"WA, IG",1,1
+19,F,1,0,"WA, IG",2,1
+19,F,1,0,"Tik tok, IG, Spotify",2,0
+20,F,1,0,IG,1,1
+22,M,1,0,FB,2,1
+23,M,1,0,TWITTER,2,1
+29,M,1,0,IG,1,0
+28,M,1,0,LINKEDIN,1,1
+45,M,1,0,FB,2,0
+30,F,1,0,IG,2,0
+36,M,1,0,YOUTUBE,3,0
+50,F,1,0,IG,1,1
+31,M,0,0,YOUTUBE,1,0
+38,M,1,0,TWITTER,2,1
+30,M,1,0,YOUTUBE,2,1
+29,M,1,0,FB,4,1
+29,M,1,0,"FB,YOUTUBE",2,1
+35,M,1,0,"IG, youtube",4,1
+26,F,1,0,IG,2,1
+29,M,1,0,FB,6,1
+45,M,1,0,TWITTER,4,1
+39,M,1,0,FB,1,1
+33,F,1,0,YOUTUBE,8,1
+34,M,1,1,IG,8,0
+32,F,1,0,YOUTUBE,3,1
+30,F,0,0,SNAPCHAT,8,1
+33,F,1,0,FB,3,0
+33,M,1,0,SNAPCHAT,2,1
+33,M,0,1,WA,2,1
+60,F,1,0,WA,5,1
+62,F,0,1,YOUTUBE,4,1
+65,M,0,0,FB,6,0
+28,M,0,0,WA,6,0
+28,F,0,0,"IG, WA",6,1
+30,F,1,1,"IG, WA",6,1
+18,M,1,0,"IG, WA",8,0
+24,F,0,0,"IG, WA",8,1
+32,F,1,1,"IG, WA",8,1
+35,F,1,1,"WA, FB",8,0
+32,F,1,1,"WA, IG, Snapchat",2,0
+34,M,1,1,FB,8,1
+30,M,1,1,"WA, IG, Google",8,1
+34,M,1,1,"WA, IG, FB",10,1
+60,F,1,1,"IG, WA, Youtube",8,1
+58,F,1,1,"WA, IG",1,1
+48,M,1,1,"WA, IG, Youtube",3,1
+54,M,0,1,"IG, FB",4,1
+47,F,1,1,"IG, Linkedln",5,1
+55,F,1,1,"IG, FB",6,1
+28,F,1,1,"IG, Linkedln",8,1
+30,M,1,1,"IG, FB",8,1
+23,M,1,1,"IG, Twitter, Youtube",4,0
+23,M,1,1,"IG, Twitter, Youtube",8,1
+32,F,0,0,"IG, FB",1,1
+17,F,1,0,"FB, WA, IG",3,1
+32,M,1,0,"IG, FB",8,1
+32,M,0,1,"IG, WA",1,1
+27,F,0,1,"IG, WA",2,1
+28,M,0,1,"IG, WA",1,1
+33,M,1,1,"IG, WA",4,1
+33,M,1,1,"IG, WA",3,1
+33,M,1,0,"WA, FB",5,1
+28,M,1,1,"WA, IG, Snapchat",2,1
+28,F,1,1,FB,1,0
+28,F,1,1,"WA, IG, Google",1,1
+28,F,1,1,"WA, IG, FB",8,0
+28,M,0,1,"IG, WA, Youtube",5,1
+65,F,1,1,"WA, IG",3,1
+70,M,1,1,"WA, IG, Youtube",8,1
+39,F,1,1,"IG, FB",5,0
+16,M,0,1,"IG, Linkedln",1,1
+27,M,1,1,"IG, FB",2,0
+43,M,1,1,"IG, Linkedln",1,0
+16,M,1,1,"IG, FB",7,0
+25,M,1,1,"IG, Twitter, Youtube",4,1
+25,M,1,1,"IG, Twitter, Youtube",8,0
+29,F,1,1,"IG, FB",8,1
+30,M,1,1,"FB, WA, IG",8,1
+29,F,1,1,"IG, FB",8,1
+30,M,0,1,FB,7,1
+34,M,0,1,TWITTER,2,1
+30,M,1,1,YOUTUBE,7,1
+24,M,0,1,SNAPCHAT,1,1
+32,F,1,1,IG,2,1
+34,M,1,1,FB,2,1
+26,F,1,1,WA,2,1
+26,F,1,1,FB,2,0
+25,F,1,1,WA,2,1
+55,M,1,1,IG,8,1
+57,M,1,1,"FB, WA, IG",3,0
+28,M,1,1,"FB, WA, IG",5,1
+30,M,1,1,"IG, WA, Youtube",5,1
+25,M,1,0,"FB, WA, IG",1,1
+26,F,1,0,"IG, WA, Youtube",5,1
+25,M,1,1,"FB, WA, IG",2,0
+26,F,1,1,"IG, FB, Twitter",7,0
+34,M,1,1,"IG, FB",1,1
+22,M,1,1,"IG, FB, Twitter",1,1
+25,M,1,0,"IG, WA",3,0
+33,M,1,0,"IG, FB, Twitter",5,1
+20,M,1,0,"IG, FB, WA",1,1
+22,M,1,0,"IG, Twitter, FB",5,0
+22,F,0,0,"IG, FB, Twitter",2,0
+32,M,0,1,"IG, FB",4,1
+22,M,1,1,"Youtube, IG, Skype",3,1
+30,M,1,1,"Linkedin, IG",5,1
+30,F,0,0,"IG, Twitter, Youtube",5,1
+29,M,1,0,"IG, FB",2,1
+83,F,1,0,"FB, WA, IG",2,1
+28,F,1,0,"IG, FB",2,1
+31,F,1,0,"WA, IG",5,1
+18,M,1,0,"WA, IG",8,1
+19,M,1,0,"Tik tok, IG, Spotify",23,1
+19,F,1,0,IG,5,1
+24,F,1,0,FB,9,0
+34,M,0,0,TWITTER,2,1
+30,M,0,0,IG,6,1
+34,F,1,0,LINKEDIN,2,1
+60,F,1,0,FB,1,1
+58,M,1,0,IG,4,1
+48,M,1,0,YOUTUBE,5,1
+54,F,0,0,IG,6,1
+47,F,0,0,YOUTUBE,5,1
+55,M,0,0,TWITTER,5,1
+28,M,0,0,YOUTUBE,2,1
+30,F,0,0,FB,2,1
+23,F,1,0,"FB,YOUTUBE",5,0
+23,F,1,0,"IG, youtube",3,1
+32,M,1,0,IG,2,0
+17,M,0,0,FB,6,1
+32,M,0,0,TWITTER,7,1
+32,F,0,0,FB,6,1
+27,F,0,0,YOUTUBE,5,0
+28,M,0,0,IG,2,1
+33,M,0,0,YOUTUBE,7,0
+33,F,0,0,SNAPCHAT,2,0
+33,M,0,0,FB,4,0
+28,M,0,0,SNAPCHAT,4,1
+28,M,0,0,WA,5,0
+28,M,0,0,WA,6,1
+28,M,0,0,YOUTUBE,6,1
+28,F,0,1,FB,6,1
+65,F,0,0,WA,6,1
+70,F,0,0,"IG, WA",6,1
+39,M,0,0,"IG, WA",7,1
+16,F,0,0,"IG, WA",4,1
+27,M,0,1,"IG, WA",4,1
+43,F,0,0,"IG, WA",2,1
+16,M,0,1,"WA, FB",6,1
+25,M,0,0,"WA, IG, Snapchat",6,0
+25,M,0,0,FB,6,1
+29,M,0,0,"WA, IG, Google",3,1
+30,M,0,0,"WA, IG, FB",6,0
+29,M,0,0,"IG, WA, Youtube",3,1
+30,F,0,0,"WA, IG",4,1
+34,M,0,0,"WA, IG, Youtube",4,1
+30,F,0,1,"IG, FB",3,1
+24,M,0,1,"IG, Linkedln",3,0
+32,M,0,1,"IG, FB",4,0
+34,M,0,0,"IG, Linkedln",23,1
+26,M,0,0,"IG, FB",5,1
+26,F,0,0,"IG, Twitter, Youtube",9,0
+25,M,0,0,"IG, Twitter, Youtube",2,1
+55,F,0,0,"IG, FB",6,1
+57,F,1,1,"FB, WA, IG",2,0
+28,F,0,1,"IG, FB",1,0
+30,M,0,1,"IG, WA",4,1
+25,M,0,0,"IG, WA",5,1
+26,M,0,0,"IG, WA",6,1
+25,M,1,0,"IG, WA",5,1
+26,M,0,0,"IG, WA",5,1
+34,F,1,0,"WA, FB",2,1
+22,M,0,0,"WA, IG, Snapchat",2,1
+25,F,0,0,FB,5,1
+33,M,0,0,"WA, IG, Google",3,1
+20,M,0,0,"WA, IG, FB",2,1
+22,M,0,0,"IG, WA, Youtube",6,1
+22,M,0,0,"WA, IG",7,0
+32,M,0,0,"WA, IG, Youtube",6,1
+22,M,1,0,"IG, FB",5,1
+30,F,1,0,"IG, Linkedln",2,1
+30,M,1,0,"IG, FB",7,1
+29,M,0,0,"IG, Linkedln",2,1
+83,M,0,0,"IG, FB",4,1
+28,F,0,0,"IG, Twitter, Youtube",4,1
+31,M,0,0,"IG, Twitter, Youtube",5,1
+18,F,0,0,"IG, FB",6,1
+19,F,1,0,"FB, WA, IG",6,1
+19,F,0,0,"IG, FB",6,1
+24,M,1,0,FB,6,0
+22,M,1,0,TWITTER,6,1
+23,F,0,0,YOUTUBE,7,1
+34,F,0,0,SNAPCHAT,4,1
+44,M,0,0,IG,4,1
+66,M,1,0,FB,2,1
+66,F,1,1,WA,6,0
+33,F,1,1,FB,6,0
+56,M,1,1,WA,6,0
+43,F,1,0,IG,3,1
+67,M,0,0,"FB, WA, IG",6,0
+32,F,1,1,"FB, WA, IG",3,0
+33,F,1,1,FB,4,1
